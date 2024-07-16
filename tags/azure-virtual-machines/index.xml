@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Virtual Machines on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-virtual-machines/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-virtual-machines/</link>
     <description>Recent content in Azure Virtual Machines on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-virtual-machines/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-virtual-machines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Practices for Optimizing Virtual Machine Costs in Azure</title>
-      <link>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</guid>
       <description>Optimizing Virtual Machine Costs in Azure: Best Practices As organizations continue to embrace the cloud, managing and reducing costs for virtual machines (VMs) has become a critical priority. This comprehensive guide delves into the best practices you can implement to optimize the costs of your Azure virtual machines.
 Use the Azure VM Selector to Identify the Right VMs for Your Needs The first step in cost optimization is selecting the appropriate virtual machines for your workloads.</description>
     </item>
     
     <item>
       <title>Migrating a Line-of-Business Application to Azure</title>
-      <link>http://example.org/posts/migrating_a_line-of-business_application_to_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_a_line-of-business_application_to_azure/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_a_line-of-business_application_to_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_a_line-of-business_application_to_azure/</guid>
       <description>Migrating a Line-of-Business Application to Azure Overview In this comprehensive guide, you will learn how to assess and migrate a multi-tier application from an on-premises Hyper-V environment to Microsoft Azure. You will leverage Azure Migrate as the central hub for executing the migration, along with a variety of accompanying tools to ensure a successful migration.
 After completing this guide, you will have a thorough understanding of the role of Azure Migrate and related migration tools, as well as the steps required to successfully migrate an on-premises multi-tier application to Azure.</description>
     </item>
     
     <item>
       <title>Migrating Physical Servers to Azure with Azure Migrate</title>
-      <link>http://example.org/posts/migrating_physical_servers_to_azure_with_azure_migrate/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_physical_servers_to_azure_with_azure_migrate/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_physical_servers_to_azure_with_azure_migrate/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_physical_servers_to_azure_with_azure_migrate/</guid>
       <description>Migrating Physical Servers to Azure with Azure Migrate Overview Migrating on-premises physical servers to Azure can be a straightforward process when using the Azure Migrate service. Azure Migrate provides a comprehensive solution to discover, assess, and migrate your on-premises infrastructure to the cloud.
 In this guide, we&amp;rsquo;ll walk through the steps to migrate physical servers to Azure using the Azure Migrate and Modernize tools. This process is useful in various scenarios, including:</description>
     </item>

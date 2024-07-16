@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration Governance on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/collaboration-governance/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/collaboration-governance/</link>
     <description>Recent content in Collaboration Governance on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/collaboration-governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/collaboration-governance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Controlling Microsoft 365 Group Creation- A Comprehensive Guide</title>
-      <link>http://example.org/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</guid>
       <description>Controlling Microsoft 365 Group Creation: A Comprehensive Guide By default, all Microsoft 365 users have the ability to create groups, which can be a beneficial approach as it allows for seamless collaboration without the need for extensive IT involvement. However, in some business scenarios, you may need to restrict who can create these groups to maintain control and ensure compliance with your organization&amp;rsquo;s standards.
 Restricting Group Creation If your organization requires tighter control over group creation, you can restrict Microsoft 365 Groups creation to the members of a specific Microsoft 365 group or security group.</description>
     </item>

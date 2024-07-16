@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AKS on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/aks/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/aks/</link>
     <description>Recent content in AKS on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/aks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/aks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Practices for Securing Container Images in Azure Kubernetes Service (AKS)</title>
-      <link>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
       <description>As container-based workloads become increasingly prevalent, ensuring the security of container images is crucial to avoid introducing vulnerabilities into your deployments. In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing and securing container images in Azure Kubernetes Service (AKS).
 Secure the Images and Runtime Best Practice Guidance:
  Scan your container images for vulnerabilities. Only deploy validated images. Regularly update the base images and application runtime. Redeploy workloads in the AKS cluster.</description>
@@ -20,29 +20,29 @@ Secure the Images and Runtime Best Practice Guidance:
     
     <item>
       <title>Maximize Your Windows Server Licenses and Save on Azure Kubernetes Service</title>
-      <link>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
       <description>Maximizing Your Windows Server Licenses on Azure Kubernetes Service Are you running Windows-based workloads in the cloud? If so, you may be able to save a significant amount on your Azure Kubernetes Service (AKS) costs by taking advantage of the Azure Hybrid Benefit program.
 Azure Hybrid Benefit is a licensing program that allows you to use your existing on-premises Windows Server licenses on Azure virtual machines, including those running in AKS.</description>
     </item>
     
     <item>
       <title>Securing Container Images in Azure Kubernetes Service (AKS)</title>
-      <link>http://example.org/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
       <description>Securing Container Images in Azure Kubernetes Service (AKS) Container and container image security is a critical priority when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes can introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools within your containers during the build and runtime phases. The earlier you can identify and address vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     
     <item>
       <title>Secure Your Containers Across Clouds with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is the cloud-native solution for securing your containers, whether they&amp;rsquo;re running in Azure Kubernetes Service (AKS), Amazon Elastic Kubernetes Service (EKS), Google Kubernetes Engine (GKE), or on-premises Kubernetes clusters using Azure Arc.
 Defender for Containers provides a comprehensive set of security capabilities to protect your container-based applications, including:
 Cloud Security Posture Management (CSPM):
@@ -51,29 +51,29 @@ Cloud Security Posture Management (CSPM):
     
     <item>
       <title>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure</title>
-      <link>http://example.org/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
       <description>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure As organizations continue to embrace Kubernetes for their cloud-native applications, managing and optimizing the cost of running these environments becomes a critical concern. One of the key tools in the Kubernetes cost optimization arsenal is the Cluster Autoscaler (CA), a powerful component that can dynamically scale the number of nodes in your Azure Kubernetes Service (AKS) cluster to match the changing demands of your workloads.</description>
     </item>
     
     <item>
       <title>Create an internal load balancer in Azure Kubernetes Service (AKS)</title>
-      <link>http://example.org/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</link>
       <pubDate>Sun, 17 Sep 2023 22:09:00 -0500</pubDate>
       
-      <guid>http://example.org/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</guid>
       <description>As a cluster operator or developer, you may want to create a service in AKS that uses an internal Azure load balancer for enhanced security and without an external endpoint. This article shows you how to create and use an internal load balancer with AKS.
 Before you begin  This article assumes that you have an existing AKS cluster. If you need an AKS cluster, you can create one using Azure CLI, Azure PowerShell, or the Azure portal.</description>
     </item>
     
     <item>
       <title>Securing Your Containers- Best Practices for Container Image Management in Azure Kubernetes Service</title>
-      <link>http://example.org/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
       <description>Containers and container image security are critical priorities when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools in your containers during both the build and runtime stages. The earlier you identify vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     

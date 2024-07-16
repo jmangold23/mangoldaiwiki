@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>simulation on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/simulation/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/simulation/</link>
     <description>Recent content in simulation on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up a Simulated Hybrid Cloud Environment for Testing</title>
-      <link>http://example.org/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
       <description>Setting Up a Simulated Hybrid Cloud Environment for Testing Microsoft Azure provides a flexible and scalable platform for creating test environments that simulate a hybrid cloud setup. This article walks you through the process of setting up a simulated hybrid cloud test environment using two separate Azure virtual networks and a VNet-to-VNet connection.
 This setup simulates a hybrid cloud production environment consisting of:
  A simulated and simplified on-premises network hosted in an Azure virtual network (the TestLab virtual network).</description>

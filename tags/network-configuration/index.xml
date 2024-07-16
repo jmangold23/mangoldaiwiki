@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network Configuration on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/network-configuration/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/network-configuration/</link>
     <description>Recent content in Network Configuration on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/network-configuration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/network-configuration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Virtual Hub Routing in Azure Virtual WAN</title>
-      <link>http://example.org/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</guid>
       <description>Mastering Virtual Hub Routing in Azure Virtual WAN The Azure Virtual WAN service provides a powerful and flexible routing solution for your hybrid and multi-cloud networks. At the heart of this solution is the virtual hub, which serves as the central point of connectivity and routing for your network. In this comprehensive guide, we&amp;rsquo;ll explore how to configure and manage virtual hub routing using the Azure portal, empowering you to optimize your network&amp;rsquo;s performance and connectivity.</description>
     </item>
     

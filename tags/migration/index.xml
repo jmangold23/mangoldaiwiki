@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migration on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/migration/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/migration/</link>
     <description>Recent content in Migration on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seamless Migration of Azure Cloud Services (classic) to Cloud Services (extended support)</title>
-      <link>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_cloud_services_extended_support/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/seamless_migration_of_azure_cloud_services_classic_to_cloud_services_extended_support/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_cloud_services_extended_support/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/seamless_migration_of_azure_cloud_services_classic_to_cloud_services_extended_support/</guid>
       <description>Azure Cloud Services is a widely used Platform-as-a-Service (PaaS) offering that allows developers to focus on building applications without having to manage the underlying infrastructure. Over the years, Microsoft has evolved its cloud platform, introducing new capabilities and deployment models to better serve the evolving needs of customers.
 One such evolution is the introduction of Azure Cloud Services (extended support), which provides several benefits over the classic deployment model. Cloud Services (extended support) offers regional resiliency, feature parity with the classic model, and integration with Azure Resource Manager (ARM) capabilities like role-based access control (RBAC), tags, and policy.</description>
     </item>
     
     <item>
       <title>Migrating from Slack to Microsoft Teams- A Comprehensive Guide</title>
-      <link>http://example.org/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</guid>
       <description>Migrating from Slack to Microsoft Teams can be a complex and daunting task, but with the right plan and strategy, it can be a smooth and successful transition. This comprehensive guide will walk you through the entire process, from assessing your Slack workspaces to rolling out Teams in your organization.
 Plan Your Migration from Slack Understand Your Slack Service Plan Your Slack service plan will determine what you can and can&amp;rsquo;t migrate.</description>
     </item>
     
     <item>
       <title>Migrating to Azure DevOps Services- A Comprehensive Guide</title>
-      <link>http://example.org/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</guid>
       <description>Migrating to Azure DevOps Services: A Comprehensive Guide Moving your on-premises Azure DevOps Server to the cloud-based Azure DevOps Services is a strategic decision that can unlock a world of benefits for your organization. This comprehensive guide will walk you through the entire migration process, from understanding the basics to completing the post-migration tasks.
 Understanding the Migration Process Before embarking on your migration journey, it&amp;rsquo;s essential to familiarize yourself with the key concepts and considerations involved.</description>
     </item>
     
     <item>
       <title>Preparing for a Seamless Migration to Azure DevOps Services</title>
-      <link>http://example.org/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</guid>
       <description>Before you embark on your migration journey from Azure DevOps Server to the cloud-hosted Azure DevOps Services, it&amp;rsquo;s essential to understand the key concepts and considerations to ensure a successful transition. In this comprehensive guide, we&amp;rsquo;ll walk you through the essential steps to get started with the Azure DevOps Data Migration Tool and navigate the intricacies of the migration process.
 Understanding the Data Migration Process The migration from Azure DevOps Server to Azure DevOps Services is not a one-size-fits-all process.</description>
     </item>
     
     <item>
       <title>Get Started with Migrating to Azure DevOps Services</title>
-      <link>http://example.org/posts/get_started_with_migrating_to_azure_devops_services/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_migrating_to_azure_devops_services/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/get_started_with_migrating_to_azure_devops_services/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_migrating_to_azure_devops_services/</guid>
       <description>Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand some key concepts and considerations.
 Included and Excluded Data Not all data gets migrated when moving from Azure DevOps Server to Azure DevOps Services. The migration process includes your team project collection, which contains work items, version control history, build definitions, and more. However, certain data is excluded, such as extensions, service hooks, load test data, pipeline agents/pools, and project server integrations.</description>
     </item>
     
     <item>
       <title>Accelerate Your Cloud Adoption with the Cloud Adoption Framework for Azure</title>
-      <link>http://example.org/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
       <description>The Cloud Adoption Framework for Azure is a comprehensive set of tools, templates, and assessments that can help you quickly implement technical changes and accelerate your cloud adoption journey. This framework covers various phases of the cloud adoption process, from strategy and planning to readiness, governance, migration, innovation, and management.
 Strategy The Cloud Adoption Framework offers several resources to help you define and refine your cloud adoption strategy:
  Cloud Adoption Strategy Evaluator assessment: Assess your current cloud adoption strategy and get recommendations on building and advancing your cloud business case.</description>
@@ -70,40 +70,40 @@ Strategy The Cloud Adoption Framework offers several resources to help you defin
     
     <item>
       <title>Migrating Your Linux Workloads to Azure</title>
-      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</guid>
       <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
 Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
     </item>
     
     <item>
       <title>Azure Migration Execution Guide- A Comprehensive Roadmap to Successful Cloud Transformation</title>
-      <link>http://example.org/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</guid>
       <description>Azure Migration Execution Guide: A Comprehensive Roadmap to Successful Cloud Transformation This comprehensive guide, developed by a team of FastTrack for Azure experts, provides prescriptive guidance for executing a successful migration project to Microsoft Azure. Whether you&amp;rsquo;re migrating your entire infrastructure, modernizing your applications, or expanding your cloud presence, this guide covers the essential steps and best practices to ensure a smooth and efficient transition.
 Key Objectives   Consistent Guidance: The Migration Execution Guide (MEG) delivers well-considered guidance at the business, project, and technical levels to ensure a standardized approach.</description>
     </item>
     
     <item>
       <title>Seamless Migration of Classic IaaS Resources to Azure Resource Manager</title>
-      <link>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</guid>
       <description>Overview of Platform-Supported Migration As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.
 This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model.</description>
     </item>
     
     <item>
       <title>Simplify Your Azure Migration with Azure Migrate</title>
-      <link>http://example.org/posts/simplify_your_azure_migration_with_azure_migrate/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/simplify_your_azure_migration_with_azure_migrate/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/simplify_your_azure_migration_with_azure_migrate/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/simplify_your_azure_migration_with_azure_migrate/</guid>
       <description>Azure Migrate: Your One-Stop Solution for Seamless Cloud Transformation
 In today&amp;rsquo;s rapidly evolving digital landscape, organizations are constantly seeking efficient and reliable ways to migrate their on-premises infrastructure, data, and applications to the cloud. Azure Migrate, a comprehensive service from Microsoft, offers a streamlined approach to this critical journey.
 Unified Migration Platform At the heart of Azure Migrate lies a single, centralized portal that empowers you to start, run, and track your migration to Azure.</description>
@@ -111,10 +111,10 @@ Unified Migration Platform At the heart of Azure Migrate lies a single, centrali
     
     <item>
       <title>Migrating IaaS Resources from Classic to Azure Resource Manager- A Technical Deep Dive</title>
-      <link>http://example.org/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</guid>
       <description>Migrating IaaS Resources from Classic to Azure Resource Manager: A Technical Deep Dive As the Azure platform continues to evolve, the migration from the classic deployment model to the Azure Resource Manager deployment model has become an important part of managing your cloud infrastructure. This comprehensive guide will take you on a deep dive into the technical aspects of this migration process, helping you understand how the Azure platform translates resources between the two deployment models.</description>
     </item>
     

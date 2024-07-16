@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>availability groups on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/availability-groups/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/availability-groups/</link>
     <description>Recent content in availability groups on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/availability-groups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/availability-groups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing a Resilient SQL Server Hybrid Cloud Solution</title>
-      <link>http://example.org/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
       <description>Implementing a Resilient SQL Server Hybrid Cloud Solution Overview In this hands-on lab, you will build a disaster recovery site for an on-premises environment. You will enhance the existing database solution to support a hybrid cloud-based disaster recovery solution, implement an archiving strategy and a backup/restore strategy designed to protect data.
 At the end of the lab, you will be better able to design and use availability sets, Managed Disks, SQL Server Always on Availability Groups, Stretch DB and SQL Server Managed Backup.</description>
     </item>

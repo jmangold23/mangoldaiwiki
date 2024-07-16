@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slack on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/slack/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/slack/</link>
     <description>Recent content in Slack on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/slack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/slack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Slack Messaging with PowerShell- The Send-SlackMsg Cmdlet</title>
-      <link>http://example.org/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
       <description>In today&amp;rsquo;s fast-paced business landscape, effective communication is paramount. As teams become more distributed and remote work becomes the norm, tools like Slack have emerged as essential collaboration platforms. In this comprehensive guide, we&amp;rsquo;ll explore the power of the Send-SlackMsg PowerShell cmdlet, which allows you to seamlessly integrate Slack messaging into your automation workflows.
 Introducing Send-SlackMsg The Send-SlackMsg cmdlet is a powerful tool that enables you to send simple message responses through the Slack Real-Time Messaging (RTM) API.</description>
     </item>
     
     <item>
       <title>Migrating from Slack to Microsoft Teams- A Comprehensive Guide</title>
-      <link>http://example.org/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</guid>
       <description>Migrating from Slack to Microsoft Teams can be a complex and daunting task, but with the right plan and strategy, it can be a smooth and successful transition. This comprehensive guide will walk you through the entire process, from assessing your Slack workspaces to rolling out Teams in your organization.
 Plan Your Migration from Slack Understand Your Slack Service Plan Your Slack service plan will determine what you can and can&amp;rsquo;t migrate.</description>
     </item>
     
     <item>
       <title>Powershell-SlackBot- Harnessing the Power of the Slack Real-Time Messaging API</title>
-      <link>http://example.org/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</guid>
       <description>Powershell-SlackBot: Harnessing the Power of the Slack Real-Time Messaging API This project is a PowerShell implementation of a Chat Bot for Slack that utilises the Slack Real Time Messaging (RTM) API. This code is intended to provide a simple framework for anyone that wants to write a Chat Bot for a single Slack Team that is able to respond to Channel and Direct Messages. It would also be simple to extend the code to permit the Bot to respond to any other events exposed via the RTM API.</description>
     </item>
     
     <item>
       <title>Powershell-SlackBot- A Comprehensive Guide to Building a Slack Bot with PowerShell</title>
-      <link>http://example.org/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</guid>
       <description>Powershell-SlackBot: A Comprehensive Guide to Building a Slack Bot with PowerShell This project is a PowerShell implementation of a Chat Bot for Slack that utilises the Slack Real Time Messaging (RTM) API. This code is intended to provide a simple framework for anyone that wants to write a Chat Bot for a single Slack Team that is able to respond to Channel and Direct Messages. It would also be simple to extend the code to permit the Bot to respond to any other events exposed via the RTM API.</description>
     </item>
     

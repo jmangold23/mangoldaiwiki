@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual Networks on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/virtual-networks/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/virtual-networks/</link>
     <description>Recent content in Virtual Networks on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/virtual-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/virtual-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seamless Migration of Classic IaaS Resources to Azure Resource Manager</title>
-      <link>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</guid>
       <description>Overview of Platform-Supported Migration As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.
 This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model.</description>
     </item>

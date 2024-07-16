@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compute Scheduling on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/compute-scheduling/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/compute-scheduling/</link>
     <description>Recent content in Compute Scheduling on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/compute-scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/compute-scheduling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize Azure Machine Learning Costs- Strategies for Efficient Model Training and Deployment</title>
-      <link>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</guid>
       <description>Optimize Azure Machine Learning Costs: Strategies for Efficient Model Training and Deployment As the demand for machine learning continues to grow, it&amp;rsquo;s critical to manage and optimize the costs associated with training and deploying models on the cloud. Azure Machine Learning provides a powerful platform for building and deploying ML models, but effectively managing the costs can be a challenge. In this in-depth article, we&amp;rsquo;ll explore a range of strategies and best practices to help you optimize your Azure Machine Learning costs.</description>
     </item>
     

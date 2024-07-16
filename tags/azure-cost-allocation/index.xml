@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Cost Allocation on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-cost-allocation/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-cost-allocation/</link>
     <description>Recent content in Azure Cost Allocation on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-cost-allocation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-cost-allocation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gain Cost Visibility and Accountability with Azure Cost Allocation</title>
-      <link>http://example.org/posts/gain_cost_visibility_and_accountability_with_azure_cost_allocation/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/gain_cost_visibility_and_accountability_with_azure_cost_allocation/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/gain_cost_visibility_and_accountability_with_azure_cost_allocation/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/gain_cost_visibility_and_accountability_with_azure_cost_allocation/</guid>
       <description>As organizations increasingly rely on Azure to power their digital transformation, managing and understanding cloud costs becomes a critical priority. This is especially true for large enterprises that centrally manage Azure services or resources, while different internal departments or business units consume them. The centrally managing team often wants to reallocate the cost of the shared services back out to the internal departments or organizational business units who are actively using the services.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SaaS on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/saas/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/saas/</link>
     <description>Recent content in SaaS on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/saas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/saas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Benefits and Differences of Cloud Computing Models</title>
-      <link>http://example.org/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</guid>
       <description>Navigating the Cloud: Unlocking the Power of Public, Private, and Hybrid Models
 In the ever-evolving landscape of technology, cloud computing has emerged as a game-changer, offering organizations a vast array of benefits and deployment options. Whether you&amp;rsquo;re new to the cloud or looking to deepen your understanding, this comprehensive guide will explore the key differences and advantages of public, private, and hybrid cloud models.
 Understanding Cloud Concepts: High Availability, Scalability, and More</description>
@@ -20,10 +20,10 @@ Understanding Cloud Concepts: High Availability, Scalability, and More</descript
     
     <item>
       <title>Understanding Cloud Computing- Exploring the Benefits, Service Models, and Deployment Options</title>
-      <link>http://example.org/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
       <description>Cloud computing has become an integral part of modern technology, transforming the way organizations and individuals approach computing resources. In this comprehensive article, we&amp;rsquo;ll explore the key benefits and considerations of using cloud services, delve into the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS), and compare the public, private, and hybrid cloud deployment models.
 The Benefits and Considerations of Cloud Computing Cloud computing offers a wide range of benefits that can significantly impact an organization&amp;rsquo;s operations and efficiency.</description>
     </item>

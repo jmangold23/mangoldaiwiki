@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cloud/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloud/</link>
     <description>Recent content in cloud on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Cloud Computing- Exploring the Benefits, Service Models, and Deployment Options</title>
-      <link>http://example.org/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
       <description>Cloud computing has become an integral part of modern technology, transforming the way organizations and individuals approach computing resources. In this comprehensive article, we&amp;rsquo;ll explore the key benefits and considerations of using cloud services, delve into the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS), and compare the public, private, and hybrid cloud deployment models.
 The Benefits and Considerations of Cloud Computing Cloud computing offers a wide range of benefits that can significantly impact an organization&amp;rsquo;s operations and efficiency.</description>
     </item>
     
     <item>
       <title>Migrating Your Linux Workloads to Azure</title>
-      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</guid>
       <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
 Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
     </item>

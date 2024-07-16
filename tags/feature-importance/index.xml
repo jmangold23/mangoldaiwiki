@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>feature importance on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/feature-importance/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/feature-importance/</link>
     <description>Recent content in feature importance on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/feature-importance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/feature-importance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unified Approach to Interpreting Model Predictions with SHAP</title>
-      <link>http://example.org/posts/unified_approach_to_interpreting_model_predictions_with_shap/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unified_approach_to_interpreting_model_predictions_with_shap/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unified_approach_to_interpreting_model_predictions_with_shap/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unified_approach_to_interpreting_model_predictions_with_shap/</guid>
       <description>Unified Approach to Interpreting Model Predictions with SHAP In the era of complex and highly accurate machine learning models, a critical challenge has emerged - the tension between model accuracy and interpretability. While advanced models like ensemble methods and deep neural networks can achieve state-of-the-art performance on large, modern datasets, their inner workings often remain opaque, making it difficult for even experts to understand why they make certain predictions.
 To address this issue, researchers Scott M.</description>
     </item>

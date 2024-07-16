@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NET Global Tools on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/net-global-tools/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/net-global-tools/</link>
     <description>Recent content in NET Global Tools on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/net-global-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/net-global-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alternate Ways to Install PowerShell on Linux</title>
-      <link>http://example.org/posts/alternate_ways_to_install_powershell_on_linux/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/alternate_ways_to_install_powershell_on_linux/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/alternate_ways_to_install_powershell_on_linux/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/alternate_ways_to_install_powershell_on_linux/</guid>
       <description>Alternate Ways to Install PowerShell on Linux Microsoft&amp;rsquo;s PowerShell is a powerful cross-platform automation tool that can be installed on various Linux distributions. In addition to the standard installation methods, there are several alternate ways to get PowerShell up and running on your Linux system.
 Snap Package One of the easiest ways to install PowerShell on Linux is through the use of Snap packages. Snap is a container-based packaging format that makes it simple to install and maintain applications across a wide range of Linux distributions.</description>
     </item>

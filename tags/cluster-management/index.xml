@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cluster management on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cluster-management/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cluster-management/</link>
     <description>Recent content in cluster management on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cluster-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cluster-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prescriptive Practices for Deploying and Running Azure Databricks at Scale</title>
-      <link>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
       <description>Planning, deploying, and running Azure Databricks (ADB) at scale requires one to make many architectural decisions. While each ADB deployment is unique to an organization&amp;rsquo;s needs, we have found that some patterns are common across most successful ADB projects. This guide summarizes these patterns into prescriptive and actionable best practices for Azure Databricks.
 We follow a logical path of planning the infrastructure, provisioning the workspaces, developing Azure Databricks applications, and finally, running Azure Databricks in production.</description>
     </item>

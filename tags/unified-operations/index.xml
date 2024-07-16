@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unified Operations on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/unified-operations/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/unified-operations/</link>
     <description>Recent content in Unified Operations on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/unified-operations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/unified-operations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Hybrid and Multicloud Journey with the Microsoft Cloud Adoption Framework</title>
-      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</guid>
       <description>As organizations increasingly embrace cloud computing, their journey towards cloud adoption becomes more complex. The introduction to the hybrid and multicloud scenario outlined in the provided content consolidates various technical and non-technical considerations required to prepare for this journey.
 The key focus of this scenario is to enable two primary outcomes:
  Hybrid and Multicloud Adoption: Building, deploying, and/or migrating solutions that are portable, allowing for ease of movement between cloud platforms with minimum vendor lock-in.</description>
@@ -20,39 +20,39 @@ The key focus of this scenario is to enable two primary outcomes:
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- Strategies for Success</title>
-      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape: Strategies for Success Microsoft Azure provides a comprehensive set of products and features to help organizations build and operate their technology solutions in the cloud. However, many businesses find themselves needing to leverage multiple private and public clouds to meet their specific business requirements. This article outlines Microsoft&amp;rsquo;s perspective on the important cloud computing concepts of hybrid and multicloud, and provides guidance on navigating the associated challenges and opportunities.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- Maximize the Benefits, Minimize the Concerns</title>
-      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape: Maximize the Benefits, Minimize the Concerns As the digital landscape continues to evolve, more and more organizations are embracing the power of hybrid and multicloud environments. Microsoft Azure, as an enterprise-grade cloud provider, offers a comprehensive suite of products and features to help you build and operate your technology solutions across public, hybrid, and multicloud setups.
 Defining Hybrid and Multicloud A hybrid cloud is a type of cloud computing that combines a private cloud (on-premises infrastructure) with a public cloud (computing services offered by third-party providers over the public internet).</description>
     </item>
     
     <item>
       <title>Hybrid and Multicloud- Unlocking the Power of the Cloud</title>
-      <link>http://example.org/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
       <description>Hybrid and Multicloud: Unlocking the Power of the Cloud As businesses strive to remain agile, innovative, and competitive in today&amp;rsquo;s fast-paced digital landscape, the need for a flexible and scalable technology infrastructure has become paramount. Enter the world of hybrid and multicloud computing - a transformative approach that empowers organizations to harness the full potential of cloud technology while addressing the unique challenges they face.
 Microsoft Azure, as a leading enterprise-grade cloud provider, understands the intricacies of this evolving landscape.</description>
     </item>
     
     <item>
       <title>The Power of Hybrid and Multicloud Computing for Mission-Critical Applications</title>
-      <link>http://example.org/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</guid>
       <description>The Power of Hybrid and Multicloud Computing for Mission-Critical Applications As modern businesses strive to stay competitive and agile, the need for a flexible and scalable IT infrastructure has become increasingly crucial. This is where the power of hybrid and multicloud computing shines, offering organizations the ability to seamlessly blend on-premises resources with the vast capabilities of public cloud platforms.
 Understanding Hybrid and Multicloud A hybrid cloud is a computing environment that combines a private cloud (on-premises infrastructure) with a public cloud (services provided by third-party providers over the internet).</description>
     </item>

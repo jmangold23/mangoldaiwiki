@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Budgeting on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/budgeting/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/budgeting/</link>
     <description>Recent content in Budgeting on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/budgeting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/budgeting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Machine Learning Cost Management</title>
-      <link>http://example.org/posts/mastering_azure_machine_learning_cost_management/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_azure_machine_learning_cost_management/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</guid>
       <description>Efficiently Manage and Optimize Costs for Your Azure Machine Learning Workloads
 As you embark on your Azure Machine Learning journey, it&amp;rsquo;s crucial to have a solid understanding of the cost management strategies and best practices to ensure your machine learning initiatives are both impactful and cost-effective. In this comprehensive guide, we&amp;rsquo;ll dive deep into the various aspects of planning, monitoring, and optimizing costs for your Azure Machine Learning resources.
 Estimating Costs Before Getting Started Before you create any resources in your Azure Machine Learning workspace, it&amp;rsquo;s important to estimate the potential costs.</description>
@@ -20,10 +20,10 @@ Estimating Costs Before Getting Started Before you create any resources in your 
     
     <item>
       <title>Optimizing Costs and Monitoring Spending for Microsoft Sentinel</title>
-      <link>http://example.org/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
       <description>Effectively managing and monitoring costs is a crucial aspect of ensuring the long-term success and sustainability of your Microsoft Sentinel deployment. In this comprehensive guide, we&amp;rsquo;ll explore the various tools and techniques available to help you gain visibility into your spending, set budgets, and proactively control costs.
 Understanding Your Costs As you use Azure resources with Microsoft Sentinel, you will inevitably incur costs. These costs can vary based on factors like time intervals (seconds, minutes, hours, days) and usage units (bytes, megabytes).</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure DevOps Data Migration Tool on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-devops-data-migration-tool/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-devops-data-migration-tool/</link>
     <description>Recent content in Azure DevOps Data Migration Tool on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-devops-data-migration-tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-devops-data-migration-tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preparing for a Seamless Migration to Azure DevOps Services</title>
-      <link>http://example.org/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_for_a_seamless_migration_to_azure_devops_services/</guid>
       <description>Before you embark on your migration journey from Azure DevOps Server to the cloud-hosted Azure DevOps Services, it&amp;rsquo;s essential to understand the key concepts and considerations to ensure a successful transition. In this comprehensive guide, we&amp;rsquo;ll walk you through the essential steps to get started with the Azure DevOps Data Migration Tool and navigate the intricacies of the migration process.
 Understanding the Data Migration Process The migration from Azure DevOps Server to Azure DevOps Services is not a one-size-fits-all process.</description>
     </item>

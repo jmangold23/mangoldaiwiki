@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PowerShell on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/powershell/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/powershell/</link>
     <description>Recent content in PowerShell on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Slack Messaging with PowerShell- The Send-SlackMsg Cmdlet</title>
-      <link>http://example.org/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
       <description>In today&amp;rsquo;s fast-paced business landscape, effective communication is paramount. As teams become more distributed and remote work becomes the norm, tools like Slack have emerged as essential collaboration platforms. In this comprehensive guide, we&amp;rsquo;ll explore the power of the Send-SlackMsg PowerShell cmdlet, which allows you to seamlessly integrate Slack messaging into your automation workflows.
 Introducing Send-SlackMsg The Send-SlackMsg cmdlet is a powerful tool that enables you to send simple message responses through the Slack Real-Time Messaging (RTM) API.</description>
     </item>
     
     <item>
       <title>Building PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/building_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Building PowerShell on macOS: A Comprehensive Guide Building PowerShell on macOS is a straightforward process, but there are a few important steps to keep in mind. This guide will walk you through the entire process, from setting up your development environment to building and running PowerShell on your macOS machine.
 Prerequisites Before you begin, you&amp;rsquo;ll need to have a few things installed on your macOS system:
  Homebrew or MacPorts, which are package managers for macOS that will help you install the necessary dependencies.</description>
@@ -30,59 +30,59 @@ Prerequisites Before you begin, you&amp;rsquo;ll need to have a few things insta
     
     <item>
       <title>Mastering Microsoft Teams PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams has become an essential communication and collaboration platform for organizations of all sizes. To effectively manage and configure Teams at scale, administrators often turn to PowerShell, a powerful scripting language that provides a wide range of tools and cmdlets for automating various tasks. In this comprehensive guide, we&amp;rsquo;ll explore the process of installing and utilizing the Microsoft Teams PowerShell module, equipping you with the knowledge and skills to streamline your Teams management effortlessly.</description>
     </item>
     
     <item>
       <title>Controlling Microsoft 365 Group Creation- A Comprehensive Guide</title>
-      <link>http://example.org/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</guid>
       <description>Controlling Microsoft 365 Group Creation: A Comprehensive Guide By default, all Microsoft 365 users have the ability to create groups, which can be a beneficial approach as it allows for seamless collaboration without the need for extensive IT involvement. However, in some business scenarios, you may need to restrict who can create these groups to maintain control and ensure compliance with your organization&amp;rsquo;s standards.
 Restricting Group Creation If your organization requires tighter control over group creation, you can restrict Microsoft 365 Groups creation to the members of a specific Microsoft 365 group or security group.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft Teams with PowerShell</title>
-      <link>http://example.org/posts/mastering_microsoft_teams_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_with_powershell/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_teams_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_with_powershell/</guid>
       <description>Microsoft Teams is a powerful collaboration tool that can greatly enhance productivity and communication within an organization. One of the most effective ways to manage and customize Teams is through the use of PowerShell, a powerful scripting language that allows administrators to automate a wide range of tasks.
 In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can use PowerShell to manage Microsoft Teams, from creating and managing teams and channels to configuring policies and settings.</description>
     </item>
     
     <item>
       <title>Building PowerShell on macOS</title>
-      <link>http://example.org/posts/building_powershell_on_macos/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_macos/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos/</guid>
       <description>Building PowerShell on macOS can be a straightforward process, but there are a few important considerations to keep in mind. This comprehensive guide will walk you through the necessary steps to set up your development environment and successfully build PowerShell on your macOS machine.
 Environment Setup To get started, you&amp;rsquo;ll need to install either Homebrew or MacPorts - the two most popular package managers for macOS. These tools will help you install the required dependencies for building PowerShell.</description>
     </item>
     
     <item>
       <title>Enhance Your PowerShell Development with Visual Studio Code</title>
-      <link>http://example.org/posts/enhance_your_powershell_development_with_visual_studio_code/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/enhance_your_powershell_development_with_visual_studio_code/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/enhance_your_powershell_development_with_visual_studio_code/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/enhance_your_powershell_development_with_visual_studio_code/</guid>
       <description>Visual Studio Code (VS Code) has become a popular integrated development environment (IDE) for PowerShell developers, offering a rich set of features and capabilities that streamline the PowerShell development process. The PowerShell extension for VS Code, maintained by the PowerShell team and the community, provides an exceptional experience for writing, debugging, and managing PowerShell scripts.
 Powerful Features for PowerShell Developers The PowerShell extension for VS Code delivers a wide range of features that enhance the PowerShell development experience:</description>
     </item>
     
     <item>
       <title>Installing PowerShell on Linux- A Comprehensive Guide</title>
-      <link>http://example.org/posts/installing_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/installing_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>PowerShell is a powerful and versatile tool that can be installed on a variety of Linux distributions, each with its own package manager and installation process. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions and the steps to install PowerShell on each of them.
 Supported Linux Distributions PowerShell can be installed on several different Linux distributions, including:
 Alpine Alpine is a lightweight and secure Linux distribution that uses the APK package manager.</description>
@@ -90,10 +90,10 @@ Alpine Alpine is a lightweight and secure Linux distribution that uses the APK p
     
     <item>
       <title>Integrating ARM Templates with Azure Pipelines</title>
-      <link>http://example.org/posts/integrating_arm_templates_with_azure_pipelines/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/integrating_arm_templates_with_azure_pipelines/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/integrating_arm_templates_with_azure_pipelines/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/integrating_arm_templates_with_azure_pipelines/</guid>
       <description>Integrating ARM Templates with Azure Pipelines You can integrate Azure Resource Manager templates (ARM templates) with Azure Pipelines for continuous integration and continuous deployment (CI/CD). In this article, you will learn two more advanced ways to deploy templates with Azure Pipelines.
 Select Your Option Before proceeding, let&amp;rsquo;s consider the different options for deploying an ARM template from a pipeline:
   Use ARM Template Deployment Task: This is the easiest option when you want to deploy a template directly from a repository.</description>
@@ -101,254 +101,254 @@ Select Your Option Before proceeding, let&amp;rsquo;s consider the different opt
     
     <item>
       <title>Mastering the Microsoft Teams PowerShell Module- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</guid>
       <description>Mastering the Microsoft Teams PowerShell Module: A Comprehensive Guide Microsoft Teams is a powerful collaboration platform that has become essential for many organizations. To fully harness the capabilities of Teams, administrators and IT professionals can leverage the Microsoft Teams PowerShell module. This comprehensive guide will walk you through the process of installing, configuring, and utilizing the Microsoft Teams PowerShell module to manage your Teams environment effectively.
 Requirements Before getting started, ensure that your system meets the following requirements:</description>
     </item>
     
     <item>
       <title>Dissecting a Malicious PowerShell Script- A Detailed Analysis</title>
-      <link>http://example.org/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</guid>
       <description>Dissecting a Malicious PowerShell Script: A Detailed Analysis Introduction You&amp;rsquo;ve stumbled upon a puzzling Base64-encoded PowerShell script that appears to have malicious intent. As a cybersecurity professional, your mission is to dive deep into this script, uncover its true nature, and reveal the potential risks it poses to our digital realm. Get ready to embark on a daring quest to safeguard our systems!
 Decoding the Script The first step is to decode the Base64-encoded script.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft 365 Groups with PowerShell</title>
-      <link>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_365_groups_with_powershell/</guid>
       <description>As an administrator, managing Microsoft 365 Groups can be a crucial task to ensure smooth collaboration and information sharing within your organization. PowerShell provides a powerful tool to streamline these management tasks, and this comprehensive guide will walk you through the essential steps.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a direct link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>
     
     <item>
       <title>Managing Microsoft Teams with PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams is a powerful collaboration platform that has become an essential tool for many organizations. As an administrator, managing Teams can be a complex task, but with the help of PowerShell, you can streamline and automate many of the management tasks. In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can use PowerShell to manage your Microsoft Teams environment.
 Creating and Managing Teams with PowerShell The Microsoft Teams PowerShell module provides a set of cmdlets for creating and managing Teams.</description>
     </item>
     
     <item>
       <title>Building PowerShell on Linux- A Step-by-Step Guide</title>
-      <link>http://example.org/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
       <description>Building PowerShell on Linux can be a daunting task, but with the right guidance, it&amp;rsquo;s a rewarding process that can deepen your understanding of the platform. This comprehensive guide will take you through the necessary steps to set up your environment, install the required toolchain, and build PowerShell from the ground up.
 Setting Up Your Environment The first step is to ensure your environment is properly configured for building PowerShell on Linux.</description>
     </item>
     
     <item>
       <title>Unlock the Power of PowerShell Development with Visual Studio Code</title>
-      <link>http://example.org/posts/unlock_the_power_of_powershell_development_with_visual_studio_code/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_powershell_development_with_visual_studio_code/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unlock_the_power_of_powershell_development_with_visual_studio_code/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_powershell_development_with_visual_studio_code/</guid>
       <description>Unlock the Power of PowerShell Development with Visual Studio Code If you&amp;rsquo;re a PowerShell developer, Visual Studio Code (VS Code) is the ultimate tool to take your productivity to new heights. Developed by Microsoft, VS Code is a cross-platform, open-source code editor packed with features that make PowerShell script writing and debugging a breeze.
 Get Started with VS Code and PowerShell To get started, you&amp;rsquo;ll need to install both Visual Studio Code and the PowerShell extension.</description>
     </item>
     
     <item>
       <title>Exploring the &#34;Great Debate&#34; in the PowerShell Community</title>
-      <link>http://example.org/posts/exploring_the_great_debate_in_the_powershell_community/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_great_debate_in_the_powershell_community/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/exploring_the_great_debate_in_the_powershell_community/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_great_debate_in_the_powershell_community/</guid>
       <description>Exploring the &amp;ldquo;Great Debate&amp;rdquo; in the PowerShell Community Introduction The PowerShell community has long been engaged in a series of debates around best practices, coding styles, and various aspects of PowerShell scripting. These discussions, collectively referred to as the &amp;ldquo;Great Debate</description>
     </item>
     
     <item>
       <title>Powershell-SlackBot- Harnessing the Power of the Slack Real-Time Messaging API</title>
-      <link>http://example.org/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</guid>
       <description>Powershell-SlackBot: Harnessing the Power of the Slack Real-Time Messaging API This project is a PowerShell implementation of a Chat Bot for Slack that utilises the Slack Real Time Messaging (RTM) API. This code is intended to provide a simple framework for anyone that wants to write a Chat Bot for a single Slack Team that is able to respond to Channel and Direct Messages. It would also be simple to extend the code to permit the Bot to respond to any other events exposed via the RTM API.</description>
     </item>
     
     <item>
       <title>Manage Microsoft Teams with PowerShell</title>
-      <link>http://example.org/posts/manage_microsoft_teams_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_microsoft_teams_with_powershell/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/manage_microsoft_teams_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_microsoft_teams_with_powershell/</guid>
       <description>Manage Microsoft Teams with PowerShell Managing Microsoft Teams can be a complex task, but with the help of PowerShell, you can streamline many of the administrative duties. In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can leverage PowerShell to manage your Microsoft Teams environment effectively.
 Creating and Managing Teams The Microsoft Teams PowerShell module provides a set of cmdlets for creating, managing, and maintaining your Teams. These cmdlets allow you to perform tasks such as:</description>
     </item>
     
     <item>
       <title>Installing PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/installing_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/installing_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Installing PowerShell on macOS: A Comprehensive Guide PowerShell is a powerful cross-platform automation and configuration management tool that has become an essential part of the modern IT landscape. If you&amp;rsquo;re a macOS user, you&amp;rsquo;ll be glad to know that you can easily install and use PowerShell on your system. This comprehensive guide will walk you through the various installation methods available and help you get started with PowerShell on your Mac.</description>
     </item>
     
     <item>
       <title>Build PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/build_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/build_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/build_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/build_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Building PowerShell on macOS can be a straightforward process, but it&amp;rsquo;s important to follow the right steps and address any potential issues that may arise. This guide will walk you through the process of setting up your development environment, installing the necessary dependencies, and building PowerShell using the provided build module.
 Environment Setup To get started, you&amp;rsquo;ll need to have either Homebrew or MacPorts installed on your macOS machine. These package managers will help you install the required dependencies for building PowerShell.</description>
     </item>
     
     <item>
       <title>Unlock the Power of PowerShell- Essential Scripting Style and Best Practices</title>
-      <link>http://example.org/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</guid>
       <description>In the ever-evolving world of PowerShell, the art of writing efficient, maintainable, and readable code is paramount. This comprehensive guide delves into the essential scripting style and best practices that can elevate your PowerShell prowess to new heights.
 PowerShell, as a powerful scripting language, has become an indispensable tool for system administrators, IT professionals, and automation enthusiasts. However, with great power comes great responsibility. Adopting a set of well-defined best practices can help you navigate the intricacies of PowerShell and ensure your code is not only effective but also easily understandable and reusable.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_a_comprehensive_guide/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_a_comprehensive_guide/</guid>
       <description>Mastering PowerShell: A Comprehensive Guide PowerShell is a powerful and versatile scripting language that has become an essential tool for system administrators, developers, and IT professionals. This comprehensive guide will take you on a journey to explore the various features and capabilities of PowerShell, helping you become a proficient PowerShell user.
 Basic Commands Let&amp;rsquo;s start with the fundamentals of PowerShell. PowerShell provides a set of built-in commands, known as Cmdlets, that are written in .</description>
     </item>
     
     <item>
       <title>Mastering PowerShell- Automating User Management and Service Monitoring</title>
-      <link>http://example.org/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
       <description>Introduction As a PowerShell enthusiast, I&amp;rsquo;m excited to dive into the practical challenges presented in this PowerShell interview scenario. PowerShell is a powerful and versatile tool that can streamline various administrative tasks, and in this post, we&amp;rsquo;ll explore how to tackle the two key scenarios outlined in the provided content.
 Scenario 1: Capitalizing User Names and Assigning Administrator Rights In this scenario, we have a CSV file containing a list of user names that are incorrectly capitalized.</description>
     </item>
     
     <item>
       <title>Navigating the Diverse Perspectives in PowerShell Best Practices</title>
-      <link>http://example.org/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</guid>
       <description>Navigating the Diverse Perspectives in PowerShell Best Practices If you&amp;rsquo;ve spent any time exploring PowerShell code projects, you&amp;rsquo;ve likely noticed that the PowerShell community has a wide range of perspectives on what constitutes the &amp;lsquo;right&amp;rsquo; way to write PowerShell scripts and modules. This diversity of opinions can make it challenging to establish a clear set of best practices that everyone agrees on.
 The introduction provided outlines some of the key factors that have contributed to this lack of consensus over the years.</description>
     </item>
     
     <item>
       <title>Getting Started with PowerShell in Visual Studio Code</title>
-      <link>http://example.org/posts/getting_started_with_powershell_in_visual_studio_code/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_powershell_in_visual_studio_code/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/getting_started_with_powershell_in_visual_studio_code/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_powershell_in_visual_studio_code/</guid>
       <description>Unleashing the Power of PowerShell in Visual Studio Code Visual Studio Code (VS Code) has become a popular code editor for PowerShell developers, offering a comprehensive set of features and tools to streamline your PowerShell workflow. In this comprehensive guide, we&amp;rsquo;ll explore the power of PowerShell within the VS Code environment, covering everything from installation and setup to advanced features and best practices.
 Installing the PowerShell Extension The first step in integrating PowerShell with VS Code is to install the official PowerShell extension.</description>
     </item>
     
     <item>
       <title>Installing and Managing the Microsoft Teams PowerShell Module</title>
-      <link>http://example.org/posts/installing_and_managing_the_microsoft_teams_powershell_module/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_and_managing_the_microsoft_teams_powershell_module/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/installing_and_managing_the_microsoft_teams_powershell_module/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_and_managing_the_microsoft_teams_powershell_module/</guid>
       <description>Installing and Managing the Microsoft Teams PowerShell Module Overview The Microsoft Teams PowerShell module provides a powerful set of cmdlets and tools for managing various aspects of Microsoft Teams, including creating and configuring teams, managing users and permissions, and automating Teams-related tasks. In this comprehensive guide, we&amp;rsquo;ll walk through the process of installing the module, signing in, updating, and uninstalling it, as well as explore the next steps for managing Microsoft Teams using PowerShell.</description>
     </item>
     
     <item>
       <title>Building PowerShell on Linux- A Comprehensive Guide</title>
-      <link>http://example.org/posts/building_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>Building PowerShell on Linux: A Comprehensive Guide If you&amp;rsquo;re a developer looking to build PowerShell on Linux, you&amp;rsquo;ve come to the right place. This guide will walk you through the process step-by-step, ensuring you have a smooth and successful experience.
 Setting Up the Environment The first step is to set up your development environment. This guide assumes you&amp;rsquo;re using Ubuntu 16.04 LTS, as that&amp;rsquo;s the distribution the PowerShell team primarily uses.</description>
     </item>
     
     <item>
       <title>Powershell-SlackBot- A Comprehensive Guide to Building a Slack Bot with PowerShell</title>
-      <link>http://example.org/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</guid>
       <description>Powershell-SlackBot: A Comprehensive Guide to Building a Slack Bot with PowerShell This project is a PowerShell implementation of a Chat Bot for Slack that utilises the Slack Real Time Messaging (RTM) API. This code is intended to provide a simple framework for anyone that wants to write a Chat Bot for a single Slack Team that is able to respond to Channel and Direct Messages. It would also be simple to extend the code to permit the Bot to respond to any other events exposed via the RTM API.</description>
     </item>
     
     <item>
       <title>Unleashing the Power of PowerShell on Linux- A Comprehensive Guide</title>
-      <link>http://example.org/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>PowerShell, the powerful command-line tool developed by Microsoft, has gained widespread adoption across various operating systems, including Linux. If you&amp;rsquo;re a Linux user looking to harness the capabilities of PowerShell, you&amp;rsquo;ve come to the right place. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions, installation methods, and community support options to help you seamlessly integrate PowerShell into your Linux workflow.
 Supported Linux Distributions PowerShell can be installed on a variety of Linux distributions, each with its own package manager.</description>
     </item>
     
     <item>
       <title>Comprehensive Guide to Installing PowerShell on Linux</title>
-      <link>http://example.org/posts/comprehensive_guide_to_installing_powershell_on_linux/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_installing_powershell_on_linux/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/comprehensive_guide_to_installing_powershell_on_linux/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_installing_powershell_on_linux/</guid>
       <description>Comprehensive Guide to Installing PowerShell on Linux PowerShell is a powerful and versatile scripting language and automation tool that runs on a variety of platforms, including Linux. In this comprehensive guide, we&amp;rsquo;ll explore the different methods you can use to install PowerShell on your Linux distribution.
 Snap Package One of the easiest ways to install PowerShell on Linux is through the Snap package manager. Snaps are self-contained application packages that are easy to install, secure, and cross-platform.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>PowerShell, Microsoft&amp;rsquo;s powerful and versatile scripting language, has become an essential tool for administrators and developers working on the macOS platform. Whether you&amp;rsquo;re a seasoned PowerShell enthusiast or new to the technology, this comprehensive guide will walk you through the steps to install, configure, and utilize PowerShell on your macOS system.
 Supported Versions and System Requirements Before we dive into the installation process, it&amp;rsquo;s important to ensure your macOS system meets the necessary requirements.</description>
     </item>
     
     <item>
       <title>Managing Microsoft 365 Groups with PowerShell</title>
-      <link>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</guid>
       <description>As an IT administrator, managing Microsoft 365 Groups can be a crucial task to ensure your organization&amp;rsquo;s collaboration and communication channels are properly set up and secured. This comprehensive guide will walk you through various PowerShell cmdlets and techniques to effectively manage your Microsoft 365 Groups.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell- Best Practices for Efficient and Maintainable Scripts</title>
-      <link>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
       <description>Mastering PowerShell: Best Practices for Efficient and Maintainable Scripts Navigating the Diverse PowerShell Landscape As you dive into the world of PowerShell scripting, you&amp;rsquo;ll quickly realize that the PowerShell community is a diverse and opinionated one. When scanning through code projects on the PoshCode repository or the Microsoft Learn Code Samples Gallery, you&amp;rsquo;ll encounter a wide range of approaches and perspectives on what constitutes &amp;ldquo;best practices</description>
     </item>
     
     <item>
       <title>Alternate Ways to Install PowerShell on Linux</title>
-      <link>http://example.org/posts/alternate_ways_to_install_powershell_on_linux/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/alternate_ways_to_install_powershell_on_linux/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/alternate_ways_to_install_powershell_on_linux/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/alternate_ways_to_install_powershell_on_linux/</guid>
       <description>Alternate Ways to Install PowerShell on Linux Microsoft&amp;rsquo;s PowerShell is a powerful cross-platform automation tool that can be installed on various Linux distributions. In addition to the standard installation methods, there are several alternate ways to get PowerShell up and running on your Linux system.
 Snap Package One of the easiest ways to install PowerShell on Linux is through the use of Snap packages. Snap is a container-based packaging format that makes it simple to install and maintain applications across a wide range of Linux distributions.</description>
     </item>
     
     <item>
       <title>Mastering Debugging in Windows PowerShell ISE</title>
-      <link>http://example.org/posts/mastering_debugging_in_windows_powershell_ise/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_debugging_in_windows_powershell_ise/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_debugging_in_windows_powershell_ise/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_debugging_in_windows_powershell_ise/</guid>
       <description>Debugging scripts can be a critical task for any PowerShell user, and the Windows PowerShell Integrated Scripting Environment (ISE) provides a robust set of visual debugging features to make this process more efficient and effective.
 In this comprehensive guide, we&amp;rsquo;ll explore the various techniques and tools available within the Windows PowerShell ISE to help you debug your scripts with ease.
 Managing Breakpoints At the heart of the debugging process in PowerShell ISE are breakpoints.</description>
@@ -356,10 +356,10 @@ Managing Breakpoints At the heart of the debugging process in PowerShell ISE are
     
     <item>
       <title>Mastering PowerShell Best Practices- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
       <description>Mastering PowerShell Best Practices: A Comprehensive Guide Introduction As a seasoned PowerShell practitioner, you&amp;rsquo;ve likely encountered the diverse perspectives and practices within the PowerShell community. From code projects on PoshCode to the Microsoft Learn Code Samples Gallery, it&amp;rsquo;s clear that PowerShell users have a wide range of opinions on what constitutes &amp;ldquo;right and wrong</description>
     </item>
     

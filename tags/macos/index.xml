@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>macOS on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/macos/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/macos/</link>
     <description>Recent content in macOS on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/building_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Building PowerShell on macOS: A Comprehensive Guide Building PowerShell on macOS is a straightforward process, but there are a few important steps to keep in mind. This guide will walk you through the entire process, from setting up your development environment to building and running PowerShell on your macOS machine.
 Prerequisites Before you begin, you&amp;rsquo;ll need to have a few things installed on your macOS system:
  Homebrew or MacPorts, which are package managers for macOS that will help you install the necessary dependencies.</description>
@@ -20,49 +20,49 @@ Prerequisites Before you begin, you&amp;rsquo;ll need to have a few things insta
     
     <item>
       <title>Mastering Homebrew- Your Comprehensive Guide to the Missing Package Manager for macOS</title>
-      <link>http://example.org/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</guid>
       <description>Mastering Homebrew: Your Comprehensive Guide to the Missing Package Manager for macOS Homebrew is a powerful and versatile package manager that has become an essential tool for macOS users. It simplifies the installation and management of various applications, libraries, and utilities that are not provided by Apple out-of-the-box. Whether you&amp;rsquo;re a developer, system administrator, or a power user, Homebrew can greatly improve your workflow and productivity.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of Homebrew, exploring its features, benefits, and practical applications.</description>
     </item>
     
     <item>
       <title>Building PowerShell on macOS</title>
-      <link>http://example.org/posts/building_powershell_on_macos/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_macos/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos/</guid>
       <description>Building PowerShell on macOS can be a straightforward process, but there are a few important considerations to keep in mind. This comprehensive guide will walk you through the necessary steps to set up your development environment and successfully build PowerShell on your macOS machine.
 Environment Setup To get started, you&amp;rsquo;ll need to install either Homebrew or MacPorts - the two most popular package managers for macOS. These tools will help you install the required dependencies for building PowerShell.</description>
     </item>
     
     <item>
       <title>Installing PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/installing_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/installing_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Installing PowerShell on macOS: A Comprehensive Guide PowerShell is a powerful cross-platform automation and configuration management tool that has become an essential part of the modern IT landscape. If you&amp;rsquo;re a macOS user, you&amp;rsquo;ll be glad to know that you can easily install and use PowerShell on your system. This comprehensive guide will walk you through the various installation methods available and help you get started with PowerShell on your Mac.</description>
     </item>
     
     <item>
       <title>Build PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/build_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/build_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/build_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/build_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Building PowerShell on macOS can be a straightforward process, but it&amp;rsquo;s important to follow the right steps and address any potential issues that may arise. This guide will walk you through the process of setting up your development environment, installing the necessary dependencies, and building PowerShell using the provided build module.
 Environment Setup To get started, you&amp;rsquo;ll need to have either Homebrew or MacPorts installed on your macOS machine. These package managers will help you install the required dependencies for building PowerShell.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>PowerShell, Microsoft&amp;rsquo;s powerful and versatile scripting language, has become an essential tool for administrators and developers working on the macOS platform. Whether you&amp;rsquo;re a seasoned PowerShell enthusiast or new to the technology, this comprehensive guide will walk you through the steps to install, configure, and utilize PowerShell on your macOS system.
 Supported Versions and System Requirements Before we dive into the installation process, it&amp;rsquo;s important to ensure your macOS system meets the necessary requirements.</description>
     </item>

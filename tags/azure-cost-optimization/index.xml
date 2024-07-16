@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Cost Optimization on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-cost-optimization/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-cost-optimization/</link>
     <description>Recent content in Azure Cost Optimization on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-cost-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-cost-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize Azure Costs with the Cost Optimization Workbook</title>
-      <link>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
       <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize your Azure costs. This comprehensive guide will walk you through the various features and capabilities of the workbook, equipping you with the knowledge to make informed decisions and drive cost savings in your Azure environment.
 Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used cost optimization tools and insights.</description>
     </item>
     
     <item>
       <title>Optimize and Simplify Your Azure Migration Journey with CloudSphere</title>
-      <link>http://example.org/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</guid>
       <description>As organizations look to migrate their workloads to the Azure cloud, they face a number of challenges. From discovering and assessing complex on-premises environments to ensuring a seamless and cost-effective migration process, the path to Azure can be daunting.
 Fortunately, CloudSphere provides a comprehensive solution that simplifies and optimizes the entire Azure migration journey. Integrated directly with Azure Migrate, CloudSphere&amp;rsquo;s Discovery and Optimization Insights platform delivers unparalleled visibility, analysis, and recommendations to ensure your migration to Azure is a success.</description>
     </item>

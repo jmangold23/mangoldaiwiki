@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/aws/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/aws/</link>
     <description>Recent content in AWS on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leveraging Microsoft Defender for Containers to Secure Your AWS Workloads</title>
-      <link>http://example.org/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</guid>
       <description>Securing Containers in a Multicloud Environment with Microsoft Defender for Containers As organizations increasingly adopt container technologies and deploy workloads across multiple cloud providers, ensuring the security and visibility of these environments becomes a critical priority. Microsoft Defender for Containers, part of the Microsoft Defender for Cloud solution, provides a comprehensive, cloud-native approach to securing containers across Azure, AWS, and other cloud platforms.
 Enabling Defender for Containers for Your AWS Accounts To get started with protecting your AWS-hosted containers, you&amp;rsquo;ll need to enable the Defender for Containers plan within your Microsoft Defender for Cloud environment.</description>
     </item>
     
     <item>
       <title>Securing Your AWS Container Workloads with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</guid>
       <description>Securing Your AWS Container Workloads with Microsoft Defender for Containers Microsoft Defender for Containers is a powerful cloud-native solution that helps you improve, monitor, and maintain the security of your container-based applications, regardless of where they run. In this comprehensive guide, we&amp;rsquo;ll walk through the steps to enable Defender for Containers for your Amazon Web Services (AWS) container workloads, ensuring your clusters, containers, and applications are protected.
 Prerequisites Before getting started, make sure you have the following in place:</description>
     </item>
     
     <item>
       <title>Securing Your Amazon Web Service (AWS) Containers with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</guid>
       <description>Securing Your Amazon Web Service (AWS) Containers with Microsoft Defender for Containers Microsoft Defender for Containers is a cloud-native solution that helps you improve, monitor, and maintain the security of your Kubernetes clusters, containers, and their applications across multi-cloud and hybrid environments.
 Prerequisites Before you can enable Defender for Containers on your AWS account, make sure you have:
  A Microsoft Azure subscription. If you don&amp;rsquo;t have one, you can sign up for a free Azure subscription.</description>

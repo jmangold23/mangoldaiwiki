@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resource Manager Templates on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/resource-manager-templates/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/resource-manager-templates/</link>
     <description>Recent content in Resource Manager Templates on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/resource-manager-templates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/resource-manager-templates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Continuous Integration and Delivery in Azure Data Factory</title>
-      <link>http://example.org/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
       <description>Continuous Integration and Delivery in Azure Data Factory Continuous integration is the practice of automatically testing each change made to your codebase as early as possible. Continuous delivery then takes the tested changes and pushes them to a staging or production environment.
 In Azure Data Factory, continuous integration and delivery (CI/CD) refers to the process of moving your data pipelines from one environment (like development) to another (like test or production).</description>
     </item>
     
     <item>
       <title>Continuous Integration and Delivery in Azure Data Factory</title>
-      <link>http://example.org/posts/continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/continuous_integration_and_delivery_in_azure_data_factory/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/continuous_integration_and_delivery_in_azure_data_factory/</guid>
       <description>Continuous integration is the practice of testing each change made to your codebase automatically and as early as possible. Continuous delivery follows the testing that happens during continuous integration and pushes changes to a staging or production system.
 In Azure Data Factory, continuous integration and delivery (CI/CD) means moving Data Factory pipelines from one environment (development, test, production) to another. Azure Data Factory utilizes Azure Resource Manager templates to store the configuration of your various ADF entities (pipelines, datasets, data flows, and so on).</description>
     </item>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Defender for Cloud on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/microsoft-defender-for-cloud/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/microsoft-defender-for-cloud/</link>
     <description>Recent content in Microsoft Defender for Cloud on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/microsoft-defender-for-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/microsoft-defender-for-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing Your AWS Container Workloads with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</guid>
       <description>Securing Your AWS Container Workloads with Microsoft Defender for Containers Microsoft Defender for Containers is a powerful cloud-native solution that helps you improve, monitor, and maintain the security of your container-based applications, regardless of where they run. In this comprehensive guide, we&amp;rsquo;ll walk through the steps to enable Defender for Containers for your Amazon Web Services (AWS) container workloads, ensuring your clusters, containers, and applications are protected.
 Prerequisites Before getting started, make sure you have the following in place:</description>
     </item>
     
     <item>
       <title>Microsoft Defender for Cloud Pricing- Comprehensive Security at Scale</title>
-      <link>http://example.org/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
       <description>Microsoft Defender for Cloud is a unified, cloud-native security platform that provides advanced protection for your multicloud and hybrid environments. With flexible pricing options, you can tailor your security coverage to your specific needs and budget.
 Cloud Security Posture Management (CSPM) Microsoft Defender for Cloud offers both foundational and advanced CSPM capabilities:
  Foundational CSPM: This is available for free and includes continuous security assessments, security recommendations, Secure Score, and the Microsoft cloud security benchmark across Azure, AWS, and Google Cloud.</description>

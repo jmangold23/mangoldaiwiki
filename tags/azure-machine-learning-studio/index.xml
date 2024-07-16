@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Machine Learning Studio on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-machine-learning-studio/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-machine-learning-studio/</link>
     <description>Recent content in Azure Machine Learning Studio on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-machine-learning-studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-machine-learning-studio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forecasting Bike Share Rental Demand with Automated Machine Learning</title>
-      <link>http://example.org/posts/forecasting_bike_share_rental_demand_with_automated_machine_learning/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/forecasting_bike_share_rental_demand_with_automated_machine_learning/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/forecasting_bike_share_rental_demand_with_automated_machine_learning/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/forecasting_bike_share_rental_demand_with_automated_machine_learning/</guid>
       <description>Forecasting Bike Share Rental Demand with Automated Machine Learning In this comprehensive tutorial, you&amp;rsquo;ll learn how to create a time-series forecasting model for bike share rental demand using Azure Machine Learning&amp;rsquo;s automated machine learning (AutoML) capabilities. The step-by-step guide takes you through the process without requiring any coding, making it accessible for non-coding data scientists.
 Prerequisites To follow along, you&amp;rsquo;ll need:
  An Azure Machine Learning workspace. You can create one by following the Create workspace resources guide.</description>

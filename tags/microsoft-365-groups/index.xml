@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft 365 Groups on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/microsoft-365-groups/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/microsoft-365-groups/</link>
     <description>Recent content in Microsoft 365 Groups on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/microsoft-365-groups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/microsoft-365-groups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Controlling Microsoft 365 Group Creation- A Comprehensive Guide</title>
-      <link>http://example.org/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/controlling_microsoft_365_group_creation_a_comprehensive_guide/</guid>
       <description>Controlling Microsoft 365 Group Creation: A Comprehensive Guide By default, all Microsoft 365 users have the ability to create groups, which can be a beneficial approach as it allows for seamless collaboration without the need for extensive IT involvement. However, in some business scenarios, you may need to restrict who can create these groups to maintain control and ensure compliance with your organization&amp;rsquo;s standards.
 Restricting Group Creation If your organization requires tighter control over group creation, you can restrict Microsoft 365 Groups creation to the members of a specific Microsoft 365 group or security group.</description>
     </item>
     
     <item>
       <title>Mastering Guest Access in Microsoft 365 Groups</title>
-      <link>http://example.org/posts/mastering_guest_access_in_microsoft_365_groups/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_guest_access_in_microsoft_365_groups/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
       <description>Collaboration and information sharing are essential in today&amp;rsquo;s dynamic work environment, and Microsoft 365 groups provide a powerful platform to facilitate these interactions. However, managing guest access to your organization&amp;rsquo;s groups can be a critical consideration, balancing the need for seamless collaboration with the imperative to maintain data security and compliance.
 In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing guest access in Microsoft 365 groups, empowering you to harness the full potential of this collaborative tool while upholding your organization&amp;rsquo;s security posture.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft 365 Groups with PowerShell</title>
-      <link>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_365_groups_with_powershell/</guid>
       <description>As an administrator, managing Microsoft 365 Groups can be a crucial task to ensure smooth collaboration and information sharing within your organization. PowerShell provides a powerful tool to streamline these management tasks, and this comprehensive guide will walk you through the essential steps.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a direct link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>
     
     <item>
       <title>Unlocking Collaboration with Microsoft 365 Groups</title>
-      <link>http://example.org/posts/unlocking_collaboration_with_microsoft_365_groups/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_collaboration_with_microsoft_365_groups/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unlocking_collaboration_with_microsoft_365_groups/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_collaboration_with_microsoft_365_groups/</guid>
       <description>Unlocking Collaboration with Microsoft 365 Groups Microsoft 365 Groups is a powerful collaboration tool that enables teams across your organization to work together more effectively. By creating a Microsoft 365 Group, you can provide a shared set of resources that team members can access and use to drive their projects forward.
 What are Microsoft 365 Groups? Microsoft 365 Groups is the foundational membership service that powers collaboration across the Microsoft 365 suite.</description>
     </item>
     
     <item>
       <title>Managing Microsoft 365 Groups- Add, Remove, and Assign Owners</title>
-      <link>http://example.org/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</guid>
       <description>Managing Microsoft 365 Groups: Add, Remove, and Assign Owners In the modern workplace, collaboration is key, and Microsoft 365 Groups are an essential tool for bringing teams together. As an administrator, you have the ability to manage group membership and ownership, ensuring your organization&amp;rsquo;s groups are set up for success.
 Adding Members to a Group Adding members to a Microsoft 365 Group is a straightforward process. As an admin, you can access the administrative center and navigate to the Active Groups page.</description>
     </item>
     
     <item>
       <title>Managing Microsoft 365 Groups with PowerShell</title>
-      <link>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</guid>
       <description>As an IT administrator, managing Microsoft 365 Groups can be a crucial task to ensure your organization&amp;rsquo;s collaboration and communication channels are properly set up and secured. This comprehensive guide will walk you through various PowerShell cmdlets and techniques to effectively manage your Microsoft 365 Groups.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>

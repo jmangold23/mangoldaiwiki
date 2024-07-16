@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CloudSphere on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cloudsphere/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloudsphere/</link>
     <description>Recent content in CloudSphere on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloudsphere/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloudsphere/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize and Simplify Your Azure Migration Journey with CloudSphere</title>
-      <link>http://example.org/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</guid>
       <description>As organizations look to migrate their workloads to the Azure cloud, they face a number of challenges. From discovering and assessing complex on-premises environments to ensuring a seamless and cost-effective migration process, the path to Azure can be daunting.
 Fortunately, CloudSphere provides a comprehensive solution that simplifies and optimizes the entire Azure migration journey. Integrated directly with Azure Migrate, CloudSphere&amp;rsquo;s Discovery and Optimization Insights platform delivers unparalleled visibility, analysis, and recommendations to ensure your migration to Azure is a success.</description>
     </item>

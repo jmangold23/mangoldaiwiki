@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>collaboration on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/collaboration/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/collaboration/</link>
     <description>Recent content in collaboration on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating from Slack to Microsoft Teams- A Comprehensive Guide</title>
-      <link>http://example.org/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_from_slack_to_microsoft_teams_a_comprehensive_guide/</guid>
       <description>Migrating from Slack to Microsoft Teams can be a complex and daunting task, but with the right plan and strategy, it can be a smooth and successful transition. This comprehensive guide will walk you through the entire process, from assessing your Slack workspaces to rolling out Teams in your organization.
 Plan Your Migration from Slack Understand Your Slack Service Plan Your Slack service plan will determine what you can and can&amp;rsquo;t migrate.</description>
     </item>
     
     <item>
       <title>Mastering Guest Access in Microsoft 365 Groups</title>
-      <link>http://example.org/posts/mastering_guest_access_in_microsoft_365_groups/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_guest_access_in_microsoft_365_groups/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
       <description>Collaboration and information sharing are essential in today&amp;rsquo;s dynamic work environment, and Microsoft 365 groups provide a powerful platform to facilitate these interactions. However, managing guest access to your organization&amp;rsquo;s groups can be a critical consideration, balancing the need for seamless collaboration with the imperative to maintain data security and compliance.
 In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing guest access in Microsoft 365 groups, empowering you to harness the full potential of this collaborative tool while upholding your organization&amp;rsquo;s security posture.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft 365 Groups with PowerShell</title>
-      <link>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_365_groups_with_powershell/</guid>
       <description>As an administrator, managing Microsoft 365 Groups can be a crucial task to ensure smooth collaboration and information sharing within your organization. PowerShell provides a powerful tool to streamline these management tasks, and this comprehensive guide will walk you through the essential steps.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a direct link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>
     
     <item>
       <title>Managing Microsoft 365 Groups with PowerShell</title>
-      <link>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</guid>
       <description>As an IT administrator, managing Microsoft 365 Groups can be a crucial task to ensure your organization&amp;rsquo;s collaboration and communication channels are properly set up and secured. This comprehensive guide will walk you through various PowerShell cmdlets and techniques to effectively manage your Microsoft 365 Groups.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>

@@ -2,114 +2,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/automation/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/automation/</link>
     <description>Recent content in Automation on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Slack Messaging with PowerShell- The Send-SlackMsg Cmdlet</title>
-      <link>http://example.org/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
       <description>In today&amp;rsquo;s fast-paced business landscape, effective communication is paramount. As teams become more distributed and remote work becomes the norm, tools like Slack have emerged as essential collaboration platforms. In this comprehensive guide, we&amp;rsquo;ll explore the power of the Send-SlackMsg PowerShell cmdlet, which allows you to seamlessly integrate Slack messaging into your automation workflows.
 Introducing Send-SlackMsg The Send-SlackMsg cmdlet is a powerful tool that enables you to send simple message responses through the Slack Real-Time Messaging (RTM) API.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft Teams PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams has become an essential communication and collaboration platform for organizations of all sizes. To effectively manage and configure Teams at scale, administrators often turn to PowerShell, a powerful scripting language that provides a wide range of tools and cmdlets for automating various tasks. In this comprehensive guide, we&amp;rsquo;ll explore the process of installing and utilizing the Microsoft Teams PowerShell module, equipping you with the knowledge and skills to streamline your Teams management effortlessly.</description>
     </item>
     
     <item>
       <title>Managing Microsoft Teams with PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams is a powerful collaboration platform that has become an essential tool for many organizations. As an administrator, managing Teams can be a complex task, but with the help of PowerShell, you can streamline and automate many of the management tasks. In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can use PowerShell to manage your Microsoft Teams environment.
 Creating and Managing Teams with PowerShell The Microsoft Teams PowerShell module provides a set of cmdlets for creating and managing Teams.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell- Automating User Management and Service Monitoring</title>
-      <link>http://example.org/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
       <description>Introduction As a PowerShell enthusiast, I&amp;rsquo;m excited to dive into the practical challenges presented in this PowerShell interview scenario. PowerShell is a powerful and versatile tool that can streamline various administrative tasks, and in this post, we&amp;rsquo;ll explore how to tackle the two key scenarios outlined in the provided content.
 Scenario 1: Capitalizing User Names and Assigning Administrator Rights In this scenario, we have a CSV file containing a list of user names that are incorrectly capitalized.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell Modules- A Comprehensive Guide to Creating Reusable Script Modules</title>
-      <link>http://example.org/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</guid>
       <description>Mastering PowerShell Modules: A Comprehensive Guide to Creating Reusable Script Modules PowerShell is a powerful automation tool that allows you to streamline your daily tasks and improve your productivity. One of the key features of PowerShell is its modular design, which enables you to create and share reusable code snippets called script modules. In this comprehensive guide, we will explore the ins and outs of writing PowerShell script modules, helping you become a more efficient and effective PowerShell user.</description>
     </item>
     
     <item>
       <title>Getting Started with PowerShell in Visual Studio Code</title>
-      <link>http://example.org/posts/getting_started_with_powershell_in_visual_studio_code/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_powershell_in_visual_studio_code/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/getting_started_with_powershell_in_visual_studio_code/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_powershell_in_visual_studio_code/</guid>
       <description>Unleashing the Power of PowerShell in Visual Studio Code Visual Studio Code (VS Code) has become a popular code editor for PowerShell developers, offering a comprehensive set of features and tools to streamline your PowerShell workflow. In this comprehensive guide, we&amp;rsquo;ll explore the power of PowerShell within the VS Code environment, covering everything from installation and setup to advanced features and best practices.
 Installing the PowerShell Extension The first step in integrating PowerShell with VS Code is to install the official PowerShell extension.</description>
     </item>
     
     <item>
       <title>Installing and Managing the Microsoft Teams PowerShell Module</title>
-      <link>http://example.org/posts/installing_and_managing_the_microsoft_teams_powershell_module/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_and_managing_the_microsoft_teams_powershell_module/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/installing_and_managing_the_microsoft_teams_powershell_module/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_and_managing_the_microsoft_teams_powershell_module/</guid>
       <description>Installing and Managing the Microsoft Teams PowerShell Module Overview The Microsoft Teams PowerShell module provides a powerful set of cmdlets and tools for managing various aspects of Microsoft Teams, including creating and configuring teams, managing users and permissions, and automating Teams-related tasks. In this comprehensive guide, we&amp;rsquo;ll walk through the process of installing the module, signing in, updating, and uninstalling it, as well as explore the next steps for managing Microsoft Teams using PowerShell.</description>
     </item>
     
     <item>
       <title>Unleashing the Power of PowerShell on Linux- A Comprehensive Guide</title>
-      <link>http://example.org/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>PowerShell, the powerful command-line tool developed by Microsoft, has gained widespread adoption across various operating systems, including Linux. If you&amp;rsquo;re a Linux user looking to harness the capabilities of PowerShell, you&amp;rsquo;ve come to the right place. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions, installation methods, and community support options to help you seamlessly integrate PowerShell into your Linux workflow.
 Supported Linux Distributions PowerShell can be installed on a variety of Linux distributions, each with its own package manager.</description>
     </item>
     
     <item>
       <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
-      <link>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
       <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
 In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
     </item>
     
     <item>
       <title>Streamline Your Data Migration to Azure Storage with AzCopy</title>
-      <link>http://example.org/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</guid>
       <description>Streamline Your Data Migration to Azure Storage with AzCopy Are you looking to move your on-premises data to the cloud? Azure Storage&amp;rsquo;s AzCopy tool can make the process quick and efficient. In this comprehensive guide, we&amp;rsquo;ll walk you through the steps to seamlessly migrate your data to Azure Storage using AzCopy.
 What is AzCopy? AzCopy is a powerful command-line tool that allows you to copy data to and from Azure Blob storage, Azure Files, and Azure Table storage.</description>
     </item>
     
     <item>
       <title>Deploying a Hybrid App with On-Premises Data that Scales Across Clouds</title>
-      <link>http://example.org/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</guid>
       <description>This comprehensive guide shows you how to deploy a hybrid app that spans both Azure and Azure Stack Hub and uses a single on-premises data source. By using a hybrid cloud solution, you can combine the compliance benefits of a private cloud with the scalability of the public cloud. Your developers can also take advantage of the Microsoft developer ecosystem and apply their skills to the cloud and on-premises environments.</description>
     </item>
     

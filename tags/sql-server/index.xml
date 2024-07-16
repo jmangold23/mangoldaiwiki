@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL Server on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/sql-server/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/sql-server/</link>
     <description>Recent content in SQL Server on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maximize Cost Savings with Azure Hybrid Benefit for Your Windows Server, SQL Server, and Linux Workloads</title>
-      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
       <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by applying your existing Windows Server, SQL Server licenses, and Linux subscriptions. By leveraging this benefit, you can achieve significant savings of up to 85% over the standard pay-as-you-go rates.
 One of the key advantages of the Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to take advantage of the scalability and flexibility of the cloud while still utilizing your existing investments in SQL Server licenses.</description>
     </item>
     
     <item>
       <title>Migrating a Line-of-Business Application to Azure</title>
-      <link>http://example.org/posts/migrating_a_line-of-business_application_to_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_a_line-of-business_application_to_azure/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_a_line-of-business_application_to_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_a_line-of-business_application_to_azure/</guid>
       <description>Migrating a Line-of-Business Application to Azure Overview In this comprehensive guide, you will learn how to assess and migrate a multi-tier application from an on-premises Hyper-V environment to Microsoft Azure. You will leverage Azure Migrate as the central hub for executing the migration, along with a variety of accompanying tools to ensure a successful migration.
 After completing this guide, you will have a thorough understanding of the role of Azure Migrate and related migration tools, as well as the steps required to successfully migrate an on-premises multi-tier application to Azure.</description>
     </item>
     
     <item>
       <title>Implementing a Resilient SQL Server Hybrid Cloud Solution</title>
-      <link>http://example.org/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
       <description>Implementing a Resilient SQL Server Hybrid Cloud Solution Overview In this hands-on lab, you will build a disaster recovery site for an on-premises environment. You will enhance the existing database solution to support a hybrid cloud-based disaster recovery solution, implement an archiving strategy and a backup/restore strategy designed to protect data.
 At the end of the lab, you will be better able to design and use availability sets, Managed Disks, SQL Server Always on Availability Groups, Stretch DB and SQL Server Managed Backup.</description>
     </item>
     
     <item>
       <title>Assessing and Migrating Applications to Azure - A Step-by-Step Guide</title>
-      <link>http://example.org/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</guid>
       <description>In this comprehensive guide, we&amp;rsquo;ll explore the process of assessing an on-premises multi-tier application and migrating it to Microsoft Azure. We&amp;rsquo;ll leverage the powerful suite of tools provided by Azure Migrate to ensure a seamless and efficient migration journey.
 Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a multi-tier application from Hyper-V to Azure. You will learn to use Azure Migrate as the central hub for executing the migration, along with accompanying tools like Microsoft Data Migration Assistant (DMA) and Azure Database Migration Service (DMS).</description>
     </item>
     
     <item>
       <title>Streamlining Azure Hybrid Benefit Management for Significant Cost Savings</title>
-      <link>http://example.org/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
       <description>Centralizing Azure Hybrid Benefit Management for SQL Server Azure Hybrid Benefit is a powerful licensing program that allows you to significantly reduce the costs of running your workloads in the cloud. By bringing your on-premises Software Assurance or subscription-enabled Windows Server and SQL Server licenses to Azure, you can save substantially on your cloud computing expenses.
 One of the key advancements in Azure Hybrid Benefit is the introduction of centralized management capabilities.</description>
     </item>

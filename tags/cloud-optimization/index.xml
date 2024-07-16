@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Optimization on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cloud-optimization/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloud-optimization/</link>
     <description>Recent content in Cloud Optimization on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloud-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlock the Power of Azure Migrate- Your Gateway to Seamless Cloud Transformation</title>
-      <link>http://example.org/posts/unlock_the_power_of_azure_migrate_your_gateway_to_seamless_cloud_transformation/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_azure_migrate_your_gateway_to_seamless_cloud_transformation/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unlock_the_power_of_azure_migrate_your_gateway_to_seamless_cloud_transformation/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_azure_migrate_your_gateway_to_seamless_cloud_transformation/</guid>
       <description>Unlock the Power of Azure Migrate: Your Gateway to Seamless Cloud Transformation Azure Migrate is a comprehensive service that simplifies and streamlines the migration, modernization, and optimization of your IT infrastructure for the cloud. This powerful platform provides a unified experience, a range of assessment and migration tools, and seamless integration with third-party solutions - empowering you to navigate your cloud journey with confidence.
 A Unified Migration Platform At the heart of Azure Migrate lies a single, centralized portal where you can start, run, and track your entire migration to Azure.</description>
     </item>
     
     <item>
       <title>Optimize and Simplify Your Azure Migration Journey with CloudSphere</title>
-      <link>http://example.org/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_simplify_your_azure_migration_journey_with_cloudsphere/</guid>
       <description>As organizations look to migrate their workloads to the Azure cloud, they face a number of challenges. From discovering and assessing complex on-premises environments to ensuring a seamless and cost-effective migration process, the path to Azure can be daunting.
 Fortunately, CloudSphere provides a comprehensive solution that simplifies and optimizes the entire Azure migration journey. Integrated directly with Azure Migrate, CloudSphere&amp;rsquo;s Discovery and Optimization Insights platform delivers unparalleled visibility, analysis, and recommendations to ensure your migration to Azure is a success.</description>
     </item>

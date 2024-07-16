@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Build on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/build/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/build/</link>
     <description>Recent content in Build on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/build/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/building_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Building PowerShell on macOS: A Comprehensive Guide Building PowerShell on macOS is a straightforward process, but there are a few important steps to keep in mind. This guide will walk you through the entire process, from setting up your development environment to building and running PowerShell on your macOS machine.
 Prerequisites Before you begin, you&amp;rsquo;ll need to have a few things installed on your macOS system:
  Homebrew or MacPorts, which are package managers for macOS that will help you install the necessary dependencies.</description>
@@ -20,40 +20,40 @@ Prerequisites Before you begin, you&amp;rsquo;ll need to have a few things insta
     
     <item>
       <title>Building PowerShell on macOS</title>
-      <link>http://example.org/posts/building_powershell_on_macos/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_macos/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_macos/</guid>
       <description>Building PowerShell on macOS can be a straightforward process, but there are a few important considerations to keep in mind. This comprehensive guide will walk you through the necessary steps to set up your development environment and successfully build PowerShell on your macOS machine.
 Environment Setup To get started, you&amp;rsquo;ll need to install either Homebrew or MacPorts - the two most popular package managers for macOS. These tools will help you install the required dependencies for building PowerShell.</description>
     </item>
     
     <item>
       <title>Building PowerShell on Linux- A Step-by-Step Guide</title>
-      <link>http://example.org/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
       <description>Building PowerShell on Linux can be a daunting task, but with the right guidance, it&amp;rsquo;s a rewarding process that can deepen your understanding of the platform. This comprehensive guide will take you through the necessary steps to set up your environment, install the required toolchain, and build PowerShell from the ground up.
 Setting Up Your Environment The first step is to ensure your environment is properly configured for building PowerShell on Linux.</description>
     </item>
     
     <item>
       <title>Build PowerShell on macOS- A Comprehensive Guide</title>
-      <link>http://example.org/posts/build_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/build_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/build_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/build_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Building PowerShell on macOS can be a straightforward process, but it&amp;rsquo;s important to follow the right steps and address any potential issues that may arise. This guide will walk you through the process of setting up your development environment, installing the necessary dependencies, and building PowerShell using the provided build module.
 Environment Setup To get started, you&amp;rsquo;ll need to have either Homebrew or MacPorts installed on your macOS machine. These package managers will help you install the required dependencies for building PowerShell.</description>
     </item>
     
     <item>
       <title>Building PowerShell on Linux- A Comprehensive Guide</title>
-      <link>http://example.org/posts/building_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/building_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>Building PowerShell on Linux: A Comprehensive Guide If you&amp;rsquo;re a developer looking to build PowerShell on Linux, you&amp;rsquo;ve come to the right place. This guide will walk you through the process step-by-step, ensuring you have a smooth and successful experience.
 Setting Up the Environment The first step is to set up your development environment. This guide assumes you&amp;rsquo;re using Ubuntu 16.04 LTS, as that&amp;rsquo;s the distribution the PowerShell team primarily uses.</description>
     </item>

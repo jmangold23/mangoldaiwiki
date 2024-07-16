@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Cloud on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-cloud/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-cloud/</link>
     <description>Recent content in Azure Cloud on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlocking Azure Migration- A Comprehensive Guide to Azure Migrate</title>
-      <link>http://example.org/posts/unlocking_azure_migration_a_comprehensive_guide_to_azure_migrate/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_azure_migration_a_comprehensive_guide_to_azure_migrate/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unlocking_azure_migration_a_comprehensive_guide_to_azure_migrate/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_azure_migration_a_comprehensive_guide_to_azure_migrate/</guid>
       <description>Azure Migrate is a powerful service that simplifies the process of migrating, modernizing, and optimizing your infrastructure in the cloud. Whether you&amp;rsquo;re looking to move your servers, databases, web apps, or virtual desktops to Azure, Azure Migrate provides a unified platform to streamline every step of your cloud journey.
 A Simplified Migration Journey Azure Migrate offers a range of tools to help you assess, migrate, and modernize your on-premises resources. The service provides a single portal to start, run, and track your migration to Azure, ensuring a seamless and efficient experience.</description>
     </item>
     
     <item>
       <title>Simplify Your Azure Migration with Azure Migrate</title>
-      <link>http://example.org/posts/simplify_your_azure_migration_with_azure_migrate/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/simplify_your_azure_migration_with_azure_migrate/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/simplify_your_azure_migration_with_azure_migrate/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/simplify_your_azure_migration_with_azure_migrate/</guid>
       <description>Azure Migrate: Your One-Stop Solution for Seamless Cloud Transformation
 In today&amp;rsquo;s rapidly evolving digital landscape, organizations are constantly seeking efficient and reliable ways to migrate their on-premises infrastructure, data, and applications to the cloud. Azure Migrate, a comprehensive service from Microsoft, offers a streamlined approach to this critical journey.
 Unified Migration Platform At the heart of Azure Migrate lies a single, centralized portal that empowers you to start, run, and track your migration to Azure.</description>

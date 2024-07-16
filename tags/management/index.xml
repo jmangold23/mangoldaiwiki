@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Management on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/management/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/management/</link>
     <description>Recent content in Management on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Microsoft Teams PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams has become an essential communication and collaboration platform for organizations of all sizes. To effectively manage and configure Teams at scale, administrators often turn to PowerShell, a powerful scripting language that provides a wide range of tools and cmdlets for automating various tasks. In this comprehensive guide, we&amp;rsquo;ll explore the process of installing and utilizing the Microsoft Teams PowerShell module, equipping you with the knowledge and skills to streamline your Teams management effortlessly.</description>
     </item>
     
     <item>
       <title>Accelerate Your Cloud Adoption with the Cloud Adoption Framework for Azure</title>
-      <link>http://example.org/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
       <description>The Cloud Adoption Framework for Azure is a comprehensive set of tools, templates, and assessments that can help you quickly implement technical changes and accelerate your cloud adoption journey. This framework covers various phases of the cloud adoption process, from strategy and planning to readiness, governance, migration, innovation, and management.
 Strategy The Cloud Adoption Framework offers several resources to help you define and refine your cloud adoption strategy:
  Cloud Adoption Strategy Evaluator assessment: Assess your current cloud adoption strategy and get recommendations on building and advancing your cloud business case.</description>
@@ -29,10 +29,10 @@ Strategy The Cloud Adoption Framework offers several resources to help you defin
     
     <item>
       <title>Manage Microsoft Teams with PowerShell</title>
-      <link>http://example.org/posts/manage_microsoft_teams_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_microsoft_teams_with_powershell/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/manage_microsoft_teams_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_microsoft_teams_with_powershell/</guid>
       <description>Manage Microsoft Teams with PowerShell Managing Microsoft Teams can be a complex task, but with the help of PowerShell, you can streamline many of the administrative duties. In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can leverage PowerShell to manage your Microsoft Teams environment effectively.
 Creating and Managing Teams The Microsoft Teams PowerShell module provides a set of cmdlets for creating, managing, and maintaining your Teams. These cmdlets allow you to perform tasks such as:</description>
     </item>

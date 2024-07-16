@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cost alerts on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cost-alerts/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cost-alerts/</link>
     <description>Recent content in cost alerts on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cost-alerts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cost-alerts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Cost Management Alerts- Monitoring Usage and Spending with Precision</title>
-      <link>http://example.org/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</guid>
       <description>Effective cost management is crucial for organizations leveraging the power of Microsoft Azure. One of the key tools in the Cost Management arsenal is the ability to set up cost alerts, which can help you stay on top of your Azure usage and spending. In this comprehensive guide, we&amp;rsquo;ll dive deep into the different types of cost alerts, their capabilities, and how to leverage them to gain better control over your Azure costs.</description>
     </item>
     

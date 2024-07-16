@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Storage on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-storage/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-storage/</link>
     <description>Recent content in Azure Storage on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-storage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize Azure Costs with the Cost Optimization Workbook</title>
-      <link>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
       <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize your Azure costs. This comprehensive guide will walk you through the various features and capabilities of the workbook, equipping you with the knowledge to make informed decisions and drive cost savings in your Azure environment.
 Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used cost optimization tools and insights.</description>
     </item>
     
     <item>
       <title>Streamline Your Data Migration to Azure Storage with AzCopy</title>
-      <link>http://example.org/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</guid>
       <description>Streamline Your Data Migration to Azure Storage with AzCopy Are you looking to move your on-premises data to the cloud? Azure Storage&amp;rsquo;s AzCopy tool can make the process quick and efficient. In this comprehensive guide, we&amp;rsquo;ll walk you through the steps to seamlessly migrate your data to Azure Storage using AzCopy.
 What is AzCopy? AzCopy is a powerful command-line tool that allows you to copy data to and from Azure Blob storage, Azure Files, and Azure Table storage.</description>
     </item>

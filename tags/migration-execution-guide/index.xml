@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migration Execution Guide on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/migration-execution-guide/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/migration-execution-guide/</link>
     <description>Recent content in Migration Execution Guide on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/migration-execution-guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/migration-execution-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Migration Execution Guide- A Comprehensive Approach to Azure Migrations</title>
-      <link>http://example.org/posts/navigating_the_migration_execution_guide_a_comprehensive_approach_to_azure_migrations/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_migration_execution_guide_a_comprehensive_approach_to_azure_migrations/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/navigating_the_migration_execution_guide_a_comprehensive_approach_to_azure_migrations/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_migration_execution_guide_a_comprehensive_approach_to_azure_migrations/</guid>
       <description>Navigating the Migration Execution Guide: A Comprehensive Approach to Azure Migrations The Microsoft Azure Migration Execution Guide is a comprehensive resource developed by a team of FastTrack for Azure Program Managers and Engineers, in collaboration with the Microsoft SMC team, the Azure Advanced Cloud Engineering team, and the Customer Success Unit. This guide provides prescriptive guidance for structuring and executing successful Azure migration projects.
 Key Objectives of the Migration Execution Guide   Consistent, Well-Considered Guidance: The guide aims to provide migration execution guidance at the business, project, and technical levels, ensuring a cohesive and well-planned approach.</description>
     </item>
     
     <item>
       <title>Unlock the Power of Azure Migration- A Comprehensive Guide</title>
-      <link>http://example.org/posts/unlock_the_power_of_azure_migration_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_azure_migration_a_comprehensive_guide/</link>
       <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/unlock_the_power_of_azure_migration_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_azure_migration_a_comprehensive_guide/</guid>
       <description>Unlock the Power of Azure Migration: A Comprehensive Guide Introduction Migrating to the cloud can be a daunting task, but with the right guidance and tools, it can be a smooth and successful journey. The Migration Execution Guide, developed by a team of FastTrack for Azure experts, provides comprehensive and prescriptive guidance to help organizations navigate the complexities of Azure migration.
 Key Objectives The Migration Execution Guide aims to:
  Provide Consistent Guidance: Offer well-considered migration execution guidance at the business, project, and technical levels.</description>

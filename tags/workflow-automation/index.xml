@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workflow Automation on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/workflow-automation/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/workflow-automation/</link>
     <description>Recent content in Workflow Automation on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/workflow-automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/workflow-automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Security with Microsoft Defender for Cloud- Improve Your Secure Posture</title>
-      <link>http://example.org/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
       <description>Mastering Azure Security with Microsoft Defender for Cloud: Improve Your Secure Posture In this comprehensive article, we&amp;rsquo;ll explore how you can leverage the powerful features of Microsoft Defender for Cloud to enhance the security posture of your Azure environment. By the end of this post, you&amp;rsquo;ll have a deep understanding of how to use vulnerability assessment for virtual machines and containers, automate recommendation workflows, and access your secure score data using Azure Resource Graph (ARG).</description>
     </item>
     

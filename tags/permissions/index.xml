@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>permissions on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/permissions/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/permissions/</link>
     <description>Recent content in permissions on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/permissions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/permissions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manage Users and Groups with Security Groups in Azure DevOps</title>
-      <link>http://example.org/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
       <description>Effectively managing permissions and access in Azure DevOps is key to ensuring your teams can collaborate efficiently and securely. One of the most powerful tools for this is the use of security groups, which allow you to centrally define and control permissions for users and groups.
 In this comprehensive guide, we&amp;rsquo;ll explore how to leverage security groups in Azure DevOps to streamline user management, assign permissions, and maintain control over your organization&amp;rsquo;s resources.</description>
     </item>
     
     <item>
       <title>Mastering User and Group Management in Azure DevOps</title>
-      <link>http://example.org/posts/mastering_user_and_group_management_in_azure_devops/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_user_and_group_management_in_azure_devops/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_user_and_group_management_in_azure_devops/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_user_and_group_management_in_azure_devops/</guid>
       <description>Azure DevOps provides a powerful and flexible security system that allows you to manage permissions and access for users and groups. By leveraging security groups, you can easily control who can access and perform various actions within your Azure DevOps organization and projects.
 Understanding Security Groups in Azure DevOps Security groups are the foundation for managing permissions and access in Azure DevOps. You can use both default and custom security groups to set permissions at different levels, including project, collection, and object-level.</description>
     </item>
     
     <item>
       <title>Mastering Active Directory Security Groups- An In-Depth Guide</title>
-      <link>http://example.org/posts/mastering_active_directory_security_groups_an_in-depth_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_active_directory_security_groups_an_in-depth_guide/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_active_directory_security_groups_an_in-depth_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_active_directory_security_groups_an_in-depth_guide/</guid>
       <description>Active Directory is a powerful tool for managing user and computer accounts, as well as controlling access to resources within an organization. At the heart of this access control system are security groups, which provide an efficient way to assign permissions and user rights to collections of users, computers, and other groups.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of Active Directory security groups, exploring their functions, scopes, and the default groups that come pre-configured with Windows Server.</description>
     </item>
     
     <item>
       <title>Manage Roles and Permissions in Microsoft Sentinel</title>
-      <link>http://example.org/posts/manage_roles_and_permissions_in_microsoft_sentinel/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_roles_and_permissions_in_microsoft_sentinel/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/manage_roles_and_permissions_in_microsoft_sentinel/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_roles_and_permissions_in_microsoft_sentinel/</guid>
       <description>Roles and Permissions in Microsoft Sentinel Microsoft Sentinel uses Azure role-based access control (Azure RBAC) to provide built-in roles that can be assigned to users, groups, and services in Azure. This allows you to grant appropriate access to Microsoft Sentinel and control what users can see and do.
 Microsoft Sentinel-Specific Roles The built-in Microsoft Sentinel roles and their allowed actions are:
  Microsoft Sentinel Reader: Can view data, incidents, workbooks, and other Microsoft Sentinel resources.</description>

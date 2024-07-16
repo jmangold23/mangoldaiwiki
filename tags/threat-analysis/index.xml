@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>threat analysis on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/threat-analysis/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/threat-analysis/</link>
     <description>Recent content in threat analysis on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/threat-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/threat-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dissecting a Malicious PowerShell Script- A Detailed Analysis</title>
-      <link>http://example.org/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/dissecting_a_malicious_powershell_script_a_detailed_analysis/</guid>
       <description>Dissecting a Malicious PowerShell Script: A Detailed Analysis Introduction You&amp;rsquo;ve stumbled upon a puzzling Base64-encoded PowerShell script that appears to have malicious intent. As a cybersecurity professional, your mission is to dive deep into this script, uncover its true nature, and reveal the potential risks it poses to our digital realm. Get ready to embark on a daring quest to safeguard our systems!
 Decoding the Script The first step is to decode the Base64-encoded script.</description>
     </item>

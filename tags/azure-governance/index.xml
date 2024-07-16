@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure governance on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-governance/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-governance/</link>
     <description>Recent content in azure governance on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-governance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organize Your Azure Resources with Management Groups</title>
-      <link>http://example.org/posts/organize_your_azure_resources_with_management_groups/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/organize_your_azure_resources_with_management_groups/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/organize_your_azure_resources_with_management_groups/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/organize_your_azure_resources_with_management_groups/</guid>
       <description>Organize Your Azure Resources with Management Groups If your organization has many Azure subscriptions, you may need a way to efficiently manage access, policies, and compliance across those subscriptions. Azure management groups provide a governance scope above subscriptions, allowing you to organize your subscriptions into a hierarchical structure for unified policy and access management.
 Hierarchy of Management Groups and Subscriptions You can build a flexible hierarchy of management groups and subscriptions to organize your Azure resources.</description>
     </item>

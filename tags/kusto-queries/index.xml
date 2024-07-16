@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kusto Queries on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/kusto-queries/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/kusto-queries/</link>
     <description>Recent content in Kusto Queries on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kusto-queries/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/kusto-queries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Costs and Monitoring Spending for Microsoft Sentinel</title>
-      <link>http://example.org/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
       <description>Effectively managing and monitoring costs is a crucial aspect of ensuring the long-term success and sustainability of your Microsoft Sentinel deployment. In this comprehensive guide, we&amp;rsquo;ll explore the various tools and techniques available to help you gain visibility into your spending, set budgets, and proactively control costs.
 Understanding Your Costs As you use Azure resources with Microsoft Sentinel, you will inevitably incur costs. These costs can vary based on factors like time intervals (seconds, minutes, hours, days) and usage units (bytes, megabytes).</description>
     </item>

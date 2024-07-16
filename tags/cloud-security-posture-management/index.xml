@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Security Posture Management on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cloud-security-posture-management/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloud-security-posture-management/</link>
     <description>Recent content in Cloud Security Posture Management on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-security-posture-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloud-security-posture-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure Your Containers Across Clouds with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is the cloud-native solution for securing your containers, whether they&amp;rsquo;re running in Azure Kubernetes Service (AKS), Amazon Elastic Kubernetes Service (EKS), Google Kubernetes Engine (GKE), or on-premises Kubernetes clusters using Azure Arc.
 Defender for Containers provides a comprehensive set of security capabilities to protect your container-based applications, including:
 Cloud Security Posture Management (CSPM):
@@ -21,20 +21,20 @@ Cloud Security Posture Management (CSPM):
     
     <item>
       <title>Securing Containerized Applications with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multicloud and on-premises environments. This powerful platform provides a range of security capabilities to help you protect your Kubernetes clusters, nodes, workloads, container registries, and container images.
 Security Posture Management Defender for Containers offers both agentless and sensor-based capabilities to help you manage the security posture of your containerized environment:</description>
     </item>
     
     <item>
       <title>Safeguarding Your Containerized Infrastructure with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive, cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets, including Kubernetes clusters, nodes, workloads, container registries, and container images, across multicloud and on-premises environments.
 Four Core Domains of Container Security Defender for Containers assists you with four key areas of container security:
   Security Posture Management:
@@ -43,20 +43,20 @@ Four Core Domains of Container Security Defender for Containers assists you with
     
     <item>
       <title>Mastering Container Security with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/mastering_container_security_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_container_security_with_microsoft_defender_for_containers/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_container_security_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_container_security_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multicloud and on-premises environments. This comprehensive platform addresses four core domains of container security: security posture management, vulnerability assessment, runtime threat protection, and deployment and monitoring.
 Security Posture Management Defender for Containers provides agentless capabilities that enable zero-footprint, API-based discovery of your Kubernetes clusters, their configurations, and deployments.</description>
     </item>
     
     <item>
       <title>Securing Your Container Workloads with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This article delves into the key capabilities of Defender for Containers and how it can help organizations address the evolving security challenges surrounding container-based solutions.
 Core Elements of Defender for Containers Defender for Containers assists you with four core domains of container security:
 1. Security Posture Management Defender for Containers provides a range of agentless capabilities to help you manage the security posture of your container environments:</description>
@@ -64,10 +64,10 @@ Core Elements of Defender for Containers Defender for Containers assists you wit
     
     <item>
       <title>Securing Your Amazon Web Service (AWS) Containers with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</guid>
       <description>Securing Your Amazon Web Service (AWS) Containers with Microsoft Defender for Containers Microsoft Defender for Containers is a cloud-native solution that helps you improve, monitor, and maintain the security of your Kubernetes clusters, containers, and their applications across multi-cloud and hybrid environments.
 Prerequisites Before you can enable Defender for Containers on your AWS account, make sure you have:
  A Microsoft Azure subscription. If you don&amp;rsquo;t have one, you can sign up for a free Azure subscription.</description>
@@ -75,10 +75,10 @@ Prerequisites Before you can enable Defender for Containers on your AWS account,
     
     <item>
       <title>Microsoft Defender for Cloud Pricing- Comprehensive Security at Scale</title>
-      <link>http://example.org/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
       <description>Microsoft Defender for Cloud is a unified, cloud-native security platform that provides advanced protection for your multicloud and hybrid environments. With flexible pricing options, you can tailor your security coverage to your specific needs and budget.
 Cloud Security Posture Management (CSPM) Microsoft Defender for Cloud offers both foundational and advanced CSPM capabilities:
  Foundational CSPM: This is available for free and includes continuous security assessments, security recommendations, Secure Score, and the Microsoft cloud security benchmark across Azure, AWS, and Google Cloud.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Great Debate on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/great-debate/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/great-debate/</link>
     <description>Recent content in Great Debate on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/great-debate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/great-debate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the &#34;Great Debate&#34; in the PowerShell Community</title>
-      <link>http://example.org/posts/exploring_the_great_debate_in_the_powershell_community/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_great_debate_in_the_powershell_community/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/exploring_the_great_debate_in_the_powershell_community/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_great_debate_in_the_powershell_community/</guid>
       <description>Exploring the &amp;ldquo;Great Debate&amp;rdquo; in the PowerShell Community Introduction The PowerShell community has long been engaged in a series of debates around best practices, coding styles, and various aspects of PowerShell scripting. These discussions, collectively referred to as the &amp;ldquo;Great Debate</description>
     </item>
     

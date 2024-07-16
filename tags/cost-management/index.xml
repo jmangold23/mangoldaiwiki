@@ -2,104 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cost Management on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cost-management/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cost-management/</link>
     <description>Recent content in Cost Management on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cost-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cost-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Practices for Optimizing Virtual Machine Costs in Azure</title>
-      <link>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</guid>
       <description>Optimizing Virtual Machine Costs in Azure: Best Practices As organizations continue to embrace the cloud, managing and reducing costs for virtual machines (VMs) has become a critical priority. This comprehensive guide delves into the best practices you can implement to optimize the costs of your Azure virtual machines.
 Use the Azure VM Selector to Identify the Right VMs for Your Needs The first step in cost optimization is selecting the appropriate virtual machines for your workloads.</description>
     </item>
     
     <item>
       <title>Create and Manage Budgets in Azure Cost Management</title>
-      <link>http://example.org/posts/create_and_manage_budgets_in_azure_cost_management/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
       <description>Creating and Managing Budgets in Azure Cost Management Budgets in Azure Cost Management help you plan for and manage your organizational spending on Azure services. They enable you to proactively monitor costs, set spending limits, and receive alerts when thresholds are exceeded. This comprehensive guide will walk you through the process of creating, configuring, and managing budgets in the Azure portal.
 Prerequisites  Understand the different Azure account types and scopes that support budgets, including Azure RBAC, Enterprise Agreement, Individual, and Microsoft Customer Agreement scopes.</description>
     </item>
     
     <item>
       <title>Prescriptive Practices for Deploying and Running Azure Databricks at Scale</title>
-      <link>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
       <description>Planning, deploying, and running Azure Databricks (ADB) at scale requires one to make many architectural decisions. While each ADB deployment is unique to an organization&amp;rsquo;s needs, we have found that some patterns are common across most successful ADB projects. This guide summarizes these patterns into prescriptive and actionable best practices for Azure Databricks.
 We follow a logical path of planning the infrastructure, provisioning the workspaces, developing Azure Databricks applications, and finally, running Azure Databricks in production.</description>
     </item>
     
     <item>
       <title>Optimize Azure Machine Learning Costs- Strategies for Efficient Model Training and Deployment</title>
-      <link>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</guid>
       <description>Optimize Azure Machine Learning Costs: Strategies for Efficient Model Training and Deployment As the demand for machine learning continues to grow, it&amp;rsquo;s critical to manage and optimize the costs associated with training and deploying models on the cloud. Azure Machine Learning provides a powerful platform for building and deploying ML models, but effectively managing the costs can be a challenge. In this in-depth article, we&amp;rsquo;ll explore a range of strategies and best practices to help you optimize your Azure Machine Learning costs.</description>
     </item>
     
     <item>
       <title>Create a Budget with Resource Manager Templates in Azure</title>
-      <link>http://example.org/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
       <description>ource=</description>
     </item>
     
     <item>
       <title>Optimizing Azure Monitor Costs- A Comprehensive Guide</title>
-      <link>http://example.org/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
       <description>Unlocking Cost-Effective Monitoring with Azure Monitor Azure Monitor is a powerful tool that provides comprehensive observability into your applications, infrastructure, and network. However, with its varied pricing models and features, understanding and optimizing your Azure Monitor costs can be a challenge. In this in-depth guide, we&amp;rsquo;ll explore the different components of Azure Monitor pricing, share strategies to analyze and manage your costs, and provide practical tips to ensure you&amp;rsquo;re getting the most out of your Azure Monitor investment.</description>
     </item>
     
     <item>
       <title>Optimize Your Azure Virtual Machine Costs- A Comprehensive Guide</title>
-      <link>http://example.org/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
       <description>Optimize Your Azure Virtual Machine Costs: A Comprehensive Guide Running virtual machines (VMs) in the cloud can be a powerful and flexible solution, but it&amp;rsquo;s important to understand and manage the costs associated with them. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, monitor, and optimize the costs of your Azure virtual machines.
 Estimate Costs Before Deployment Before you deploy any virtual machines, use the Azure pricing calculator to estimate the costs.</description>
     </item>
     
     <item>
       <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
-      <link>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
       <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
 In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
     </item>
     
     <item>
       <title>Optimize Your Microsoft Sentinel Costs- A Comprehensive Guide</title>
-      <link>http://example.org/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</guid>
       <description>Navigating the costs associated with Microsoft Sentinel can be a complex task, but with the right strategies, you can significantly reduce your expenses. In this comprehensive guide, we&amp;rsquo;ll explore various methods to optimize your Microsoft Sentinel costs and ensure you get the most value from your investment.
 Set or Change Pricing Tier To achieve the highest savings, closely monitor your data ingestion volume and ensure you have the Commitment Tier that aligns most closely with your usage patterns.</description>
     </item>
     
     <item>
       <title>Understanding and Maximizing Azure Cost Management Reporting</title>
-      <link>http://example.org/posts/understanding_and_maximizing_azure_cost_management_reporting/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_and_maximizing_azure_cost_management_reporting/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/understanding_and_maximizing_azure_cost_management_reporting/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_and_maximizing_azure_cost_management_reporting/</guid>
       <description>Azure Cost Management is a powerful suite of tools that helps you gain visibility into your cloud spending, identify cost savings opportunities, and optimize your cloud infrastructure. In this comprehensive guide, we&amp;rsquo;ll explore the key reporting components of Azure Cost Management and how to leverage them to make informed decisions about your cloud investments.
 Cost Analysis: Visualize and Analyze Your Costs Cost analysis should be your first stop when it comes to understanding your cloud spending.</description>
     </item>

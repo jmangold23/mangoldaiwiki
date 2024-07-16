@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubernetes on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/kubernetes/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/kubernetes/</link>
     <description>Recent content in Kubernetes on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Serverless Computing on Microsoft Azure</title>
-      <link>http://example.org/posts/exploring_serverless_computing_on_microsoft_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_serverless_computing_on_microsoft_azure/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
       <description>Serverless computing is a revolutionary approach to application development that enables developers to build and run applications without having to manage any underlying infrastructure. This article provides an in-depth look at serverless computing on Microsoft Azure, covering the key concepts, benefits, and patterns of serverless applications.
 What is Serverless Computing? Serverless computing allows developers to build and run applications and services without having to provision or manage any servers. The cloud service provider (in this case, Microsoft Azure) automatically provisions, scales, and manages the infrastructure required to run the code.</description>
     </item>
     
     <item>
       <title>Optimizing Kubernetes Costs on Azure- A Comprehensive Guide</title>
-      <link>http://example.org/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</guid>
       <description>Optimizing Kubernetes Costs on Azure: A Comprehensive Guide Kubernetes has become a popular choice for organizations looking to deploy and manage their applications in the cloud. However, as with any cloud-based infrastructure, cost optimization is crucial to ensure that your Kubernetes environment is running efficiently and cost-effectively. In this comprehensive guide, we&amp;rsquo;ll explore various strategies and best practices to help you optimize the costs of your Kubernetes deployment on Azure.</description>
     </item>
     
     <item>
       <title>Securing Your Azure Containers with Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_azure_containers_with_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_azure_containers_with_defender_for_containers/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_azure_containers_with_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_azure_containers_with_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive cloud-native solution that helps you improve, monitor, and maintain the security of your containerized assets across multicloud and on-premises environments. This includes Kubernetes clusters, nodes, workloads, container registries, and container images.
 To get started with Defender for Containers, you&amp;rsquo;ll need a Microsoft Azure subscription. If you don&amp;rsquo;t have one, you can sign up for a free Azure subscription. You&amp;rsquo;ll also need to enable Microsoft Defender for Cloud on your Azure subscription.</description>
     </item>
     
     <item>
       <title>Secure Your Azure Containers with Defender for Containers</title>
-      <link>http://example.org/posts/secure_your_azure_containers_with_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_defender_for_containers/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/secure_your_azure_containers_with_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multi-cloud and on-premises environments. This comprehensive platform protects Kubernetes clusters, nodes, workloads, container registries, and container images, ensuring the security and resilience of your containerized applications.
 Enabling Defender for Containers To get started with Defender for Containers, you&amp;rsquo;ll need a few prerequisites:
  Azure Subscription: You&amp;rsquo;ll need an active Microsoft Azure subscription.</description>
@@ -49,10 +49,10 @@ Enabling Defender for Containers To get started with Defender for Containers, yo
     
     <item>
       <title>Secure Your Azure Containers with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution designed to enhance the security of your containerized workloads across multicloud and on-premises environments. This comprehensive platform helps you improve, monitor, and maintain the security of your Kubernetes clusters, container registries, container images, and more.
 Gain Visibility and Control Over Your Containers Microsoft Defender for Containers offers a range of powerful features to protect your containerized assets:
   Cloud Security Posture Management (CSPM): Defender for Containers provides both foundational and advanced CSPM capabilities, enabling you to continuously assess your security posture, receive security recommendations, and benchmark your cloud security against industry standards across Azure, AWS, and Google Cloud.</description>
@@ -60,20 +60,20 @@ Gain Visibility and Control Over Your Containers Microsoft Defender for Containe
     
     <item>
       <title>Securing Your AWS Container Workloads with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_aws_container_workloads_with_microsoft_defender_for_containers/</guid>
       <description>Securing Your AWS Container Workloads with Microsoft Defender for Containers Microsoft Defender for Containers is a powerful cloud-native solution that helps you improve, monitor, and maintain the security of your container-based applications, regardless of where they run. In this comprehensive guide, we&amp;rsquo;ll walk through the steps to enable Defender for Containers for your Amazon Web Services (AWS) container workloads, ensuring your clusters, containers, and applications are protected.
 Prerequisites Before getting started, make sure you have the following in place:</description>
     </item>
     
     <item>
       <title>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure</title>
-      <link>http://example.org/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
       <description>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure As organizations continue to embrace Kubernetes for their cloud-native applications, managing and optimizing the cost of running these environments becomes a critical concern. One of the key tools in the Kubernetes cost optimization arsenal is the Cluster Autoscaler (CA), a powerful component that can dynamically scale the number of nodes in your Azure Kubernetes Service (AKS) cluster to match the changing demands of your workloads.</description>
     </item>
     

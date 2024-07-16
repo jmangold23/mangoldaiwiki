@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure AI Studio on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-ai-studio/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-ai-studio/</link>
     <description>Recent content in Azure AI Studio on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-ai-studio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-ai-studio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Embracing Responsible AI- Practical Guidance for Building Trustworthy and Transparent AI Systems</title>
-      <link>http://example.org/posts/embracing_responsible_ai_practical_guidance_for_building_trustworthy_and_transparent_ai_systems/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/embracing_responsible_ai_practical_guidance_for_building_trustworthy_and_transparent_ai_systems/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/embracing_responsible_ai_practical_guidance_for_building_trustworthy_and_transparent_ai_systems/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/embracing_responsible_ai_practical_guidance_for_building_trustworthy_and_transparent_ai_systems/</guid>
       <description>Introducing Responsible AI: The Microsoft Approach Microsoft Responsible AI is a comprehensive initiative aimed at empowering developers and organizations to build AI systems that are transparent, trustworthy, and accountable. Recognizing the immense potential and impact of AI, this initiative provides invaluable guidance and resources to ensure ethical and responsible development of AI solutions.
 At the heart of Microsoft Responsible AI are a set of guiding principles that serve as a framework for creating AI systems that align with core values such as privacy, fairness, transparency, accountability, and safety.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Runtime Threat Protection on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/runtime-threat-protection/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/runtime-threat-protection/</link>
     <description>Recent content in Runtime Threat Protection on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/runtime-threat-protection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/runtime-threat-protection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Container Security with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/mastering_container_security_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_container_security_with_microsoft_defender_for_containers/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_container_security_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_container_security_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multicloud and on-premises environments. This comprehensive platform addresses four core domains of container security: security posture management, vulnerability assessment, runtime threat protection, and deployment and monitoring.
 Security Posture Management Defender for Containers provides agentless capabilities that enable zero-footprint, API-based discovery of your Kubernetes clusters, their configurations, and deployments.</description>
     </item>

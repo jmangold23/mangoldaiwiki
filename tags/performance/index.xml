@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Performance on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/performance/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/performance/</link>
     <description>Recent content in Performance on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering PowerShell Best Practices- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
       <description>Mastering PowerShell Best Practices: A Comprehensive Guide Introduction As a seasoned PowerShell practitioner, you&amp;rsquo;ve likely encountered the diverse perspectives and practices within the PowerShell community. From code projects on PoshCode to the Microsoft Learn Code Samples Gallery, it&amp;rsquo;s clear that PowerShell users have a wide range of opinions on what constitutes &amp;ldquo;right and wrong</description>
     </item>
     
     <item>
       <title>Migrating Your Linux Workloads to Azure</title>
-      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</guid>
       <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
 Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
     </item>

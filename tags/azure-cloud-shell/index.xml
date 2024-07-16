@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure cloud shell on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-cloud-shell/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-cloud-shell/</link>
     <description>Recent content in azure cloud shell on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-cloud-shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-cloud-shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Microsoft Teams with PowerShell</title>
-      <link>http://example.org/posts/mastering_microsoft_teams_with_powershell/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_with_powershell/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_microsoft_teams_with_powershell/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_with_powershell/</guid>
       <description>Microsoft Teams is a powerful collaboration tool that can greatly enhance productivity and communication within an organization. One of the most effective ways to manage and customize Teams is through the use of PowerShell, a powerful scripting language that allows administrators to automate a wide range of tasks.
 In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can use PowerShell to manage Microsoft Teams, from creating and managing teams and channels to configuring policies and settings.</description>
     </item>

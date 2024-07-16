@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>base image update on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/base-image-update/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/base-image-update/</link>
     <description>Recent content in base image update on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/base-image-update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/base-image-update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing Container Images in Azure Kubernetes Service (AKS)</title>
-      <link>http://example.org/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
       <description>Securing Container Images in Azure Kubernetes Service (AKS) Container and container image security is a critical priority when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes can introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools within your containers during the build and runtime phases. The earlier you can identify and address vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>on-premises-to-cloud on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/on-premises-to-cloud/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/on-premises-to-cloud/</link>
     <description>Recent content in on-premises-to-cloud on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/on-premises-to-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/on-premises-to-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smoothly Migrate Your On-Premises Azure DevOps Server to the Cloud</title>
-      <link>http://example.org/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</guid>
       <description>Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand the key concepts and considerations involved in the migration process.
 Understand What Data Gets Migrated Not all data gets migrated during the process. Separate databases outside the collection, such as reporting and SharePoint data, do not get migrated. Here&amp;rsquo;s a breakdown of what is and isn&amp;rsquo;t included:
 Included Data
@@ -21,10 +21,10 @@ Included Data
     
     <item>
       <title>Get Started with Azure DevOps Data Migration</title>
-      <link>http://example.org/posts/get_started_with_azure_devops_data_migration/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_devops_data_migration/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/get_started_with_azure_devops_data_migration/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_devops_data_migration/</guid>
       <description>Get Started with Azure DevOps Data Migration Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand some key concepts.
 What Data Gets Migrated? Not all data gets migrated during the process. Separate databases outside the collection, such as reporting and SharePoint data, don&amp;rsquo;t get migrated. Here&amp;rsquo;s more detail on what does and doesn&amp;rsquo;t get migrated:
 Included Data  Collection Mapping: Each collection in Azure DevOps Server corresponds to one database.</description>

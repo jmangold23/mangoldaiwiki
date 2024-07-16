@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NAT on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/nat/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/nat/</link>
     <description>Recent content in NAT on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/nat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/nat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering NAT Rules for Your Azure Virtual WAN VPN Gateway</title>
-      <link>http://example.org/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</guid>
       <description>Mastering NAT Rules for Your Azure Virtual WAN VPN Gateway As organizations increasingly adopt cloud infrastructure, they often encounter the challenge of interconnecting their on-premises networks with Azure virtual networks. One common scenario is when branch offices have overlapping IP address spaces, making it difficult to establish direct connectivity. Fortunately, Azure Virtual WAN&amp;rsquo;s site-to-site VPN gateway offers a powerful solution - NAT (Network Address Translation) rules.
 In this comprehensive guide, we&amp;rsquo;ll explore the ins and outs of configuring NAT rules for your Azure Virtual WAN VPN gateway, empowering you to seamlessly interconnect your on-premises networks with Azure resources.</description>
     </item>

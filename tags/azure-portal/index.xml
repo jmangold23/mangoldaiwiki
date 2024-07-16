@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure-portal on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/azure-portal/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-portal/</link>
     <description>Recent content in azure-portal on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-portal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-portal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organizing Your Azure Resources with Management Groups</title>
-      <link>http://example.org/posts/organizing_your_azure_resources_with_management_groups/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/organizing_your_azure_resources_with_management_groups/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/organizing_your_azure_resources_with_management_groups/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/organizing_your_azure_resources_with_management_groups/</guid>
       <description>Azure Management Groups are a powerful tool for organizing and managing your Azure resources. They allow you to create a hierarchical structure that can be used to apply consistent policies, access controls, and governance across multiple Azure subscriptions.
 In this guide, we&amp;rsquo;ll walk through the process of creating a new management group using the Azure Portal. Management groups are containers that help you manage access, policy, and compliance across multiple Azure subscriptions.</description>
     </item>
     
     <item>
       <title>Create and Manage Budgets in Azure Cost Management</title>
-      <link>http://example.org/posts/create_and_manage_budgets_in_azure_cost_management/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
       <description>Creating and Managing Budgets in Azure Cost Management Budgets in Azure Cost Management help you plan for and manage your organizational spending on Azure services. They enable you to proactively monitor costs, set spending limits, and receive alerts when thresholds are exceeded. This comprehensive guide will walk you through the process of creating, configuring, and managing budgets in the Azure portal.
 Prerequisites  Understand the different Azure account types and scopes that support budgets, including Azure RBAC, Enterprise Agreement, Individual, and Microsoft Customer Agreement scopes.</description>
     </item>
     
     <item>
       <title>Provisioning an Azure-SSIS Integration Runtime via Azure Portal</title>
-      <link>http://example.org/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</guid>
       <description>Azure-SSIS Integration Runtime is now generally available in Azure Synapse Analytics, allowing you to use it and the Execute SSIS Package activity in your Synapse pipelines. This article provides a comprehensive guide on how to create an Azure-SSIS integration runtime (IR) in Azure Data Factory (ADF) or Synapse Analytics via the Azure portal.
 The Azure-SSIS IR supports running packages deployed into the SSIS catalog (SSISDB) hosted by Azure SQL Database server or Managed Instance (Project Deployment Model), as well as packages deployed into Azure Files (Package Deployment Model).</description>
     </item>
     
     <item>
       <title>Mastering Azure Hybrid Benefit for Linux Virtual Machines</title>
-      <link>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</guid>
       <description>Azure Hybrid Benefit (AHB) for Linux is a powerful feature that allows you to easily switch between pay-as-you-go (PAYG) and bring-your-own-subscription (BYOS) licensing models for your Linux virtual machines. With AHB, you can remove licensing costs by bringing your existing Red Hat and SUSE Linux subscriptions directly to Azure, or utilize a PAYG model where you pay for subscriptions as you use them.
 This comprehensive guide will walk you through the key concepts of PAYG and BYOS licensing, how to enable AHB on new and existing VMs, how to check the current licensing model of an AHB-enabled VM, and the step-by-step process for converting between PAYG and BYOS models.</description>
     </item>
     
     <item>
       <title>Mastering Virtual Hub Routing in Azure- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_virtual_hub_routing_in_azure_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_virtual_hub_routing_in_azure_a_comprehensive_guide/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_virtual_hub_routing_in_azure_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_virtual_hub_routing_in_azure_a_comprehensive_guide/</guid>
       <description>Mastering Virtual Hub Routing in Azure: A Comprehensive Guide In the dynamic world of cloud infrastructure, the ability to manage and configure routing within your virtual hubs is crucial for maintaining seamless connectivity and efficient data flow. This comprehensive guide will walk you through the process of configuring virtual hub routing using the Azure portal, helping you unlock the full potential of your Azure Virtual WAN network.
 Understanding Virtual Hub Routing A virtual hub in Azure Virtual WAN can contain multiple gateways, such as site-to-site VPN, ExpressRoute, point-to-site, and Azure Firewall.</description>
     </item>
     
     <item>
       <title>Mastering Virtual Hub Routing in Azure Virtual WAN</title>
-      <link>http://example.org/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_virtual_hub_routing_in_azure_virtual_wan/</guid>
       <description>Mastering Virtual Hub Routing in Azure Virtual WAN The Azure Virtual WAN service provides a powerful and flexible routing solution for your hybrid and multi-cloud networks. At the heart of this solution is the virtual hub, which serves as the central point of connectivity and routing for your network. In this comprehensive guide, we&amp;rsquo;ll explore how to configure and manage virtual hub routing using the Azure portal, empowering you to optimize your network&amp;rsquo;s performance and connectivity.</description>
     </item>
     
     <item>
       <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
-      <link>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
       <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
 In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
     </item>

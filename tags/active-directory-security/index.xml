@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active Directory security on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/active-directory-security/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/active-directory-security/</link>
     <description>Recent content in Active Directory security on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/active-directory-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/active-directory-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing Your Active Directory Environment with Microsoft Defender for Identity</title>
-      <link>http://example.org/posts/securing_your_active_directory_environment_with_microsoft_defender_for_identity/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_active_directory_environment_with_microsoft_defender_for_identity/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_active_directory_environment_with_microsoft_defender_for_identity/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_active_directory_environment_with_microsoft_defender_for_identity/</guid>
       <description>Protecting Your Organization Against Identity-Based Attacks As the digital landscape continues to evolve, protecting your organization&amp;rsquo;s identities has become more critical than ever. Cybercriminals are increasingly targeting identity-based vulnerabilities to gain unauthorized access to sensitive data and systems. This is where Microsoft Defender for Identity comes in – a powerful tool designed to safeguard your Active Directory environment against these identity-based attacks.
 The Importance of Defender for Identity Sensors Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions.</description>
     </item>

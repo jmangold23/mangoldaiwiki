@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cmdlets on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cmdlets/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cmdlets/</link>
     <description>Recent content in Cmdlets on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cmdlets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cmdlets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering PowerShell- A Comprehensive Guide</title>
-      <link>http://example.org/posts/mastering_powershell_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_a_comprehensive_guide/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_powershell_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_a_comprehensive_guide/</guid>
       <description>Mastering PowerShell: A Comprehensive Guide PowerShell is a powerful and versatile scripting language that has become an essential tool for system administrators, developers, and IT professionals. This comprehensive guide will take you on a journey to explore the various features and capabilities of PowerShell, helping you become a proficient PowerShell user.
 Basic Commands Let&amp;rsquo;s start with the fundamentals of PowerShell. PowerShell provides a set of built-in commands, known as Cmdlets, that are written in .</description>
     </item>

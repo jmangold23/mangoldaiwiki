@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Package Manager on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/package-manager/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/package-manager/</link>
     <description>Recent content in Package Manager on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/package-manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/package-manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Homebrew- Your Comprehensive Guide to the Missing Package Manager for macOS</title>
-      <link>http://example.org/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</guid>
       <description>Mastering Homebrew: Your Comprehensive Guide to the Missing Package Manager for macOS Homebrew is a powerful and versatile package manager that has become an essential tool for macOS users. It simplifies the installation and management of various applications, libraries, and utilities that are not provided by Apple out-of-the-box. Whether you&amp;rsquo;re a developer, system administrator, or a power user, Homebrew can greatly improve your workflow and productivity.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of Homebrew, exploring its features, benefits, and practical applications.</description>
     </item>

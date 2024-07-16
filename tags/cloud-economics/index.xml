@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Economics on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cloud-economics/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloud-economics/</link>
     <description>Recent content in Cloud Economics on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-economics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloud-economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize Your Azure Costs with the Cost Optimization Workbook</title>
-      <link>http://example.org/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</guid>
       <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize the costs of your Azure environment. This comprehensive guide will walk you through the features and capabilities of the workbook, empowering you to make informed decisions and drive cost savings in your Azure deployments.
 Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used tools that can help you drive utilization and efficiency goals.</description>
     </item>

@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud computing on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/cloud-computing/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloud-computing/</link>
     <description>Recent content in cloud computing on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Cloud- Exploring Public, Private and Hybrid Cloud Models</title>
-      <link>http://example.org/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
       <description>As the cloud computing landscape continues to evolve, organizations are faced with a critical decision - which cloud deployment model best suits their unique needs? The choice between public, private, and hybrid cloud can have a significant impact on factors like data security, scalability, cost, and control.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the pros and cons of each cloud deployment model, empowering you to make an informed decision that aligns with your business objectives.</description>
     </item>
     
     <item>
       <title>Maximize Your Windows Server Licenses and Save on Azure Kubernetes Service</title>
-      <link>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
       <description>Maximizing Your Windows Server Licenses on Azure Kubernetes Service Are you running Windows-based workloads in the cloud? If so, you may be able to save a significant amount on your Azure Kubernetes Service (AKS) costs by taking advantage of the Azure Hybrid Benefit program.
 Azure Hybrid Benefit is a licensing program that allows you to use your existing on-premises Windows Server licenses on Azure virtual machines, including those running in AKS.</description>
     </item>
     
     <item>
       <title>Migrating to Azure DevOps Services- A Comprehensive Guide</title>
-      <link>http://example.org/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</guid>
       <description>Migrating to Azure DevOps Services: A Comprehensive Guide Moving your on-premises Azure DevOps Server to the cloud-based Azure DevOps Services is a strategic decision that can unlock a world of benefits for your organization. This comprehensive guide will walk you through the entire migration process, from understanding the basics to completing the post-migration tasks.
 Understanding the Migration Process Before embarking on your migration journey, it&amp;rsquo;s essential to familiarize yourself with the key concepts and considerations involved.</description>
     </item>
     
     <item>
       <title>Choosing the Right Cloud Deployment Model for Your Business</title>
-      <link>http://example.org/posts/choosing_the_right_cloud_deployment_model_for_your_business/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/choosing_the_right_cloud_deployment_model_for_your_business/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/choosing_the_right_cloud_deployment_model_for_your_business/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/choosing_the_right_cloud_deployment_model_for_your_business/</guid>
       <description>When it comes to cloud computing, there are three primary deployment models to consider: public cloud, private cloud, and hybrid cloud. Each model has its own unique advantages and disadvantages, and the right choice will depend on your business&amp;rsquo;s specific needs, budget, and requirements.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure of a cloud service provider like Microsoft Azure or Amazon Web Services.</description>
     </item>

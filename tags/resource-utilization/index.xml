@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resource utilization on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/resource-utilization/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/resource-utilization/</link>
     <description>Recent content in resource utilization on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/resource-utilization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/resource-utilization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize Your Azure Spend with Azure Advisor&#39;s Cost-Saving Recommendations</title>
-      <link>http://example.org/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</guid>
       <description>Optimizing Azure Costs with Azure Advisor Azure Advisor is a powerful tool that can help you identify and address opportunities to optimize your Azure infrastructure and reduce your overall cloud spend. By analyzing your resource utilization and making targeted recommendations, Advisor empowers you to make informed decisions that can lead to significant cost savings.
 Identifying Underutilized Virtual Machines and Scale Sets One of Advisor&amp;rsquo;s key capabilities is its ability to detect underutilized virtual machines (VMs) and virtual machine scale sets (VMSS).</description>
     </item>
     
     <item>
       <title>Reduce Azure Costs with Optimization Recommendations</title>
-      <link>http://example.org/posts/reduce_azure_costs_with_optimization_recommendations/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/reduce_azure_costs_with_optimization_recommendations/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/reduce_azure_costs_with_optimization_recommendations/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/reduce_azure_costs_with_optimization_recommendations/</guid>
       <description>Optimizing your Azure costs can have a significant impact on your overall cloud spending. This comprehensive guide walks you through leveraging Azure Advisor recommendations to identify and address underutilized resources, ultimately helping you reduce your Azure costs.
 Understand Cost Optimization Recommendations Azure Advisor, integrated with Cost Management, provides valuable recommendations to help you optimize your Azure resource utilization and costs. These recommendations identify usage inefficiencies and potential savings opportunities.
 The recommendations are categorized by their potential impact:</description>

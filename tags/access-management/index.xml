@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>access management on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/access-management/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/access-management/</link>
     <description>Recent content in access management on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/access-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/access-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manage Users and Groups with Security Groups in Azure DevOps</title>
-      <link>http://example.org/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
       <description>Effectively managing permissions and access in Azure DevOps is key to ensuring your teams can collaborate efficiently and securely. One of the most powerful tools for this is the use of security groups, which allow you to centrally define and control permissions for users and groups.
 In this comprehensive guide, we&amp;rsquo;ll explore how to leverage security groups in Azure DevOps to streamline user management, assign permissions, and maintain control over your organization&amp;rsquo;s resources.</description>
     </item>

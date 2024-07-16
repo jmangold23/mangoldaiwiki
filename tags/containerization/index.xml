@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Containerization on mangoldai :: cloud architect insights</title>
-    <link>http://example.org/tags/containerization/</link>
+    <link>https://jmangold23.github.io/mangoldaiwiki/tags/containerization/</link>
     <description>Recent content in Containerization on mangoldai :: cloud architect insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/containerization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/containerization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing Your Containerized Assets with Microsoft Defender for Containers</title>
-      <link>http://example.org/posts/securing_your_containerized_assets_with_microsoft_defender_for_containers/</link>
+      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containerized_assets_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/securing_your_containerized_assets_with_microsoft_defender_for_containers/</guid>
+      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containerized_assets_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multicloud and on-premises environments. This comprehensive platform addresses four core domains of container security:
 Security Posture Management Defender for Containers offers both agentless and sensor-based capabilities to help you manage the security posture of your containerized environment:
 Agentless Capabilities:
