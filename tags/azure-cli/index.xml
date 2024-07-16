@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure-cli on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-cli/</link>
+    <description>Recent content in azure-cli on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Azure VM Maintenance with Maintenance Configurations and the Azure CLI</title>
+      <link>http://example.org/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</guid>
+      <description>Maintaining a fleet of Azure virtual machines (VMs) can be a complex task, but with the Maintenance Configurations feature and the Azure CLI, you can take control of when platform updates are applied to your resources. In this comprehensive guide, we&amp;rsquo;ll explore the ins and outs of using Maintenance Configurations to optimize your VM maintenance strategy.
+Creating Maintenance Configurations The first step in managing your VM maintenance is to create a maintenance configuration.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Hybrid Benefit for Linux Virtual Machines</title>
+      <link>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</guid>
+      <description>Azure Hybrid Benefit (AHB) for Linux is a powerful feature that allows you to easily switch between pay-as-you-go (PAYG) and bring-your-own-subscription (BYOS) licensing models for your Linux virtual machines. With AHB, you can remove licensing costs by bringing your existing Red Hat and SUSE Linux subscriptions directly to Azure, or utilize a PAYG model where you pay for subscriptions as you use them.
+This comprehensive guide will walk you through the key concepts of PAYG and BYOS licensing, how to enable AHB on new and existing VMs, how to check the current licensing model of an AHB-enabled VM, and the step-by-step process for converting between PAYG and BYOS models.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
+      <link>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
+In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
+    </item>
+    
+  </channel>
+</rss>

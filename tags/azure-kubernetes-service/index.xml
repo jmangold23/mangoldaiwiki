@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Kubernetes Service on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-kubernetes-service/</link>
+    <description>Recent content in Azure Kubernetes Service on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-kubernetes-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Securing Container Images in Azure Kubernetes Service (AKS)</title>
+      <link>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <description>As container-based workloads become increasingly prevalent, ensuring the security of container images is crucial to avoid introducing vulnerabilities into your deployments. In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing and securing container images in Azure Kubernetes Service (AKS).
+Secure the Images and Runtime Best Practice Guidance:
+ Scan your container images for vulnerabilities. Only deploy validated images. Regularly update the base images and application runtime. Redeploy workloads in the AKS cluster.</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Kubernetes on Azure- A Comprehensive Guide</title>
+      <link>http://example.org/posts/optimizing_kubernetes_on_azure_a_comprehensive_guide/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimizing_kubernetes_on_azure_a_comprehensive_guide/</guid>
+      <description>Optimizing Kubernetes on Azure: A Comprehensive Guide When running a production-ready Kubernetes environment on Azure, it&amp;rsquo;s essential to focus on cost optimization to ensure efficient resource utilization and minimize operational expenses (OPEX). This guide will walk you through various strategies and best practices to optimize your Kubernetes clusters on Azure, drawing insights from the provided content and our own expertise.
+Cluster Autoscaler: Dynamically Scaling Nodes The cluster autoscaler (CA) is a powerful tool for managing the scaling of nodes in an AKS cluster.</description>
+    </item>
+    
+  </channel>
+</rss>

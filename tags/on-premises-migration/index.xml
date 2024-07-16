@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>on-premises migration on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/on-premises-migration/</link>
+    <description>Recent content in on-premises migration on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/on-premises-migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preparing On-Premises Machines for Migration to Azure</title>
+      <link>http://example.org/posts/preparing_on-premises_machines_for_migration_to_azure/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/preparing_on-premises_machines_for_migration_to_azure/</guid>
+      <description>Preparing On-Premises Machines for Migration to Azure Azure Migrate is a service that helps you discover, assess, and migrate on-premises machines to Microsoft Azure. This comprehensive guide will walk you through the steps to prepare your on-premises machines before migrating them to Azure using the Azure Migrate service.
+Verify Migration Limitations Before you begin, it&amp;rsquo;s important to understand the discovery, assessment, and migration limits for Azure Migrate. The table below summarizes these limits across different scenarios:</description>
+    </item>
+    
+  </channel>
+</rss>

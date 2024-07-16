@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/security/</link>
+    <description>Recent content in Security on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Guest Access in Microsoft 365 Groups</title>
+      <link>http://example.org/posts/mastering_guest_access_in_microsoft_365_groups/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
+      <description>Collaboration and information sharing are essential in today&amp;rsquo;s dynamic work environment, and Microsoft 365 groups provide a powerful platform to facilitate these interactions. However, managing guest access to your organization&amp;rsquo;s groups can be a critical consideration, balancing the need for seamless collaboration with the imperative to maintain data security and compliance.
+In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing guest access in Microsoft 365 groups, empowering you to harness the full potential of this collaborative tool while upholding your organization&amp;rsquo;s security posture.</description>
+    </item>
+    
+    <item>
+      <title>Prescriptive Practices for Deploying and Running Azure Databricks at Scale</title>
+      <link>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
+      <description>Planning, deploying, and running Azure Databricks (ADB) at scale requires one to make many architectural decisions. While each ADB deployment is unique to an organization&amp;rsquo;s needs, we have found that some patterns are common across most successful ADB projects. This guide summarizes these patterns into prescriptive and actionable best practices for Azure Databricks.
+We follow a logical path of planning the infrastructure, provisioning the workspaces, developing Azure Databricks applications, and finally, running Azure Databricks in production.</description>
+    </item>
+    
+    <item>
+      <title>Mastering PowerShell- Best Practices for Efficient and Maintainable Scripts</title>
+      <link>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
+      <description>Mastering PowerShell: Best Practices for Efficient and Maintainable Scripts Navigating the Diverse PowerShell Landscape As you dive into the world of PowerShell scripting, you&amp;rsquo;ll quickly realize that the PowerShell community is a diverse and opinionated one. When scanning through code projects on the PoshCode repository or the Microsoft Learn Code Samples Gallery, you&amp;rsquo;ll encounter a wide range of approaches and perspectives on what constitutes &amp;ldquo;best practices</description>
+    </item>
+    
+    <item>
+      <title>Mastering PowerShell Best Practices- A Comprehensive Guide</title>
+      <link>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
+      <description>Mastering PowerShell Best Practices: A Comprehensive Guide Introduction As a seasoned PowerShell practitioner, you&amp;rsquo;ve likely encountered the diverse perspectives and practices within the PowerShell community. From code projects on PoshCode to the Microsoft Learn Code Samples Gallery, it&amp;rsquo;s clear that PowerShell users have a wide range of opinions on what constitutes &amp;ldquo;right and wrong</description>
+    </item>
+    
+    <item>
+      <title>Migrating Your Linux Workloads to Azure</title>
+      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
+Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Security with Microsoft Defender for Cloud- Improve Your Secure Posture</title>
+      <link>http://example.org/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
+      <description>Mastering Azure Security with Microsoft Defender for Cloud: Improve Your Secure Posture In this comprehensive article, we&amp;rsquo;ll explore how you can leverage the powerful features of Microsoft Defender for Cloud to enhance the security posture of your Azure environment. By the end of this post, you&amp;rsquo;ll have a deep understanding of how to use vulnerability assessment for virtual machines and containers, automate recommendation workflows, and access your secure score data using Azure Resource Graph (ARG).</description>
+    </item>
+    
+  </channel>
+</rss>

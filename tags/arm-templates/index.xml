@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arm-templates on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/arm-templates/</link>
+    <description>Recent content in arm-templates on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/arm-templates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Budget with Resource Manager Templates in Azure</title>
+      <link>http://example.org/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
+      <description>ource=</description>
+    </item>
+    
+  </channel>
+</rss>

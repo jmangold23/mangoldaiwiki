@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-platform on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/cross-platform/</link>
+    <description>Recent content in Cross-platform on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cross-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Visual Studio Code- A Comprehensive Guide</title>
+      <link>http://example.org/posts/getting_started_with_visual_studio_code_a_comprehensive_guide/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/getting_started_with_visual_studio_code_a_comprehensive_guide/</guid>
+      <description>Getting Started with Visual Studio Code: A Comprehensive Guide Getting up and running with Visual Studio Code is quick and easy. As a free, cross-platform code editor, VS Code can be installed in a matter of minutes, allowing you to start coding right away.
+Cross-platform Availability Visual Studio Code is available for Windows, macOS, and Linux operating systems, making it a versatile choice for developers across different platforms. Regardless of your system, you can install VS Code and take advantage of its powerful features.</description>
+    </item>
+    
+  </channel>
+</rss>

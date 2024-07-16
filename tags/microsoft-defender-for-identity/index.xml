@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Defender for Identity on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/microsoft-defender-for-identity/</link>
+    <description>Recent content in Microsoft Defender for Identity on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/microsoft-defender-for-identity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protecting Your Hybrid Identity Environment with Microsoft Defender for Identity</title>
+      <link>http://example.org/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</guid>
+      <description>Protecting Your Hybrid Identity Environment with Microsoft Defender for Identity Microsoft Defender for Identity (MDI) is a powerful tool that plays a critical role in safeguarding your hybrid identity environment. As a component of the Microsoft 365 Defender suite, MDI gathers signals from on-premises Active Directory servers and uses these signals to protect your organization against hackers who attempt to leverage compromised accounts to move laterally across your on-premises workstations.</description>
+    </item>
+    
+    <item>
+      <title>Quickly Deploy Microsoft Defender for Identity Sensors on Active Directory and Other Key Servers</title>
+      <link>http://example.org/posts/quickly_deploy_microsoft_defender_for_identity_sensors_on_active_directory_and_other_key_servers/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/quickly_deploy_microsoft_defender_for_identity_sensors_on_active_directory_and_other_key_servers/</guid>
+      <description>Microsoft Defender for Identity is a critical security solution that helps protect your organization against identity-based attacks. This comprehensive guide will walk you through the quick installation process to get your Defender for Identity sensors up and running on your Active Directory, Active Directory Federation Services (AD FS), and Active Directory Certificate Services (AD CS) servers.
+Prerequisites Before you begin the installation, it&amp;rsquo;s important to ensure you have the necessary prerequisites in place:</description>
+    </item>
+    
+    <item>
+      <title>Securing Your Active Directory Environment with Microsoft Defender for Identity</title>
+      <link>http://example.org/posts/securing_your_active_directory_environment_with_microsoft_defender_for_identity/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_active_directory_environment_with_microsoft_defender_for_identity/</guid>
+      <description>Protecting Your Organization Against Identity-Based Attacks As the digital landscape continues to evolve, protecting your organization&amp;rsquo;s identities has become more critical than ever. Cybercriminals are increasingly targeting identity-based vulnerabilities to gain unauthorized access to sensitive data and systems. This is where Microsoft Defender for Identity comes in – a powerful tool designed to safeguard your Active Directory environment against these identity-based attacks.
+The Importance of Defender for Identity Sensors Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions.</description>
+    </item>
+    
+  </channel>
+</rss>

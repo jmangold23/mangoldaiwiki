@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Credential Management on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/credential-management/</link>
+    <description>Recent content in Credential Management on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/credential-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing Azure Container Instances- A Comprehensive Approach</title>
+      <link>http://example.org/posts/securing_azure_container_instances_a_comprehensive_approach/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_azure_container_instances_a_comprehensive_approach/</guid>
+      <description>Securing Azure Container Instances: A Comprehensive Approach Containers have become an increasingly popular way to package and deploy applications, but they also come with unique security challenges. In this comprehensive guide, we&amp;rsquo;ll explore the key security considerations for running container workloads on Azure Container Instances (ACI) and provide practical recommendations to help you secure your container ecosystem.
+Use a Private Container Registry Container images are the foundation of your container-based applications, so it&amp;rsquo;s critical to ensure their security.</description>
+    </item>
+    
+  </channel>
+</rss>

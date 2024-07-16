@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Modernization on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/application-modernization/</link>
+    <description>Recent content in Application Modernization on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/application-modernization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplify Your Cloud Migration Journey with Azure Migrate</title>
+      <link>http://example.org/posts/simplify_your_cloud_migration_journey_with_azure_migrate/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/simplify_your_cloud_migration_journey_with_azure_migrate/</guid>
+      <description>Streamlining the Migration to Azure Azure Migrate provides a comprehensive solution to simplify your journey to the cloud. This powerful service offers a range of tools and capabilities to help you assess, migrate, and modernize your on-premises infrastructure, data, and applications.
+Unified Migration Platform Azure Migrate acts as a single portal to start, run, and track your migration to Azure. It provides a seamless experience, allowing you to manage the entire migration process from a centralized location.</description>
+    </item>
+    
+  </channel>
+</rss>

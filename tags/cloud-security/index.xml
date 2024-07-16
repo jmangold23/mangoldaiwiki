@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Security on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/cloud-security/</link>
+    <description>Recent content in Cloud Security on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing Your Containerized Assets with Microsoft Defender for Containers</title>
+      <link>http://example.org/posts/securing_your_containerized_assets_with_microsoft_defender_for_containers/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_containerized_assets_with_microsoft_defender_for_containers/</guid>
+      <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multicloud and on-premises environments. This comprehensive platform addresses four core domains of container security:
+Security Posture Management Defender for Containers offers both agentless and sensor-based capabilities to help you manage the security posture of your containerized environment:
+Agentless Capabilities:
+ Agentless Discovery for Kubernetes: Provides zero-footprint, API-based discovery of your Kubernetes clusters, their configurations, and deployments.</description>
+    </item>
+    
+    <item>
+      <title>Secure Your Azure Containers with Defender for Containers</title>
+      <link>http://example.org/posts/secure_your_azure_containers_with_defender_for_containers/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/secure_your_azure_containers_with_defender_for_containers/</guid>
+      <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multi-cloud and on-premises environments. This comprehensive platform protects Kubernetes clusters, nodes, workloads, container registries, and container images, ensuring the security and resilience of your containerized applications.
+Enabling Defender for Containers To get started with Defender for Containers, you&amp;rsquo;ll need a few prerequisites:
+ Azure Subscription: You&amp;rsquo;ll need an active Microsoft Azure subscription.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Different Cloud Deployment Models- Public, Private, and Hybrid</title>
+      <link>http://example.org/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <description>In the rapidly evolving world of cloud computing, businesses and organizations face an important decision - which cloud deployment model best fits their needs? The choice can significantly impact the security, scalability, and maintenance of their data and applications. This comprehensive article delves into the three primary cloud deployment models: public, private, and hybrid, providing a detailed overview of their advantages, disadvantages, and real-world use cases.
+Public Cloud: The Most Common Deployment Model The public cloud is the most widely adopted cloud deployment model, offering a highly scalable and cost-effective solution for businesses.</description>
+    </item>
+    
+    <item>
+      <title>Securing Your Cloud Infrastructure- End-to-End Security in Azure</title>
+      <link>http://example.org/posts/securing_your_cloud_infrastructure_end-to-end_security_in_azure/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_cloud_infrastructure_end-to-end_security_in_azure/</guid>
+      <description>Azure is a robust cloud platform that offers a comprehensive suite of security services to help businesses safeguard their cloud resources, detect threats, and respond effectively. In this in-depth article, we&amp;rsquo;ll explore the various security capabilities available in Azure and how you can leverage them to create a secure, end-to-end cloud environment.
+Secure and Protect One of the key advantages of using Azure is the wide array of security tools and capabilities it provides.</description>
+    </item>
+    
+    <item>
+      <title>Secure Your Azure Containers with Microsoft Defender for Containers</title>
+      <link>http://example.org/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
+      <description>Microsoft Defender for Containers is a powerful cloud-native solution designed to enhance the security of your containerized workloads across multicloud and on-premises environments. This comprehensive platform helps you improve, monitor, and maintain the security of your Kubernetes clusters, container registries, container images, and more.
+Gain Visibility and Control Over Your Containers Microsoft Defender for Containers offers a range of powerful features to protect your containerized assets:
+  Cloud Security Posture Management (CSPM): Defender for Containers provides both foundational and advanced CSPM capabilities, enabling you to continuously assess your security posture, receive security recommendations, and benchmark your cloud security against industry standards across Azure, AWS, and Google Cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

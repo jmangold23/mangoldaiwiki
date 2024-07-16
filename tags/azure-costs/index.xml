@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Costs on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-costs/</link>
+    <description>Recent content in Azure Costs on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-costs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manage and Optimize Azure Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</guid>
+      <description>Manage and Optimize Azure Costs: A Comprehensive Guide When you sign up for Azure, it&amp;rsquo;s important to get a handle on your spending and proactively manage costs. This comprehensive guide will walk you through key strategies and tools to plan, monitor, and optimize your Azure expenditure.
+Get Estimated Costs Before Adding Azure Services Before provisioning any Azure resources, it&amp;rsquo;s crucial to estimate the potential costs. You can use the following tools to get accurate estimates:</description>
+    </item>
+    
+  </channel>
+</rss>

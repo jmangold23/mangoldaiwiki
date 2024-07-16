@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing PowerShell on Linux- A Comprehensive Guide</title>
+      <link>http://example.org/posts/installing_powershell_on_linux_a_comprehensive_guide/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/installing_powershell_on_linux_a_comprehensive_guide/</guid>
+      <description>PowerShell is a powerful and versatile tool that can be installed on a variety of Linux distributions, each with its own package manager and installation process. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions and the steps to install PowerShell on each of them.
+Supported Linux Distributions PowerShell can be installed on several different Linux distributions, including:
+Alpine Alpine is a lightweight and secure Linux distribution that uses the APK package manager.</description>
+    </item>
+    
+    <item>
+      <title>Installing PowerShell Core on Ubuntu Linux</title>
+      <link>http://example.org/posts/installing_powershell_core_on_ubuntu_linux/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/installing_powershell_core_on_ubuntu_linux/</guid>
+      <description>Installing PowerShell Core on Ubuntu Linux If you&amp;rsquo;re looking to get started with PowerShell on Linux, specifically Ubuntu, this guide has you covered. We&amp;rsquo;ll walk through installing the necessary dependencies, setting up PowerShell Core, and configuring Visual Studio Code (VSCode) for editing PowerShell scripts.
+Install Useful Tools Before we install PowerShell Core, let&amp;rsquo;s make sure we have some helpful tools in place. We&amp;rsquo;ll start by updating the package manager:
+sudo apt-get -y update Next, let&amp;rsquo;s install a few key tools:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>invoices on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/invoices/</link>
+    <description>Recent content in invoices on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/invoices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding and Maximizing Azure Cost Management Reporting</title>
+      <link>http://example.org/posts/understanding_and_maximizing_azure_cost_management_reporting/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/understanding_and_maximizing_azure_cost_management_reporting/</guid>
+      <description>Azure Cost Management is a powerful suite of tools that helps you gain visibility into your cloud spending, identify cost savings opportunities, and optimize your cloud infrastructure. In this comprehensive guide, we&amp;rsquo;ll explore the key reporting components of Azure Cost Management and how to leverage them to make informed decisions about your cloud investments.
+Cost Analysis: Visualize and Analyze Your Costs Cost analysis should be your first stop when it comes to understanding your cloud spending.</description>
+    </item>
+    
+  </channel>
+</rss>

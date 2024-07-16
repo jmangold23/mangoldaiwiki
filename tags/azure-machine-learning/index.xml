@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Machine Learning on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-machine-learning/</link>
+    <description>Recent content in Azure Machine Learning on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimize Azure Machine Learning Costs- Strategies for Efficient Model Training and Deployment</title>
+      <link>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</guid>
+      <description>Optimize Azure Machine Learning Costs: Strategies for Efficient Model Training and Deployment As the demand for machine learning continues to grow, it&amp;rsquo;s critical to manage and optimize the costs associated with training and deploying models on the cloud. Azure Machine Learning provides a powerful platform for building and deploying ML models, but effectively managing the costs can be a challenge. In this in-depth article, we&amp;rsquo;ll explore a range of strategies and best practices to help you optimize your Azure Machine Learning costs.</description>
+    </item>
+    
+    <item>
+      <title>Unlocking the Black Box- Interpreting Machine Learning Models with Azure Machine Learning</title>
+      <link>http://example.org/posts/unlocking_the_black_box_interpreting_machine_learning_models_with_azure_machine_learning/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/unlocking_the_black_box_interpreting_machine_learning_models_with_azure_machine_learning/</guid>
+      <description>Unlocking the Black Box: Interpreting Machine Learning Models with Azure Machine Learning In the world of machine learning, models can often become akin to black boxes - powerful predictive tools that deliver remarkable results, yet their inner workings remain opaque and difficult to understand. This is where model interpretability comes into play, providing invaluable insights that can shape the development, deployment, and governance of your machine learning applications.
+Azure Machine Learning offers a comprehensive suite of tools and techniques to help you unravel the mysteries of your models, empowering you to build more transparent, trustworthy, and responsible AI systems.</description>
+    </item>
+    
+  </channel>
+</rss>

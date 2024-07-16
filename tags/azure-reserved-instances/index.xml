@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Reserved Instances on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-reserved-instances/</link>
+    <description>Recent content in Azure Reserved Instances on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-reserved-instances/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manage Costs for Azure Machine Learning</title>
+      <link>http://example.org/posts/manage_costs_for_azure_machine_learning/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_costs_for_azure_machine_learning/</guid>
+      <description>As you work with Azure Machine Learning, it&amp;rsquo;s important to carefully plan and manage your costs to ensure your projects stay on budget. In this comprehensive guide, we&amp;rsquo;ll walk through several strategies and best practices to help you optimize your spending and get the most value from your Azure investment.
+Estimate Costs Upfront Before you start deploying resources, use the Azure Pricing Calculator to estimate the potential costs. This tool allows you to build out your Azure Machine Learning workspace and other supporting services, and it will provide an estimate of the monthly charges you can expect.</description>
+    </item>
+    
+  </channel>
+</rss>

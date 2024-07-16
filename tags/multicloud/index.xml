@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multicloud on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/multicloud/</link>
+    <description>Recent content in Multicloud on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/multicloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Hybrid and Multicloud Journey with the Microsoft Cloud Adoption Framework</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</guid>
+      <description>As organizations increasingly embrace cloud computing, their journey towards cloud adoption becomes more complex. The introduction to the hybrid and multicloud scenario outlined in the provided content consolidates various technical and non-technical considerations required to prepare for this journey.
+The key focus of this scenario is to enable two primary outcomes:
+ Hybrid and Multicloud Adoption: Building, deploying, and/or migrating solutions that are portable, allowing for ease of movement between cloud platforms with minimum vendor lock-in.</description>
+    </item>
+    
+    <item>
+      <title>Preparing Your Environment for a Hybrid and Multicloud Future with Azure Arc</title>
+      <link>http://example.org/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
+      <description>The modern business landscape demands flexibility, scalability, and seamless integration across on-premises, edge, and multicloud environments. As organizations navigate this complex landscape, the Cloud Adoption Framework&amp;rsquo;s Ready methodology can be a powerful guide, helping you prepare your environment for a successful hybrid and multicloud strategy.
+At the heart of this approach are Azure landing zones - the building blocks of any Azure cloud adoption environment. These landing zones account for crucial elements like scale, security governance, networking, identity, cost management, and monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Journey- A Comprehensive Guide</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</guid>
+      <description>As organizations continue to embrace cloud computing, the path to cloud adoption is becoming increasingly complex. The hybrid and multicloud scenario, as outlined in the Cloud Adoption Framework for Azure, presents a strategic approach to navigating this evolving landscape.
+This comprehensive guide aims to provide a deep dive into the key components and considerations required to successfully implement a hybrid and multicloud strategy.
+Understanding the Hybrid and Multicloud Scenario The hybrid and multicloud scenario focuses on two primary objectives:</description>
+    </item>
+    
+    <item>
+      <title>Securing Your Azure Containers with Defender for Containers</title>
+      <link>http://example.org/posts/securing_your_azure_containers_with_defender_for_containers/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_azure_containers_with_defender_for_containers/</guid>
+      <description>Microsoft Defender for Containers is a comprehensive cloud-native solution that helps you improve, monitor, and maintain the security of your containerized assets across multicloud and on-premises environments. This includes Kubernetes clusters, nodes, workloads, container registries, and container images.
+To get started with Defender for Containers, you&amp;rsquo;ll need a Microsoft Azure subscription. If you don&amp;rsquo;t have one, you can sign up for a free Azure subscription. You&amp;rsquo;ll also need to enable Microsoft Defender for Cloud on your Azure subscription.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Landscape- Strategies for Success</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
+      <description>Navigating the Hybrid and Multicloud Landscape: Strategies for Success Microsoft Azure provides a comprehensive set of products and features to help organizations build and operate their technology solutions in the cloud. However, many businesses find themselves needing to leverage multiple private and public clouds to meet their specific business requirements. This article outlines Microsoft&amp;rsquo;s perspective on the important cloud computing concepts of hybrid and multicloud, and provides guidance on navigating the associated challenges and opportunities.</description>
+    </item>
+    
+    <item>
+      <title>Migrating Your Linux Workloads to Azure</title>
+      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
+Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Landscape- Maximize the Benefits, Minimize the Concerns</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
+      <description>Navigating the Hybrid and Multicloud Landscape: Maximize the Benefits, Minimize the Concerns As the digital landscape continues to evolve, more and more organizations are embracing the power of hybrid and multicloud environments. Microsoft Azure, as an enterprise-grade cloud provider, offers a comprehensive suite of products and features to help you build and operate your technology solutions across public, hybrid, and multicloud setups.
+Defining Hybrid and Multicloud A hybrid cloud is a type of cloud computing that combines a private cloud (on-premises infrastructure) with a public cloud (computing services offered by third-party providers over the public internet).</description>
+    </item>
+    
+    <item>
+      <title>Hybrid and Multicloud- Unlocking the Power of the Cloud</title>
+      <link>http://example.org/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
+      <description>Hybrid and Multicloud: Unlocking the Power of the Cloud As businesses strive to remain agile, innovative, and competitive in today&amp;rsquo;s fast-paced digital landscape, the need for a flexible and scalable technology infrastructure has become paramount. Enter the world of hybrid and multicloud computing - a transformative approach that empowers organizations to harness the full potential of cloud technology while addressing the unique challenges they face.
+Microsoft Azure, as a leading enterprise-grade cloud provider, understands the intricacies of this evolving landscape.</description>
+    </item>
+    
+    <item>
+      <title>Secure Your Azure Containers with Microsoft Defender for Containers</title>
+      <link>http://example.org/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
+      <description>Microsoft Defender for Containers is a powerful cloud-native solution designed to enhance the security of your containerized workloads across multicloud and on-premises environments. This comprehensive platform helps you improve, monitor, and maintain the security of your Kubernetes clusters, container registries, container images, and more.
+Gain Visibility and Control Over Your Containers Microsoft Defender for Containers offers a range of powerful features to protect your containerized assets:
+  Cloud Security Posture Management (CSPM): Defender for Containers provides both foundational and advanced CSPM capabilities, enabling you to continuously assess your security posture, receive security recommendations, and benchmark your cloud security against industry standards across Azure, AWS, and Google Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Landscape- A Comprehensive Guide</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</guid>
+      <description>As cloud adoption continues to mature, organizations are finding themselves navigating an increasingly complex journey to the cloud. The hybrid and multicloud scenario presents both challenges and opportunities, requiring a strategic and well-orchestrated approach to succeed.
+This comprehensive guide will walk you through the key considerations and guidance necessary to prepare for and thrive in a hybrid and multicloud environment.
+The Hybrid and Multicloud Scenario The hybrid and multicloud scenario is centered around two primary goals:</description>
+    </item>
+    
+    <item>
+      <title>Preparing Your Environment for Hybrid and Multicloud Scenarios with Azure Arc</title>
+      <link>http://example.org/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
+      <description>In today&amp;rsquo;s ever-evolving technology landscape, organizations are increasingly adopting hybrid and multicloud strategies to meet their diverse business needs. The Cloud Adoption Framework&amp;rsquo;s Ready methodology provides a structured approach to prepare your environment for these complex scenarios, with Azure landing zones serving as the building blocks.
+Understanding Hybrid and Multicloud in Azure Landing Zones Azure landing zones are the result of a multi-subscription Azure environment that accounts for scale, security governance, networking, identity, cost management, and monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Landscape with Azure</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</guid>
+      <description>Navigating the Hybrid and Multicloud Landscape with Azure As enterprises increasingly look to leverage the benefits of cloud computing, many are finding that a hybrid or multicloud approach is the best fit for their needs. Microsoft Azure, as a leading enterprise-grade cloud provider, is well-equipped to support businesses across public, hybrid, and multicloud environments.
+Understanding Hybrid and Multicloud A hybrid cloud combines a private cloud (on-premises infrastructure) with a public cloud (third-party cloud services).</description>
+    </item>
+    
+  </channel>
+</rss>

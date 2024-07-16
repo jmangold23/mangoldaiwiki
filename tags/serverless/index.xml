@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/serverless/</link>
+    <description>Recent content in Serverless on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Serverless Computing on Microsoft Azure</title>
+      <link>http://example.org/posts/exploring_serverless_computing_on_microsoft_azure/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
+      <description>Serverless computing is a revolutionary approach to application development that enables developers to build and run applications without having to manage any underlying infrastructure. This article provides an in-depth look at serverless computing on Microsoft Azure, covering the key concepts, benefits, and patterns of serverless applications.
+What is Serverless Computing? Serverless computing allows developers to build and run applications and services without having to provision or manage any servers. The cloud service provider (in this case, Microsoft Azure) automatically provisions, scales, and manages the infrastructure required to run the code.</description>
+    </item>
+    
+  </channel>
+</rss>

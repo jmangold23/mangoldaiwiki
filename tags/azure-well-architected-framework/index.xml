@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure well-architected framework on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-well-architected-framework/</link>
+    <description>Recent content in azure well-architected framework on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-well-architected-framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Hybrid and Multicloud Journey with the Microsoft Cloud Adoption Framework</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</guid>
+      <description>As organizations increasingly embrace cloud computing, their journey towards cloud adoption becomes more complex. The introduction to the hybrid and multicloud scenario outlined in the provided content consolidates various technical and non-technical considerations required to prepare for this journey.
+The key focus of this scenario is to enable two primary outcomes:
+ Hybrid and Multicloud Adoption: Building, deploying, and/or migrating solutions that are portable, allowing for ease of movement between cloud platforms with minimum vendor lock-in.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Journey- A Comprehensive Guide</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</guid>
+      <description>As organizations continue to embrace cloud computing, the path to cloud adoption is becoming increasingly complex. The hybrid and multicloud scenario, as outlined in the Cloud Adoption Framework for Azure, presents a strategic approach to navigating this evolving landscape.
+This comprehensive guide aims to provide a deep dive into the key components and considerations required to successfully implement a hybrid and multicloud strategy.
+Understanding the Hybrid and Multicloud Scenario The hybrid and multicloud scenario focuses on two primary objectives:</description>
+    </item>
+    
+  </channel>
+</rss>

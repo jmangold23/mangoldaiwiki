@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Active Directory on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-active-directory/</link>
+    <description>Recent content in Azure Active Directory on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive Guide to Azure Identity Management Security Features</title>
+      <link>http://example.org/posts/comprehensive_guide_to_azure_identity_management_security_features/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/comprehensive_guide_to_azure_identity_management_security_features/</guid>
+      <description>Identity management is a critical component of any modern IT infrastructure, and Microsoft&amp;rsquo;s Azure platform offers a robust set of tools and capabilities to help organizations effectively manage identities and secure access to resources. In this comprehensive guide, we&amp;rsquo;ll explore the core Azure security features that empower identity management, including single sign-on, reverse proxy, multifactor authentication, Azure role-based access control (RBAC), security monitoring and reporting, and more.
+Single Sign-On (SSO) Single sign-on (SSO) is a fundamental feature of Azure&amp;rsquo;s identity management offerings, allowing users to access all the applications and resources they need by signing in only once with their primary organizational account.</description>
+    </item>
+    
+  </channel>
+</rss>

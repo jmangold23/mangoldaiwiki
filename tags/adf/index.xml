@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADF on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/adf/</link>
+    <description>Recent content in ADF on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/adf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Integration and Delivery in Azure Data Factory</title>
+      <link>http://example.org/posts/continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <description>Continuous integration is the practice of testing each change made to your codebase automatically and as early as possible. Continuous delivery follows the testing that happens during continuous integration and pushes changes to a staging or production system.
+In Azure Data Factory, continuous integration and delivery (CI/CD) means moving Data Factory pipelines from one environment (development, test, production) to another. Azure Data Factory utilizes Azure Resource Manager templates to store the configuration of your various ADF entities (pipelines, datasets, data flows, and so on).</description>
+    </item>
+    
+  </channel>
+</rss>

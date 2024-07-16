@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Policy on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-policy/</link>
+    <description>Recent content in Azure Policy on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Optimizing Virtual Machine Costs in Azure</title>
+      <link>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</guid>
+      <description>Optimizing Virtual Machine Costs in Azure: Best Practices As organizations continue to embrace the cloud, managing and reducing costs for virtual machines (VMs) has become a critical priority. This comprehensive guide delves into the best practices you can implement to optimize the costs of your Azure virtual machines.
+Use the Azure VM Selector to Identify the Right VMs for Your Needs The first step in cost optimization is selecting the appropriate virtual machines for your workloads.</description>
+    </item>
+    
+  </channel>
+</rss>

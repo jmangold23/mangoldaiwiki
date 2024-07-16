@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teamwork on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/teamwork/</link>
+    <description>Recent content in Teamwork on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/teamwork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking Collaboration with Microsoft 365 Groups</title>
+      <link>http://example.org/posts/unlocking_collaboration_with_microsoft_365_groups/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/unlocking_collaboration_with_microsoft_365_groups/</guid>
+      <description>Unlocking Collaboration with Microsoft 365 Groups Microsoft 365 Groups is a powerful collaboration tool that enables teams across your organization to work together more effectively. By creating a Microsoft 365 Group, you can provide a shared set of resources that team members can access and use to drive their projects forward.
+What are Microsoft 365 Groups? Microsoft 365 Groups is the foundational membership service that powers collaboration across the Microsoft 365 suite.</description>
+    </item>
+    
+  </channel>
+</rss>

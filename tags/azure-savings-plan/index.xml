@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Savings Plan on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-savings-plan/</link>
+    <description>Recent content in Azure Savings Plan on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-savings-plan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimize Azure Costs with the Cost Optimization Workbook</title>
+      <link>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize your Azure costs. This comprehensive guide will walk you through the various features and capabilities of the workbook, equipping you with the knowledge to make informed decisions and drive cost savings in your Azure environment.
+Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used cost optimization tools and insights.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Your Azure Costs with the Cost Optimization Workbook</title>
+      <link>http://example.org/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize the costs of your Azure environment. This comprehensive guide will walk you through the features and capabilities of the workbook, empowering you to make informed decisions and drive cost savings in your Azure deployments.
+Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used tools that can help you drive utilization and efficiency goals.</description>
+    </item>
+    
+  </channel>
+</rss>

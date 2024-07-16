@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reserved capacity on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/reserved-capacity/</link>
+    <description>Recent content in reserved capacity on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/reserved-capacity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Azure Cosmos DB Pricing- A Comprehensive Guide</title>
+      <link>http://example.org/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
+      <description>Navigating the pricing landscape of Azure Cosmos DB can be a daunting task, but with the right information, you can optimize your costs and maximize the value of this powerful NoSQL database service. In this comprehensive guide, we&amp;rsquo;ll dive deep into the intricacies of Azure Cosmos DB&amp;rsquo;s pricing model, uncover strategies to save on your database operations, and explore the various options available for developers to get started with Azure Cosmos DB for free.</description>
+    </item>
+    
+  </channel>
+</rss>

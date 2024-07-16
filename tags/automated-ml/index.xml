@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automated ML on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/automated-ml/</link>
+    <description>Recent content in Automated ML on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/automated-ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Time-Series Forecasting with Azure Machine Learning&#39;s Automated ML</title>
+      <link>http://example.org/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll dive deep into setting up Azure Machine Learning&amp;rsquo;s Automated ML for time-series forecasting. Unlike classical time series methods, Automated ML takes a unique approach by &amp;ldquo;pivoting&amp;rdquo; past time-series values to become additional dimensions for the regressor, along with other predictors. This approach allows Automated ML to incorporate multiple contextual variables and their relationships during training, making it a powerful tool for real-world forecasting scenarios.
+We&amp;rsquo;ll start by preparing your data for time-series modeling, ensuring that all features used in training can be used when running predictions for your intended horizon.</description>
+    </item>
+    
+  </channel>
+</rss>

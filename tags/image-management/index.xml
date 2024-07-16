@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Management on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/image-management/</link>
+    <description>Recent content in Image Management on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/image-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Securing Container Images in Azure Kubernetes Service (AKS)</title>
+      <link>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <description>As container-based workloads become increasingly prevalent, ensuring the security of container images is crucial to avoid introducing vulnerabilities into your deployments. In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing and securing container images in Azure Kubernetes Service (AKS).
+Secure the Images and Runtime Best Practice Guidance:
+ Scan your container images for vulnerabilities. Only deploy validated images. Regularly update the base images and application runtime. Redeploy workloads in the AKS cluster.</description>
+    </item>
+    
+    <item>
+      <title>Securing Container Images in Azure Kubernetes Service (AKS)</title>
+      <link>http://example.org/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <description>Securing Container Images in Azure Kubernetes Service (AKS) Container and container image security is a critical priority when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes can introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools within your containers during the build and runtime phases. The earlier you can identify and address vulnerabilities or outdated base images, the more secure your application will be.</description>
+    </item>
+    
+    <item>
+      <title>Securing Your Containers- Best Practices for Container Image Management in Azure Kubernetes Service</title>
+      <link>http://example.org/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
+      <description>Containers and container image security are critical priorities when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools in your containers during both the build and runtime stages. The earlier you identify vulnerabilities or outdated base images, the more secure your application will be.</description>
+    </item>
+    
+    <item>
+      <title>Securing Azure Container Instances- Best Practices for Image Management and Container Ecosystem</title>
+      <link>http://example.org/posts/securing_azure_container_instances_best_practices_for_image_management_and_container_ecosystem/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_azure_container_instances_best_practices_for_image_management_and_container_ecosystem/</guid>
+      <description>Securing Azure Container Instances: Best Practices for Image Management and Container Ecosystem Containerizing your applications can bring tremendous benefits in terms of portability, scalability, and efficiency. However, it also introduces new security considerations that must be addressed to protect your Azure infrastructure and workloads. This comprehensive guide explores the key security recommendations for managing container images and the broader container ecosystem when using Azure Container Instances.
+Secure Your Container Images Use a Private Container Registry Storing and retrieving container images from a private registry, such as Azure Container Registry or Docker Trusted Registry, is crucial for mitigating security risks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybrid Environment on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/hybrid-environment/</link>
+    <description>Recent content in Hybrid Environment on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hybrid-environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Your Windows Server, SQL Server, and Linux Workloads</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by applying your existing Windows Server, SQL Server licenses, and Linux subscriptions. By leveraging this benefit, you can achieve significant savings of up to 85% over the standard pay-as-you-go rates.
+One of the key advantages of the Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to take advantage of the scalability and flexibility of the cloud while still utilizing your existing investments in SQL Server licenses.</description>
+    </item>
+    
+  </channel>
+</rss>

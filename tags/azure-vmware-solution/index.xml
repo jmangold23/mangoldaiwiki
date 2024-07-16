@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure VMware Solution on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-vmware-solution/</link>
+    <description>Recent content in Azure VMware Solution on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-vmware-solution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Your SQL Server and Windows Server Investments with Azure Hybrid Benefit</title>
+      <link>http://example.org/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving program from Microsoft that allows you to get more value from your existing Windows Server, SQL Server, and Linux software investments when migrating to the cloud. By applying your on-premises licenses to Azure, you can save up to 85% over standard pay-as-you-go rates and seamlessly extend your hybrid infrastructure.
+Here&amp;rsquo;s how Azure Hybrid Benefit can benefit your organization:
+1. Save Up to 85% on Azure Costs With Azure Hybrid Benefit, you can use your existing Windows Server and SQL Server licenses to run virtual machines in Azure at a substantially reduced rate.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Windows Server, SQL Server, and Linux Subscriptions</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by leveraging your existing Windows Server, SQL Server licenses, and Linux subscriptions. By taking advantage of this benefit, you can save up to 85% over the standard pay-as-you-go rate when running your workloads on Azure.
+One of the key features of Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to seamlessly migrate and modernize your SQL Server databases to the cloud.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Migrate Assessments- Best Practices for Maximizing Migration Success</title>
+      <link>http://example.org/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/</guid>
+      <description>Azure Migrate is a powerful platform that simplifies the process of discovering, assessing, and migrating workloads to Microsoft Azure. The Azure Migrate Discovery and assessment tool is a crucial component that helps organizations evaluate their on-premises infrastructure and determine the best path forward for their cloud migration journey. In this comprehensive guide, we will delve into the best practices for creating assessments using the Azure Migrate Discovery and assessment tool, ensuring you can make informed decisions and optimize your migration efforts.</description>
+    </item>
+    
+    <item>
+      <title>Maximizing Your SQL Server Investments with Azure Hybrid Benefit</title>
+      <link>http://example.org/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</guid>
+      <description>Migrating and modernizing your SQL Server deployments can be a complex and costly endeavor, but Microsoft&amp;rsquo;s Azure Hybrid Benefit offers a solution that can help you save significantly on your licensing costs while streamlining your hybrid environment.
+Azure Hybrid Benefit is a cost-saving offering from Microsoft that allows you to apply your existing Windows Server, SQL Server, and Linux subscriptions to your cloud workloads, unlocking substantial savings. By leveraging this benefit, you can save up to 85% over the standard pay-as-you-go rates, making it a highly attractive option for organizations looking to optimize their IT investments.</description>
+    </item>
+    
+    <item>
+      <title>Establish a Secure Site-to-Site VPN Connection for Azure VMware Solution</title>
+      <link>http://example.org/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll walk you through the process of setting up a secure site-to-site VPN connection between your on-premises network and Azure VMware Solution. This powerful integration allows you to seamlessly extend your local infrastructure into the Azure cloud, enabling hybrid scenarios and providing a reliable, high-performance connection.
+Prerequisites Before we begin, ensure that you have the following:
+ A public-facing IP address for your on-premises VPN device. Familiarity with Azure Virtual WAN and its components, including virtual hubs and VPN gateways.</description>
+    </item>
+    
+  </channel>
+</rss>

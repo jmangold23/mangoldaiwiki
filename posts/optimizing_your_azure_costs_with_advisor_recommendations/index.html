@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Optimizing Your Azure Costs with Advisor Recommendations // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Optimizing Your Azure Costs with Advisor Recommendations"/>
+<meta name="twitter:description" content="Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.
+In this comprehensive guide, we&rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.
+AI Services Potential Cost Savings on AI Services Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier."/>
+
+    <meta property="og:title" content="Optimizing Your Azure Costs with Advisor Recommendations" />
+<meta property="og:description" content="Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.
+In this comprehensive guide, we&rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.
+AI Services Potential Cost Savings on AI Services Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/optimizing_your_azure_costs_with_advisor_recommendations/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-12-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-12-17T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Optimizing Your Azure Costs with Advisor Recommendations</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Dec 17, 2023
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          6 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <p>Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.</p>
+<p>In this comprehensive guide, we&rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.</p>
+<h2 id="ai-services">AI Services</h2>
+<h3 id="potential-cost-savings-on-ai-services">Potential Cost Savings on AI Services</h3>
+<p>Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier. Commitment tiers offer discounted rates for high-volume usage, which can result in significant cost savings.</p>
+<p>To take advantage of these potential savings, review the Advisor recommendations for each of your AI service resources and consider migrating to the appropriate Commitment tier. This will ensure you&rsquo;re getting the best value for your AI workloads.</p>
+<h2 id="analytics">Analytics</h2>
+<h3 id="optimize-data-explorer-costs">Optimize Data Explorer Costs</h3>
+<p>Advisor has provided several recommendations to help you optimize your costs for Azure Data Explorer resources:</p>
+<ul>
+<li><strong>Unused, stopped, and empty Data Explorer resources</strong>: Advisor suggests deleting any Data Explorer resources that have been stopped for at least 60 days or are provisioned but empty or inactive.</li>
+<li><strong>Right-size Data Explorer resources</strong>: If your Data Explorer resources have low data capacity, CPU utilization, or memory utilization, Advisor recommends scaling down or scaling in the resources to a more cost-effective configuration.</li>
+<li><strong>Reduce Data Explorer table cache policy</strong>: Lowering the table cache policy can free up Data Explorer cluster nodes with low CPU and memory utilization, leading to cost savings.</li>
+<li><strong>Enable optimized autoscale</strong>: Enabling the optimized autoscale feature can automatically scale your Data Explorer resources based on usage patterns, cache utilization, and CPU, helping to reduce costs.</li>
+</ul>
+<p>By implementing these recommendations, you can ensure your Data Explorer resources are properly sized and configured to minimize unnecessary spending.</p>
+<h2 id="compute">Compute</h2>
+<h3 id="optimize-disk-and-virtual-machine-usage">Optimize Disk and Virtual Machine Usage</h3>
+<p>Advisor has identified several opportunities to optimize your compute costs:</p>
+<ul>
+<li><strong>Underutilized disks</strong>: If you have disks that are less than 10% utilized, consider right-sizing them to save costs.</li>
+<li><strong>Unattached disks</strong>: Advisor has detected disks that haven&rsquo;t been attached to a VM for more than 30 days. Evaluate whether you still need these disks, and if not, consider deleting them.</li>
+<li><strong>Underutilized virtual machine scale sets</strong>: Advisor has identified virtual machine scale sets with low usage over the past 7 days. You may be able to save money by right-sizing or shutting down these underutilized resources.</li>
+<li><strong>Ephemeral OS Disk</strong>: Enabling Ephemeral OS Disk can help you save on storage costs and improve performance for short-lived or stateless VMs.</li>
+</ul>
+<p>Implement these recommendations to ensure your compute resources are being used efficiently and cost-effectively.</p>
+<h2 id="databases">Databases</h2>
+<h3 id="optimize-cosmos-db-and-other-database-costs">Optimize Cosmos DB and Other Database Costs</h3>
+<p>Advisor has provided several recommendations to help you reduce your database costs:</p>
+<ul>
+<li><strong>Cosmos DB free tier</strong>: If your Cosmos DB free tier account has provisioned throughput exceeding 1,000 Request Units per second (RU/s), you may be charged for the excess throughput. Review your Cosmos DB configuration and consider scaling down or deleting unused containers.</li>
+<li><strong>Cosmos DB autoscale</strong>: Enabling autoscale on your Cosmos DB databases or containers can help optimize costs by scaling down RU/s when not in use.</li>
+<li><strong>Underutilized database servers</strong>: Advisor has identified underutilized MariaDB, MySQL, and PostgreSQL database servers. Consider reducing the compute size (vCores) by half to save costs without significantly impacting performance.</li>
+</ul>
+<p>By implementing these recommendations, you can ensure your database resources are properly sized and configured to minimize unnecessary spending.</p>
+<h2 id="networking">Networking</h2>
+<h3 id="optimize-networking-costs">Optimize Networking Costs</h3>
+<p>Advisor has provided several recommendations to help you optimize your networking costs:</p>
+<ul>
+<li><strong>Unused ExpressRoute circuits</strong>: If you have ExpressRoute circuits in the &ldquo;Not Provisioned&rdquo; status for more than a month, consider deleting them if you don&rsquo;t plan to provision them.</li>
+<li><strong>Idle virtual network gateways</strong>: Advisor has detected virtual network gateways that have been idle for over 90 days. Reconfigure or delete these gateways if you no longer need them.</li>
+<li><strong>Migrate to Front Door Standard/Premium</strong>: If your Front Door Classic tier contains a large number of domains or routing rules, consider migrating to the Front Door Standard or Premium tiers, which don&rsquo;t charge per additional domain or routing rule.</li>
+<li><strong>Consolidate Front Door profiles</strong>: If your subscription contains multiple Front Door Standard/Premium profiles with a small number of endpoints, you can save costs by using multiple endpoints within a single profile.</li>
+</ul>
+<p>By addressing these networking-related recommendations, you can reduce unnecessary networking expenses and optimize your cloud costs.</p>
+<h2 id="reserved-instances-and-savings-plans">Reserved Instances and Savings Plans</h2>
+<h3 id="take-advantage-of-reserved-instances-and-savings-plans">Take Advantage of Reserved Instances and Savings Plans</h3>
+<p>Advisor has identified several opportunities for you to save money by purchasing reserved instances or savings plans for various Azure services, including:</p>
+<ul>
+<li><strong>Virtual machines</strong>: Prepurchasing reserved instances for your virtual machines can provide significant discounts over pay-as-you-go costs.</li>
+<li><strong>App Service</strong>: Advisor recommends considering reserved instances for your App Service plan to save over your on-demand costs.</li>
+<li><strong>Cosmos DB, SQL, MySQL, PostgreSQL, Redis Cache, Synapse Analytics, Blob storage, and more</strong>: Advisor has identified reserved instance purchase recommendations for these services that can help you save over your pay-as-you-go costs.</li>
+</ul>
+<p>Carefully review Advisor&rsquo;s recommendations for reserved instances and savings plans that align with your usage patterns. Implementing these options can lead to substantial cost savings.</p>
+<h2 id="storage">Storage</h2>
+<h3 id="optimize-storage-costs">Optimize Storage Costs</h3>
+<p>Advisor has provided the following recommendations to help you optimize your storage costs:</p>
+<ul>
+<li><strong>Managed Disk snapshots</strong>: Store your Managed Disk snapshots in Standard Storage to save 60% on costs.</li>
+<li><strong>Classic log data in storage accounts</strong>: Review the retention policy for classic log data in your storage accounts and update it to reduce unnecessary data and costs.</li>
+<li><strong>Premium storage evaluation</strong>: If your storage accounts have a high transactions-to-terabyte (TPB/TB) ratio, Advisor suggests evaluating a move to Premium storage, as it may be more cost-effective for your scenario.</li>
+<li><strong>Database backup optimization</strong>: For SQL and HANA databases in Azure VMs, using daily differential with weekly full backups is often more cost-effective than daily full backups.</li>
+</ul>
+<p>Implement these storage-related recommendations to ensure you&rsquo;re optimizing your storage costs and only paying for the resources you need.</p>
+<h2 id="web-apps">Web Apps</h2>
+<h3 id="right-size-app-service-plans">Right-size App Service Plans</h3>
+<p>Advisor has identified App Service plans with low CPU usage over the past 7 days. In many cases, you can save money by choosing a less expensive SKU while retaining the same features. Review the usage patterns of your App Service plans and consider right-sizing them to a more cost-effective configuration.</p>
+<p>Additionally, Advisor has detected App Service plans that are unused or empty. Consider deleting these resources to reduce expenses, or add new applications to utilize their capabilities.</p>
+<p>By following Advisor&rsquo;s recommendations, you can optimize your Azure costs and ensure your resources are being utilized efficiently. Remember to review the recommendations regularly, as your usage patterns may change over time, and new cost-saving opportunities may arise.</p>
+<p>For more information on cost optimization strategies, refer to the <a href="/azure/architecture/framework/cost/overview">Microsoft Azure Well Architected Framework for Cost Optimization</a>.</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

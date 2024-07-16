@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource Optimization on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/resource-optimization/</link>
+    <description>Recent content in Resource Optimization on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/resource-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Your Azure Costs with Advisor Recommendations</title>
+      <link>http://example.org/posts/optimizing_your_azure_costs_with_advisor_recommendations/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimizing_your_azure_costs_with_advisor_recommendations/</guid>
+      <description>Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.
+In this comprehensive guide, we&amp;rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.
+AI Services Potential Cost Savings on AI Services Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>management groups on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/management-groups/</link>
+    <description>Recent content in management groups on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/management-groups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organize Your Azure Resources with Management Groups</title>
+      <link>http://example.org/posts/organize_your_azure_resources_with_management_groups/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/organize_your_azure_resources_with_management_groups/</guid>
+      <description>Organize Your Azure Resources with Management Groups If your organization has many Azure subscriptions, you may need a way to efficiently manage access, policies, and compliance across those subscriptions. Azure management groups provide a governance scope above subscriptions, allowing you to organize your subscriptions into a hierarchical structure for unified policy and access management.
+Hierarchy of Management Groups and Subscriptions You can build a flexible hierarchy of management groups and subscriptions to organize your Azure resources.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Your Azure Resources with Management Groups</title>
+      <link>http://example.org/posts/organizing_your_azure_resources_with_management_groups/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/organizing_your_azure_resources_with_management_groups/</guid>
+      <description>Azure Management Groups are a powerful tool for organizing and managing your Azure resources. They allow you to create a hierarchical structure that can be used to apply consistent policies, access controls, and governance across multiple Azure subscriptions.
+In this guide, we&amp;rsquo;ll walk through the process of creating a new management group using the Azure Portal. Management groups are containers that help you manage access, policy, and compliance across multiple Azure subscriptions.</description>
+    </item>
+    
+  </channel>
+</rss>

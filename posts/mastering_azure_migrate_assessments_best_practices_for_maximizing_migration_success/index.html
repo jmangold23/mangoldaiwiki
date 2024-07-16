@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Mastering Azure Migrate Assessments- Best Practices for Maximizing Migration Success // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mastering Azure Migrate Assessments- Best Practices for Maximizing Migration Success"/>
+<meta name="twitter:description" content="Azure Migrate is a powerful platform that simplifies the process of discovering, assessing, and migrating workloads to Microsoft Azure. The Azure Migrate Discovery and assessment tool is a crucial component that helps organizations evaluate their on-premises infrastructure and determine the best path forward for their cloud migration journey. In this comprehensive guide, we will delve into the best practices for creating assessments using the Azure Migrate Discovery and assessment tool, ensuring you can make informed decisions and optimize your migration efforts."/>
+
+    <meta property="og:title" content="Mastering Azure Migrate Assessments- Best Practices for Maximizing Migration Success" />
+<meta property="og:description" content="Azure Migrate is a powerful platform that simplifies the process of discovering, assessing, and migrating workloads to Microsoft Azure. The Azure Migrate Discovery and assessment tool is a crucial component that helps organizations evaluate their on-premises infrastructure and determine the best path forward for their cloud migration journey. In this comprehensive guide, we will delve into the best practices for creating assessments using the Azure Migrate Discovery and assessment tool, ensuring you can make informed decisions and optimize your migration efforts." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-02-18T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Mastering Azure Migrate Assessments- Best Practices for Maximizing Migration Success</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Feb 18, 2024
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          4 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="http://example.org/tags/assessment/">Assessment</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <p>Azure Migrate is a powerful platform that simplifies the process of discovering, assessing, and migrating workloads to Microsoft Azure. The Azure Migrate Discovery and assessment tool is a crucial component that helps organizations evaluate their on-premises infrastructure and determine the best path forward for their cloud migration journey. In this comprehensive guide, we will delve into the best practices for creating assessments using the Azure Migrate Discovery and assessment tool, ensuring you can make informed decisions and optimize your migration efforts.</p>
+<h2 id="understanding-assessment-types">Understanding Assessment Types</h2>
+<p>Azure Migrate offers four types of assessments, each tailored to specific migration scenarios:</p>
+<ol>
+<li><strong>Azure VM Assessment</strong>: Evaluate your on-premises servers running on VMware, Hyper-V, or physical servers, and determine the best Azure virtual machines to accommodate your workloads.</li>
+<li><strong>Azure SQL Assessment</strong>: Assess your on-premises SQL servers running on VMware environments to identify the optimal migration path to Azure SQL Database or Azure SQL Managed Instance.</li>
+<li><strong>Azure App Service Assessment</strong>: Evaluate your on-premises ASP.NET web apps running on IIS web servers, and plan their migration to Azure App Service.</li>
+<li><strong>Azure VMware Solution (AVS) Assessment</strong>: Assess your on-premises VMware virtual machines and determine the suitability for migration to Azure VMware Solution (AVS), Microsoft&rsquo;s fully managed private cloud service.</li>
+</ol>
+<p>Understanding these assessment types and their respective capabilities is crucial for aligning your migration strategy with your organization&rsquo;s specific needs.</p>
+<h2 id="best-practices-for-creating-assessments">Best Practices for Creating Assessments</h2>
+<p>To ensure the success of your assessments, consider the following best practices:</p>
+<ol>
+<li><strong>Create As-Is Assessments</strong>: You can immediately create as-is assessments once your servers appear in the Azure Migrate portal. This provides a baseline understanding of your on-premises infrastructure, which you can then refine with performance-based assessments.</li>
+<li><strong>Conduct Performance-Based Assessments</strong>: After setting up discovery, wait at least a day before running a performance-based assessment. This allows the Azure Migrate appliance to collect sufficient performance data, ensuring accurate sizing recommendations.</li>
+<li><strong>Recalculate Assessments</strong>: Assessments are point-in-time snapshots and do not automatically update with the latest data. To reflect changes in your environment, be sure to recalculate your assessments regularly.</li>
+<li><strong>Optimize Assessments for Imported Data</strong>: For servers imported into Azure Migrate via CSV files, you can create both as-is and performance-based assessments. However, the accuracy of the performance-based assessment depends on the quality of the performance data you provide.</li>
+<li><strong>Understand FTT Sizing Parameters for AVS Assessments</strong>: The storage engine used in Azure VMware Solution (AVS) is vSAN, which uses storage policies to determine the requirements for your virtual machines. Familiarize yourself with the available Failures to Tolerate (FTT) and RAID configuration options to ensure accurate sizing recommendations.</li>
+</ol>
+<h2 id="leveraging-confidence-ratings">Leveraging Confidence Ratings</h2>
+<p>Confidence ratings, ranging from 1-star (lowest) to 5-star (highest), are awarded to performance-based assessments based on the availability of performance data. To maximize the value of these ratings:</p>
+<ul>
+<li>For Azure VM and AVS assessments, ensure you have the necessary performance data, including CPU and memory utilization, disk IOPS and throughput, and network usage.</li>
+<li>For Azure SQL assessments, provide the performance data for SQL instances and databases, such as CPU and memory utilization, IOPS, throughput, and latency.</li>
+</ul>
+<p>By understanding the factors that influence confidence ratings, you can take the necessary steps to collect the required data and improve the reliability of your assessments.</p>
+<h2 id="addressing-common-assessment-issues">Addressing Common Assessment Issues</h2>
+<p>Azure Migrate assessments may encounter various issues, and it&rsquo;s essential to know how to address them:</p>
+<ol>
+<li><strong>Out-of-Sync Assessments</strong>: If you add or remove servers from a group after creating an assessment, the assessment will be marked as &ldquo;out-of-sync.&rdquo; Recalculate the assessment to reflect the group changes.</li>
+<li><strong>Outdated Assessments</strong>: Assessments can become outdated due to changes in the on-premises environment, such as server configuration updates or SQL instance and database modifications. Recalculate the assessment to incorporate these changes.</li>
+<li><strong>Low Confidence Ratings</strong>: Insufficient performance data, incomplete discovery, or newly added servers can result in low confidence ratings. Ensure you profile your environment for the full assessment duration, check for any connectivity issues, and recalculate the assessment to improve the rating.</li>
+<li><strong>Migration Tool Guidance for AVS Assessments</strong>: The Azure readiness report for AVS assessments suggests the use of VMware Hybrid Cloud Extension (HCX) as the recommended migration tool for VMware servers. For servers imported via CSV, the default tool is unknown, but HCX is still the recommended option for VMware environments.</li>
+</ol>
+<p>By addressing these common issues, you can maintain the accuracy and reliability of your assessments, enabling you to make informed decisions and streamline your cloud migration journey.</p>
+<p>In conclusion, mastering Azure Migrate assessments is crucial for a successful cloud migration. By following the best practices outlined in this guide, you can create assessments that provide accurate insights, optimize your migration strategy, and ultimately achieve a seamless transition to the Microsoft Azure platform.</p>
+<p>For more information, please refer to the original source: <a href="https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/migrate/best-practices-assessment.md">https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/migrate/best-practices-assessment.md</a>.</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

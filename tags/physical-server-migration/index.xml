@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physical server migration on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/physical-server-migration/</link>
+    <description>Recent content in physical server migration on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/physical-server-migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating Physical Servers to Azure with Azure Migrate</title>
+      <link>http://example.org/posts/migrating_physical_servers_to_azure_with_azure_migrate/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_physical_servers_to_azure_with_azure_migrate/</guid>
+      <description>Migrating Physical Servers to Azure with Azure Migrate Overview Migrating on-premises physical servers to Azure can be a straightforward process when using the Azure Migrate service. Azure Migrate provides a comprehensive solution to discover, assess, and migrate your on-premises infrastructure to the cloud.
+In this guide, we&amp;rsquo;ll walk through the steps to migrate physical servers to Azure using the Azure Migrate and Modernize tools. This process is useful in various scenarios, including:</description>
+    </item>
+    
+  </channel>
+</rss>

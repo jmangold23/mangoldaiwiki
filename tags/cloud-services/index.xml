@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Services on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/cloud-services/</link>
+    <description>Recent content in Cloud Services on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Started with Azure for Free</title>
+      <link>http://example.org/posts/get_started_with_azure_for_free/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/get_started_with_azure_for_free/</guid>
+      <description>Get Started with Azure for Free If you&amp;rsquo;re looking to explore the power of the cloud, Microsoft Azure offers an excellent starting point with its free account program. In this guide, we&amp;rsquo;ll walk you through the process of creating your Azure free account and taking advantage of the benefits it provides.
+Key Features of the Azure Free Account   $200 Azure Credit: When you sign up for an Azure free account, you&amp;rsquo;ll receive a $200 credit to use towards any Azure services within the first 30 days.</description>
+    </item>
+    
+  </channel>
+</rss>

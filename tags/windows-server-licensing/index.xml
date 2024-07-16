@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Server Licensing on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/windows-server-licensing/</link>
+    <description>Recent content in Windows Server Licensing on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/windows-server-licensing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Your SQL Server and Windows Server Investments with Azure Hybrid Benefit</title>
+      <link>http://example.org/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving program from Microsoft that allows you to get more value from your existing Windows Server, SQL Server, and Linux software investments when migrating to the cloud. By applying your on-premises licenses to Azure, you can save up to 85% over standard pay-as-you-go rates and seamlessly extend your hybrid infrastructure.
+Here&amp;rsquo;s how Azure Hybrid Benefit can benefit your organization:
+1. Save Up to 85% on Azure Costs With Azure Hybrid Benefit, you can use your existing Windows Server and SQL Server licenses to run virtual machines in Azure at a substantially reduced rate.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Windows Server, SQL Server, and Linux Subscriptions</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by leveraging your existing Windows Server, SQL Server licenses, and Linux subscriptions. By taking advantage of this benefit, you can save up to 85% over the standard pay-as-you-go rate when running your workloads on Azure.
+One of the key features of Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to seamlessly migrate and modernize your SQL Server databases to the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

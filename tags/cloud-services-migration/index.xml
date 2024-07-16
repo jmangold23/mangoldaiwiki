@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Services migration on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/cloud-services-migration/</link>
+    <description>Recent content in Cloud Services migration on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-services-migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless Migration of Azure Cloud Services (classic) to Azure Cloud Services (extended support)</title>
+      <link>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_azure_cloud_services_extended_support/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_azure_cloud_services_extended_support/</guid>
+      <description>Seamless Migration of Azure Cloud Services (classic) to Azure Cloud Services (extended support) Azure Cloud Services is a widely used Platform as a Service (PaaS) offering that allows you to build, deploy, and manage scalable and highly available web applications and APIs. Recently, Microsoft introduced Azure Cloud Services (extended support), which provides several enhancements over the classic Cloud Services model.
+This comprehensive guide will walk you through the process of migrating your existing Azure Cloud Services (classic) deployments to the newer Azure Cloud Services (extended support) platform.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>user management on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/user-management/</link>
+    <description>Recent content in user management on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/user-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manage Users and Groups with Security Groups in Azure DevOps</title>
+      <link>http://example.org/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
+      <description>Effectively managing permissions and access in Azure DevOps is key to ensuring your teams can collaborate efficiently and securely. One of the most powerful tools for this is the use of security groups, which allow you to centrally define and control permissions for users and groups.
+In this comprehensive guide, we&amp;rsquo;ll explore how to leverage security groups in Azure DevOps to streamline user management, assign permissions, and maintain control over your organization&amp;rsquo;s resources.</description>
+    </item>
+    
+    <item>
+      <title>Mastering User and Group Management in Azure DevOps</title>
+      <link>http://example.org/posts/mastering_user_and_group_management_in_azure_devops/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_user_and_group_management_in_azure_devops/</guid>
+      <description>Azure DevOps provides a powerful and flexible security system that allows you to manage permissions and access for users and groups. By leveraging security groups, you can easily control who can access and perform various actions within your Azure DevOps organization and projects.
+Understanding Security Groups in Azure DevOps Security groups are the foundation for managing permissions and access in Azure DevOps. You can use both default and custom security groups to set permissions at different levels, including project, collection, and object-level.</description>
+    </item>
+    
+    <item>
+      <title>Mastering PowerShell- Automating User Management and Service Monitoring</title>
+      <link>http://example.org/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
+      <description>Introduction As a PowerShell enthusiast, I&amp;rsquo;m excited to dive into the practical challenges presented in this PowerShell interview scenario. PowerShell is a powerful and versatile tool that can streamline various administrative tasks, and in this post, we&amp;rsquo;ll explore how to tackle the two key scenarios outlined in the provided content.
+Scenario 1: Capitalizing User Names and Assigning Administrator Rights In this scenario, we have a CSV file containing a list of user names that are incorrectly capitalized.</description>
+    </item>
+    
+  </channel>
+</rss>

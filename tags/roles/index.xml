@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roles on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/roles/</link>
+    <description>Recent content in roles on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/roles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manage Roles and Permissions in Microsoft Sentinel</title>
+      <link>http://example.org/posts/manage_roles_and_permissions_in_microsoft_sentinel/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_roles_and_permissions_in_microsoft_sentinel/</guid>
+      <description>Roles and Permissions in Microsoft Sentinel Microsoft Sentinel uses Azure role-based access control (Azure RBAC) to provide built-in roles that can be assigned to users, groups, and services in Azure. This allows you to grant appropriate access to Microsoft Sentinel and control what users can see and do.
+Microsoft Sentinel-Specific Roles The built-in Microsoft Sentinel roles and their allowed actions are:
+ Microsoft Sentinel Reader: Can view data, incidents, workbooks, and other Microsoft Sentinel resources.</description>
+    </item>
+    
+  </channel>
+</rss>

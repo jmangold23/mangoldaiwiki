@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-source on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/open-source/</link>
+    <description>Recent content in open-source on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating Your Linux Workloads to Azure</title>
+      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
+Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
+    </item>
+    
+  </channel>
+</rss>

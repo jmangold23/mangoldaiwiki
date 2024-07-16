@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site-to-Site on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/site-to-site/</link>
+    <description>Recent content in Site-to-Site on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/site-to-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Azure Virtual WAN- A Comprehensive Guide for Seamless Site-to-Site Connectivity</title>
+      <link>http://example.org/posts/mastering_azure_virtual_wan_a_comprehensive_guide_for_seamless_site-to-site_connectivity/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_virtual_wan_a_comprehensive_guide_for_seamless_site-to-site_connectivity/</guid>
+      <description>Mastering Azure Virtual WAN: A Comprehensive Guide for Seamless Site-to-Site Connectivity Azure Virtual WAN is a powerful and versatile networking service that simplifies the process of connecting your on-premises sites to Azure resources. Whether you&amp;rsquo;re a seasoned networking professional or new to the cloud, this comprehensive guide will walk you through the step-by-step process of creating a secure, reliable, and scalable site-to-site connection using Virtual WAN.
+Understanding Azure Virtual WAN Azure Virtual WAN is a fully managed, software-defined wide area network (SD-WAN) service that provides unified connectivity and security across your global network.</description>
+    </item>
+    
+    <item>
+      <title>Mastering NAT Rules for Your Azure Virtual WAN VPN Gateway</title>
+      <link>http://example.org/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</guid>
+      <description>Mastering NAT Rules for Your Azure Virtual WAN VPN Gateway As organizations increasingly adopt cloud infrastructure, they often encounter the challenge of interconnecting their on-premises networks with Azure virtual networks. One common scenario is when branch offices have overlapping IP address spaces, making it difficult to establish direct connectivity. Fortunately, Azure Virtual WAN&amp;rsquo;s site-to-site VPN gateway offers a powerful solution - NAT (Network Address Translation) rules.
+In this comprehensive guide, we&amp;rsquo;ll explore the ins and outs of configuring NAT rules for your Azure Virtual WAN VPN gateway, empowering you to seamlessly interconnect your on-premises networks with Azure resources.</description>
+    </item>
+    
+    <item>
+      <title>Establish a Secure Site-to-Site VPN Connection for Azure VMware Solution</title>
+      <link>http://example.org/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll walk you through the process of setting up a secure site-to-site VPN connection between your on-premises network and Azure VMware Solution. This powerful integration allows you to seamlessly extend your local infrastructure into the Azure cloud, enabling hybrid scenarios and providing a reliable, high-performance connection.
+Prerequisites Before we begin, ensure that you have the following:
+ A public-facing IP address for your on-premises VPN device. Familiarity with Azure Virtual WAN and its components, including virtual hubs and VPN gateways.</description>
+    </item>
+    
+  </channel>
+</rss>

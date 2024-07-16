@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Securing Your Container Workloads with Microsoft Defender for Containers // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Securing Your Container Workloads with Microsoft Defender for Containers"/>
+<meta name="twitter:description" content="Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This article delves into the key capabilities of Defender for Containers and how it can help organizations address the evolving security challenges surrounding container-based solutions.
+Core Elements of Defender for Containers Defender for Containers assists you with four core domains of container security:
+1. Security Posture Management Defender for Containers provides a range of agentless capabilities to help you manage the security posture of your container environments:"/>
+
+    <meta property="og:title" content="Securing Your Container Workloads with Microsoft Defender for Containers" />
+<meta property="og:description" content="Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This article delves into the key capabilities of Defender for Containers and how it can help organizations address the evolving security challenges surrounding container-based solutions.
+Core Elements of Defender for Containers Defender for Containers assists you with four core domains of container security:
+1. Security Posture Management Defender for Containers provides a range of agentless capabilities to help you manage the security posture of your container environments:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-09-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-09-10T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Securing Your Container Workloads with Microsoft Defender for Containers</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Sep 10, 2023
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <p>Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This article delves into the key capabilities of Defender for Containers and how it can help organizations address the evolving security challenges surrounding container-based solutions.</p>
+<h2 id="core-elements-of-defender-for-containers">Core Elements of Defender for Containers</h2>
+<p>Defender for Containers assists you with four core domains of container security:</p>
+<h3 id="1-security-posture-management">1. Security Posture Management</h3>
+<p>Defender for Containers provides a range of agentless capabilities to help you manage the security posture of your container environments:</p>
+<ul>
+<li><strong>Agentless discovery for Kubernetes</strong>: Discover your Kubernetes clusters, configurations, and deployments without any additional footprint.</li>
+<li><strong>Agentless vulnerability assessment</strong>: Assess vulnerabilities in container images, including registry and runtime recommendations, quick scans, and exploitability insights.</li>
+<li><strong>Comprehensive inventory capabilities</strong>: Explore and monitor your container resources, pods, services, repositories, and configurations through the Defender for Cloud security explorer.</li>
+<li><strong>Enhanced risk-hunting</strong>: Empower security teams to actively hunt for posture issues in containerized assets using queries, built-in insights, and the security explorer.</li>
+<li><strong>Control plane hardening</strong>: Continuously assess your Kubernetes cluster configurations and generate security recommendations to investigate and remediate any misconfigurations.</li>
+</ul>
+<p>Defender for Containers also offers sensor-based capabilities, such as binary drift detection and Kubernetes data plane hardening, to further strengthen your container security posture.</p>
+<h3 id="2-vulnerability-assessment">2. Vulnerability Assessment</h3>
+<p>Defender for Containers provides agentless vulnerability assessment for container images hosted in Azure Container Registry (ACR), Amazon ECR, Google Artifact Registry, and Google Container Registry. This includes registry and runtime recommendations, remediation guidance, quick scans of new images, and exploitability insights.</p>
+<p>The vulnerability information is integrated into the Defender for Cloud security graph, enabling contextual risk assessment, attack path calculation, and enhanced security hunting capabilities.</p>
+<h3 id="3-run-time-threat-protection">3. Run-time Threat Protection</h3>
+<p>Defender for Containers offers real-time threat protection for Kubernetes clusters, nodes, and workloads. This includes sensor-based coverage as well as agentless analysis of Kubernetes audit logs to detect suspicious activities such as exposed dashboards, high-privilege role creations, and sensitive mount configurations.</p>
+<p>The threat detection capabilities are powered by Microsoft&rsquo;s leading threat intelligence and mapped to the MITRE ATT&amp;CK® matrix for Containers, providing valuable context for understanding and responding to threats.</p>
+<h3 id="4-deployment-and-monitoring">4. Deployment and Monitoring</h3>
+<p>Defender for Containers simplifies the deployment and management of container security capabilities. It monitors your Kubernetes clusters for missing sensors and provides frictionless at-scale deployment of sensor-based protections. It also supports integration with standard Kubernetes monitoring tools and helps manage unmonitored resources.</p>
+<h2 id="getting-started-with-defender-for-containers">Getting Started with Defender for Containers</h2>
+<p>Microsoft Defender for Containers is generally available, with certain features in preview. To get started, you can:</p>
+<ul>
+<li><a href="https://docs.microsoft.com/azure/defender-for-cloud/defender-for-containers-enable">Enable Defender for Containers</a> in your Azure environment.</li>
+<li>Review the <a href="https://docs.microsoft.com/azure/defender-for-cloud/support-matrix-defender-for-containers">Containers support matrix</a> for information on feature availability and cloud support.</li>
+<li>Explore the <a href="https://docs.microsoft.com/azure/defender-for-cloud/faq-defender-for-containers">common questions</a> about Defender for Containers.</li>
+</ul>
+<p>By leveraging the comprehensive capabilities of Defender for Containers, organizations can strengthen the security of their container-based solutions and stay ahead of the evolving threat landscape.</p>
+<p>Source: <a href="https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/master/articles/defender-for-cloud/defender-for-containers-introduction.md">Overview of Container security in Microsoft Defender for Containers</a></p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pricing tiers on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/pricing-tiers/</link>
+    <description>Recent content in pricing tiers on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/pricing-tiers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimize Your Microsoft Sentinel Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</guid>
+      <description>Navigating the costs associated with Microsoft Sentinel can be a complex task, but with the right strategies, you can significantly reduce your expenses. In this comprehensive guide, we&amp;rsquo;ll explore various methods to optimize your Microsoft Sentinel costs and ensure you get the most value from your investment.
+Set or Change Pricing Tier To achieve the highest savings, closely monitor your data ingestion volume and ensure you have the Commitment Tier that aligns most closely with your usage patterns.</description>
+    </item>
+    
+  </channel>
+</rss>

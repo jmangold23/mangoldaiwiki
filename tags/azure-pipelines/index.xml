@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Pipelines on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-pipelines/</link>
+    <description>Recent content in Azure Pipelines on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-pipelines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrating ARM Templates with Azure Pipelines</title>
+      <link>http://example.org/posts/integrating_arm_templates_with_azure_pipelines/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/integrating_arm_templates_with_azure_pipelines/</guid>
+      <description>Integrating ARM Templates with Azure Pipelines You can integrate Azure Resource Manager templates (ARM templates) with Azure Pipelines for continuous integration and continuous deployment (CI/CD). In this article, you will learn two more advanced ways to deploy templates with Azure Pipelines.
+Select Your Option Before proceeding, let&amp;rsquo;s consider the different options for deploying an ARM template from a pipeline:
+  Use ARM Template Deployment Task: This is the easiest option when you want to deploy a template directly from a repository.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Continuous Integration and Delivery in Azure Data Factory</title>
+      <link>http://example.org/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <description>Continuous Integration and Delivery in Azure Data Factory Continuous integration is the practice of automatically testing each change made to your codebase as early as possible. Continuous delivery then takes the tested changes and pushes them to a staging or production environment.
+In Azure Data Factory, continuous integration and delivery (CI/CD) refers to the process of moving your data pipelines from one environment (like development) to another (like test or production).</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Delivery in Azure Data Factory</title>
+      <link>http://example.org/posts/continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <description>Continuous integration is the practice of testing each change made to your codebase automatically and as early as possible. Continuous delivery follows the testing that happens during continuous integration and pushes changes to a staging or production system.
+In Azure Data Factory, continuous integration and delivery (CI/CD) means moving Data Factory pipelines from one environment (development, test, production) to another. Azure Data Factory utilizes Azure Resource Manager templates to store the configuration of your various ADF entities (pipelines, datasets, data flows, and so on).</description>
+    </item>
+    
+  </channel>
+</rss>

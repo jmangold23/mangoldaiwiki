@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Efficiency on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/efficiency/</link>
+    <description>Recent content in Efficiency on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering PowerShell- Best Practices for Efficient and Maintainable Scripts</title>
+      <link>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
+      <description>Mastering PowerShell: Best Practices for Efficient and Maintainable Scripts Navigating the Diverse PowerShell Landscape As you dive into the world of PowerShell scripting, you&amp;rsquo;ll quickly realize that the PowerShell community is a diverse and opinionated one. When scanning through code projects on the PoshCode repository or the Microsoft Learn Code Samples Gallery, you&amp;rsquo;ll encounter a wide range of approaches and perspectives on what constitutes &amp;ldquo;best practices</description>
+    </item>
+    
+  </channel>
+</rss>

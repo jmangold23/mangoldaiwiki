@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usage Details API on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/usage-details-api/</link>
+    <description>Recent content in Usage Details API on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/usage-details-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Azure Cost Automation- Unlock the Power of Programmatic Cost Management</title>
+      <link>http://example.org/posts/mastering_azure_cost_automation_unlock_the_power_of_programmatic_cost_management/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_cost_automation_unlock_the_power_of_programmatic_cost_management/</guid>
+      <description>Maximizing the value of your cloud investment requires a strategic approach to cost management. Azure offers a robust set of automation tools and APIs that enable you to streamline your cost data retrieval, analysis, and alerting processes. In this comprehensive guide, we&amp;rsquo;ll explore the various techniques and best practices for automating your Azure cost management workflows.
+Automate Cost Data Retrieval for Offline Analysis Integrating your Azure cost data with other datasets or internal systems can provide valuable insights to drive key business decisions.</description>
+    </item>
+    
+  </channel>
+</rss>

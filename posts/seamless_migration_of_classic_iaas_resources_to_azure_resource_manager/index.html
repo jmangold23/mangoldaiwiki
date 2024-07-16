@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Seamless Migration of Classic IaaS Resources to Azure Resource Manager // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Seamless Migration of Classic IaaS Resources to Azure Resource Manager"/>
+<meta name="twitter:description" content="Overview of Platform-Supported Migration As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.
+This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model."/>
+
+    <meta property="og:title" content="Seamless Migration of Classic IaaS Resources to Azure Resource Manager" />
+<meta property="og:description" content="Overview of Platform-Supported Migration As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.
+This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-10-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-10-04T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Seamless Migration of Classic IaaS Resources to Azure Resource Manager</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Oct 4, 2023
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="http://example.org/tags/migration/">Migration</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <h2 id="overview-of-platform-supported-migration">Overview of Platform-Supported Migration</h2>
+<p>As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.</p>
+<p>This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model. By leveraging this platform-supported migration, you can unlock the powerful features and benefits of ARM, while ensuring a smooth and reliable migration experience.</p>
+<h2 id="key-highlights-of-azure-resource-manager">Key Highlights of Azure Resource Manager</h2>
+<p>Azure Resource Manager offers several compelling advantages over the classic deployment model:</p>
+<ol>
+<li><strong>Deployment Efficiency</strong>: ARM enables you to deploy complex applications through declarative templates, allowing for consistent and repeatable deployments across your environments.</li>
+<li><strong>Lifecycle Management</strong>: ARM provides independent lifecycle management for compute, network, and storage resources, simplifying your infrastructure management.</li>
+<li><strong>Security by Default</strong>: ARM enforces virtual machines to be deployed within a virtual network, enhancing the security posture of your applications.</li>
+<li><strong>Access Control and Tagging</strong>: ARM incorporates enterprise-grade access management and tagging capabilities, enabling you to govern and organize your resources effectively.</li>
+<li><strong>Scalable Deployments</strong>: ARM supports scalable, parallel deployments of virtual machines into availability sets, optimizing the performance and resilience of your applications.</li>
+</ol>
+<h2 id="supported-resources-and-configurations-for-migration">Supported Resources and Configurations for Migration</h2>
+<p>The platform-supported migration process covers a wide range of classic IaaS resources, including:</p>
+<ul>
+<li>Virtual Machines (Cloud Service with VMs)</li>
+<li>Availability Sets</li>
+<li>Storage Accounts</li>
+<li>Virtual Networks</li>
+<li>VPN Gateways</li>
+<li>Network Security Groups</li>
+<li>Route Tables</li>
+<li>Reserved IPs</li>
+</ul>
+<p>Additionally, the migration process supports certain configurations, such as virtual networks containing Microsoft Entra Domain Services.</p>
+<h2 id="migration-scopes-and-considerations">Migration Scopes and Considerations</h2>
+<p>The platform-supported migration process offers four different ways to migrate your compute, network, and storage resources:</p>
+<ol>
+<li><strong>Migration of Virtual Machines (Not in a Virtual Network)</strong>: In this scenario, the Azure platform will restart the VMs as part of the migration process, moving them into a new or existing virtual network.</li>
+<li><strong>Migration of Virtual Machines (in a Virtual Network)</strong>: For most VM configurations, only the metadata is migrated between the Classic and Resource Manager deployment models, minimizing downtime.</li>
+<li><strong>Migration of Storage Accounts</strong>: You can independently migrate your storage accounts to the ARM model, allowing for seamless migration of compute and network resources.</li>
+<li><strong>Migration of Unattached Resources</strong>: Storage accounts, network security groups, route tables, and reserved IPs that are not attached to any VMs or virtual networks can be migrated independently.</li>
+</ol>
+<p>It&rsquo;s important to note that certain features and configurations are not currently supported, and the guide provides recommendations for handling these cases.</p>
+<h2 id="preparing-for-migration">Preparing for Migration</h2>
+<p>Before embarking on the migration journey, it&rsquo;s crucial to plan and prepare your environment. This includes evaluating your existing classic IaaS resources, understanding any unsupported features or configurations, and ensuring you have the necessary permissions and access controls in place.</p>
+<p>By following the comprehensive guidance and best practices outlined in this comprehensive guide, you can ensure a successful and seamless migration of your classic IaaS resources to the powerful Azure Resource Manager deployment model.</p>
+<p>For more detailed information, please refer to the following resources:</p>
+<ul>
+<li><a href="migration-classic-resource-manager-deep-dive.md">Technical deep dive on platform-supported migration</a></li>
+<li><a href="migration-classic-resource-manager-plan.md">Planning for migration of IaaS resources</a></li>
+<li><a href="migration-classic-resource-manager-ps.md">Migrate IaaS resources using PowerShell</a></li>
+<li><a href="migration-classic-resource-manager-cli.md">Migrate IaaS resources using the CLI</a></li>
+<li><a href="migration-classic-resource-manager-community-tools.md">Community tools for assisting with migration</a></li>
+<li><a href="migration-classic-resource-manager-errors.md">Common migration errors and solutions</a></li>
+<li><a href="migration-classic-resource-manager-faq.yml">Frequently asked questions about migration</a></li>
+</ul>
+<p>Source: <a href="https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/main/articles/virtual-machines/migration-classic-resource-manager-overview.md">Platform-supported migration of IaaS resources from classic to Azure Resource Manager</a></p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

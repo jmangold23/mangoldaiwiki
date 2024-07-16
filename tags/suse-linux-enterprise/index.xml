@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>suse linux enterprise on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/suse-linux-enterprise/</link>
+    <description>Recent content in suse linux enterprise on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/suse-linux-enterprise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering the SUSE Customer Center- Your Gateway to SUSE Product Support and Resources</title>
+      <link>http://example.org/posts/mastering_the_suse_customer_center_your_gateway_to_suse_product_support_and_resources/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_the_suse_customer_center_your_gateway_to_suse_product_support_and_resources/</guid>
+      <description>As a SUSE customer, the SUSE Customer Center is your one-stop-shop for managing your SUSE product subscriptions, accessing technical support, and tapping into a wealth of resources to help you get the most out of your SUSE solutions. In this post, we&amp;rsquo;ll dive deep into the SUSE Customer Center, exploring its key features and capabilities to empower you as a SUSE user.
+Navigating the SUSE Customer Center The SUSE Customer Center is accessible at https://scc.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data ingestion on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/data-ingestion/</link>
+    <description>Recent content in data ingestion on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/data-ingestion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Costs and Monitoring Spending for Microsoft Sentinel</title>
+      <link>http://example.org/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
+      <description>Effectively managing and monitoring costs is a crucial aspect of ensuring the long-term success and sustainability of your Microsoft Sentinel deployment. In this comprehensive guide, we&amp;rsquo;ll explore the various tools and techniques available to help you gain visibility into your spending, set budgets, and proactively control costs.
+Understanding Your Costs As you use Azure resources with Microsoft Sentinel, you will inevitably incur costs. These costs can vary based on factors like time intervals (seconds, minutes, hours, days) and usage units (bytes, megabytes).</description>
+    </item>
+    
+    <item>
+      <title>Optimize Your Microsoft Sentinel Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</guid>
+      <description>Navigating the costs associated with Microsoft Sentinel can be a complex task, but with the right strategies, you can significantly reduce your expenses. In this comprehensive guide, we&amp;rsquo;ll explore various methods to optimize your Microsoft Sentinel costs and ensure you get the most value from your investment.
+Set or Change Pricing Tier To achieve the highest savings, closely monitor your data ingestion volume and ensure you have the Commitment Tier that aligns most closely with your usage patterns.</description>
+    </item>
+    
+    <item>
+      <title>Manage and Monitor Costs for Microsoft Sentinel</title>
+      <link>http://example.org/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
+      <description>Manage and Monitor Costs for Microsoft Sentinel As you use Microsoft Sentinel, it&amp;rsquo;s important to understand and manage the associated costs. Microsoft Sentinel costs are only a portion of your overall Azure bill, but it&amp;rsquo;s crucial to monitor them closely to avoid unexpected expenses. This comprehensive guide will walk you through various strategies and tools to help you manage and monitor Microsoft Sentinel costs effectively.
+View Costs Using Cost Analysis The Azure portal&amp;rsquo;s Cost Management features allow you to view, analyze, and monitor your Microsoft Sentinel costs.</description>
+    </item>
+    
+  </channel>
+</rss>

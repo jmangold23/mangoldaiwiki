@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autoscaling on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/autoscaling/</link>
+    <description>Recent content in autoscaling on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/autoscaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manage Costs for Azure Machine Learning</title>
+      <link>http://example.org/posts/manage_costs_for_azure_machine_learning/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_costs_for_azure_machine_learning/</guid>
+      <description>As you work with Azure Machine Learning, it&amp;rsquo;s important to carefully plan and manage your costs to ensure your projects stay on budget. In this comprehensive guide, we&amp;rsquo;ll walk through several strategies and best practices to help you optimize your spending and get the most value from your Azure investment.
+Estimate Costs Upfront Before you start deploying resources, use the Azure Pricing Calculator to estimate the potential costs. This tool allows you to build out your Azure Machine Learning workspace and other supporting services, and it will provide an estimate of the monthly charges you can expect.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Azure Machine Learning Costs- Strategies for Efficient Model Training and Deployment</title>
+      <link>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_azure_machine_learning_costs_strategies_for_efficient_model_training_and_deployment/</guid>
+      <description>Optimize Azure Machine Learning Costs: Strategies for Efficient Model Training and Deployment As the demand for machine learning continues to grow, it&amp;rsquo;s critical to manage and optimize the costs associated with training and deploying models on the cloud. Azure Machine Learning provides a powerful platform for building and deploying ML models, but effectively managing the costs can be a challenge. In this in-depth article, we&amp;rsquo;ll explore a range of strategies and best practices to help you optimize your Azure Machine Learning costs.</description>
+    </item>
+    
+  </channel>
+</rss>

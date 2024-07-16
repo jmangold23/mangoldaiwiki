@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Server on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/windows-server/</link>
+    <description>Recent content in Windows Server on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/windows-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Group Policy Management with AGPM 4.0</title>
+      <link>http://example.org/posts/mastering_group_policy_management_with_agpm_4.0/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_group_policy_management_with_agpm_4.0/</guid>
+      <description>Mastering Group Policy Management with AGPM 4.0 Microsoft Advanced Group Policy Management (AGPM) is a powerful tool that enhances the capabilities of the Group Policy Management Console (GPMC), providing advanced techniques for managing Group Policy Objects (GPOs) in enterprise environments. This comprehensive guide will walk you through the step-by-step process of installing, configuring, and utilizing AGPM 4.0 to streamline your Group Policy management.
+AGPM Server and Client Installation Installing AGPM Server As a member of the Domain Admins group, you&amp;rsquo;ll first need to install the AGPM Server on a member server or domain controller that will host the AGPM Service.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Group Policy Management with Advanced Group Policy Management (AGPM) 3.0</title>
+      <link>http://example.org/posts/mastering_group_policy_management_with_advanced_group_policy_management_agpm_3.0/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_group_policy_management_with_advanced_group_policy_management_agpm_3.0/</guid>
+      <description>Advanced Group Policy Management (AGPM) is a powerful tool that enhances the capabilities of the Group Policy Management Console (GPMC), providing robust change control and management features for your Group Policy environment. In this comprehensive guide, we&amp;rsquo;ll explore the step-by-step process of installing, configuring, and leveraging AGPM 3.0 to streamline your Group Policy management.
+Installing and Configuring AGPM Step 1: Install AGPM Server To get started, you&amp;rsquo;ll need to install the AGPM Server on a member server or domain controller that will host the AGPM Service.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Your Windows Server, SQL Server, and Linux Workloads</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by applying your existing Windows Server, SQL Server licenses, and Linux subscriptions. By leveraging this benefit, you can achieve significant savings of up to 85% over the standard pay-as-you-go rates.
+One of the key advantages of the Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to take advantage of the scalability and flexibility of the cloud while still utilizing your existing investments in SQL Server licenses.</description>
+    </item>
+    
+    <item>
+      <title>Assessing and Migrating Applications to Azure - A Step-by-Step Guide</title>
+      <link>http://example.org/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll explore the process of assessing an on-premises multi-tier application and migrating it to Microsoft Azure. We&amp;rsquo;ll leverage the powerful suite of tools provided by Azure Migrate to ensure a seamless and efficient migration journey.
+Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a multi-tier application from Hyper-V to Azure. You will learn to use Azure Migrate as the central hub for executing the migration, along with accompanying tools like Microsoft Data Migration Assistant (DMA) and Azure Database Migration Service (DMS).</description>
+    </item>
+    
+  </channel>
+</rss>

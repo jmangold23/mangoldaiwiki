@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Preparing On-Premises Machines for Migration to Azure // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Preparing On-Premises Machines for Migration to Azure"/>
+<meta name="twitter:description" content="Preparing On-Premises Machines for Migration to Azure Azure Migrate is a service that helps you discover, assess, and migrate on-premises machines to Microsoft Azure. This comprehensive guide will walk you through the steps to prepare your on-premises machines before migrating them to Azure using the Azure Migrate service.
+Verify Migration Limitations Before you begin, it&rsquo;s important to understand the discovery, assessment, and migration limits for Azure Migrate. The table below summarizes these limits across different scenarios:"/>
+
+    <meta property="og:title" content="Preparing On-Premises Machines for Migration to Azure" />
+<meta property="og:description" content="Preparing On-Premises Machines for Migration to Azure Azure Migrate is a service that helps you discover, assess, and migrate on-premises machines to Microsoft Azure. This comprehensive guide will walk you through the steps to prepare your on-premises machines before migrating them to Azure using the Azure Migrate service.
+Verify Migration Limitations Before you begin, it&rsquo;s important to understand the discovery, assessment, and migration limits for Azure Migrate. The table below summarizes these limits across different scenarios:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/preparing_on-premises_machines_for_migration_to_azure/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-04-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-04-12T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Preparing On-Premises Machines for Migration to Azure</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Apr 12, 2024
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          6 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="http://example.org/tags/hyper-v/">Hyper-V</a>
+              <a class="tag" href="http://example.org/tags/windows/">Windows</a>
+              <a class="tag" href="http://example.org/tags/linux/">Linux</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <h2 id="preparing-on-premises-machines-for-migration-to-azure">Preparing On-Premises Machines for Migration to Azure</h2>
+<p>Azure Migrate is a service that helps you discover, assess, and migrate on-premises machines to Microsoft Azure. This comprehensive guide will walk you through the steps to prepare your on-premises machines before migrating them to Azure using the Azure Migrate service.</p>
+<h3 id="verify-migration-limitations">Verify Migration Limitations</h3>
+<p>Before you begin, it&rsquo;s important to understand the discovery, assessment, and migration limits for Azure Migrate. The table below summarizes these limits across different scenarios:</p>
+<table>
+<thead>
+<tr>
+<th><strong>Scenario</strong></th>
+<th><strong>Project</strong></th>
+<th><strong>Discovery/Assessment</strong></th>
+<th><strong>Migration</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>VMware vSphere VMs</strong></td>
+<td>Discover and assess up to 35,000 VMs in a single Azure Migrate project.</td>
+<td>Discover up to 10,000 VMware vSphere VMs with a single <a href="https://docs.microsoft.com/en-us/azure/migrate/common-questions-appliance">Azure Migrate appliance</a>. The appliance supports adding multiple vCenter Servers (up to 10 per appliance).</td>
+<td><strong>Agentless migration</strong>: Simultaneously replicate a maximum of 500 VMs across multiple vCenter Servers (discovered from one appliance) using a scale-out appliance. <!-- raw HTML omitted --> <strong>Agent-based migration</strong>: <a href="https://docs.microsoft.com/en-us/azure/migrate/agent-based-migration-architecture#performance-and-scaling">Scale out</a> the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance">replication appliance</a> to replicate large numbers of VMs.</td>
+</tr>
+<tr>
+<td><strong>Hyper-V VMs</strong></td>
+<td>Discover and assess up to 35,000 VMs in a single Azure Migrate project.</td>
+<td>Discover up to 5,000 Hyper-V VMs with a single Azure Migrate appliance.</td>
+<td>An appliance isn&rsquo;t used for Hyper-V migration. Instead, the Hyper-V Replication Provider runs on each Hyper-V host. Replication capacity is influenced by performance factors such as VM churn and upload bandwidth.</td>
+</tr>
+<tr>
+<td><strong>Physical machines</strong></td>
+<td>Discover and assess up to 35,000 machines in a single Azure Migrate project.</td>
+<td>Discover up to 1,000 physical servers with a single Azure Migrate appliance for physical servers.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/agent-based-migration-architecture#performance-and-scaling">Scale out</a> the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance">replication appliance</a> to replicate large numbers of servers.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="select-a-vmware-vsphere-migration-method">Select a VMware vSphere Migration Method</h3>
+<p>If you&rsquo;re migrating VMware vSphere VMs to Azure, you&rsquo;ll need to <a href="https://docs.microsoft.com/en-us/azure/migrate/server-migrate-overview#compare-migration-methods">compare the agentless and agent-based migration methods</a> to determine the best approach for your needs.</p>
+<h3 id="verify-hypervisor-and-operating-system-requirements">Verify Hypervisor and Operating System Requirements</h3>
+<p>Before migration, ensure that your on-premises machines meet the hypervisor and operating system requirements:</p>
+<ul>
+<li>Verify <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration#vmware-vsphere-requirements-agentless">VMware agentless</a> and <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration#vmware-vsphere-requirements-agent-based">VMware vSphere agent-based</a> requirements.</li>
+<li>Verify <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration#hyper-v-host-requirements">Hyper-V host</a> requirements.</li>
+<li>Verify <a href="https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines">Windows</a> and <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/endorsed-distros">Linux</a> operating system support in Azure.</li>
+</ul>
+<h3 id="review-url-and-port-access">Review URL and Port Access</h3>
+<p>Ensure that the machines you&rsquo;re migrating have the necessary URL and port access during the migration process:</p>
+<table>
+<thead>
+<tr>
+<th><strong>Scenario</strong></th>
+<th><strong>Details</strong></th>
+<th><strong>URLs</strong></th>
+<th><strong>Ports</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>VMware vSphere agentless migration</strong></td>
+<td>Uses the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-appliance-architecture">Azure Migrate appliance</a> for migration. Nothing is installed on VMware vSphere VMs.</td>
+<td>Review the public cloud and government <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-appliance#url-access">URLs</a> needed for discovery, assessment, and migration with the appliance.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration#port-requirements-agentless">Review the port requirements</a> for agentless migration.</td>
+</tr>
+<tr>
+<td><strong>VMware vSphere agent-based migration</strong></td>
+<td>Uses the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance">replication appliance</a> for migration. The Mobility service agent is installed on VMs.</td>
+<td>Review the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance#url-access">public cloud</a> and <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance#azure-government-url-access">Azure Government</a> URLs that the replication appliance needs to access.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance#port-access">Review the ports used</a> during agent-based migration.</td>
+</tr>
+<tr>
+<td><strong>Hyper-V migration</strong></td>
+<td>Uses a Provider installed on Hyper-V hosts for migration. Nothing is installed on Hyper-V VMs.</td>
+<td>Review the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration#url-access-public-cloud">public cloud</a> and <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration#url-access-azure-government">Azure Government</a> URLs that the Replication Provider running on the hosts needs to access.</td>
+<td>The Replication Provider on the Hyper-V host uses outbound connections on HTTPS port 443 to send VM replication data.</td>
+</tr>
+<tr>
+<td><strong>Physical machines</strong></td>
+<td>Uses the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance">replication appliance</a> for migration. The Mobility service agent is installed on the physical machines.</td>
+<td>Review the <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance#url-access">public cloud</a> and <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance#azure-government-url-access">Azure Government</a> URLs that the replication appliance needs to access.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-replication-appliance#port-access">Review the ports used</a> during physical migration.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="prepare-machines-for-migration">Prepare Machines for Migration</h3>
+<p>Before migrating your on-premises machines to Azure, there are several changes you may need to make, depending on the operating system. Some changes are automatically handled by Azure Migrate, while others require manual configuration.</p>
+<h4 id="windows-machines">Windows Machines</h4>
+<p>The table below summarizes the changes required for Windows machines:</p>
+<table>
+<thead>
+<tr>
+<th><strong>Action</strong></th>
+<th><strong>VMware vSphere (agentless migration)</strong></th>
+<th><strong>VMware vSphere (agent-based)/physical machines</strong></th>
+<th><strong>Windows on Hyper-V</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Configure the SAN policy as Online All</strong></td>
+<td>Set automatically for machines running Windows Server 2008 R2 or later. Configure manually for earlier operating systems.</td>
+<td>Set automatically in most cases.</td>
+<td>Set automatically for machines running Windows Server 2008 R2 or later.</td>
+</tr>
+<tr>
+<td><strong>Install Hyper-V Guest Integration</strong></td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration#install-on-vmware-vms">Install manually</a> on machines running Windows Server 2003.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration#install-on-vmware-vms">Install manually</a> on machines running Windows Server 2003.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration#install-on-hyper-v-vms">Install manually</a> on machines running Windows Server 2003.</td>
+</tr>
+<tr>
+<td><strong>Enable Azure Serial Console</strong></td>
+<td>Enable manually. <a href="https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-windows">Learn more</a></td>
+<td>Enable manually</td>
+<td>Enable manually</td>
+</tr>
+<tr>
+<td><strong>Install the Windows Azure Guest Agent</strong></td>
+<td>Set automatically for machines running Windows Server 2008 R2 or later. Configure manually for earlier operating systems.</td>
+<td>Set automatically for machines running Windows Server 2008 R2 or later.</td>
+<td>Set automatically for machines running Windows Server 2008 R2 or later.</td>
+</tr>
+<tr>
+<td><strong>Connect after migration</strong></td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-for-migration#prepare-to-connect-to-azure-windows-vms">Set up</a> manually.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-for-migration#prepare-to-connect-to-azure-windows-vms">Set up</a> manually.</td>
+<td><a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-for-migration#prepare-to-connect-to-azure-windows-vms">Set up</a> manually.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="linux-machines">Linux Machines</h4>
+<p>For Linux machines, Azure Migrate automatically performs the following actions for the listed operating systems:</p>
+<ul>
+<li>Red Hat Enterprise Linux 8.x, 7.x, 6.x</li>
+<li>CentOS 8.x, 7.x, 6.x</li>
+<li>SUSE Linux Enterprise Server 15 SP0, 15 SP1, 12, 11 SP4, 11 SP3</li>
+<li>Ubuntu 20.04, 19.04, 19.10, 18.04 LTS, 16.04 LTS, 14.04 LTS</li>
+<li>Debian 10, 9, 8, 7</li>
+<li>Oracle Linux 8, 7.7-CI, 7.7, 6</li>
+</ul>
+<p>For other Linux versions, you may need to manually prepare the machines, as summarized in the table below:</p>
+<table>
+<thead>
+<tr>
+<th><strong>Action</strong></th>
+<th><strong>Details</strong></th>
+<th><strong>Linux version</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Install Hyper-V Linux Integration Services</strong></td>
+<td>Rebuild the Linux init image to include the necessary Hyper-V drivers. This ensures the VM will boot in Azure.</td>
+<td>Install manually for all versions except those called out above.</td>
+</tr>
+<tr>
+<td><strong>Enable Azure Serial Console logging</strong></td>
+<td>Enable console logging to help with troubleshooting. <a href="https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-linux">Learn more</a></td>
+<td>Enable manually for all versions except those called out above.</td>
+</tr>
+<tr>
+<td><strong>Update device map file</strong></td>
+<td>Update the device map file with persistent device identifiers.</td>
+<td>Install manually for all versions except those called out above. (Only applicable in agent-based VMware scenario)</td>
+</tr>
+<tr>
+<td><strong>Update fstab entries</strong></td>
+<td>Update entries to use persistent volume identifiers.</td>
+<td>Update manually for all versions except those called out above.</td>
+</tr>
+<tr>
+<td><strong>Remove udev rule</strong></td>
+<td>Remove any udev rules that reserve interface names based on MAC address.</td>
+<td>Remove manually for all versions except those called out above.</td>
+</tr>
+<tr>
+<td><strong>Update network interfaces</strong></td>
+<td>Update network interfaces to receive IP address based on DHCP.</td>
+<td>Update manually for all versions except those called out above.</td>
+</tr>
+<tr>
+<td><strong>Enable SSH</strong></td>
+<td>Ensure SSH is enabled and the sshd service is set to start automatically on reboot.</td>
+<td>Enable manually for all versions except those called out above.</td>
+</tr>
+<tr>
+<td><strong>Install the Linux Azure Guest Agent</strong></td>
+<td>Install the Microsoft Azure Linux Agent (waagent) to manage Linux &amp; FreeBSD provisioning and VM interaction with the Azure Fabric Controller.</td>
+<td>Enable manually for all versions except those called out above. Follow <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux#installation">these instructions</a> for other OS versions.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="check-azure-vm-requirements">Check Azure VM Requirements</h3>
+<p>Before migrating, review the Azure VM requirements for <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration#azure-vm-requirements">VMware</a>, <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration#azure-vm-requirements">Hyper-V</a>, and <a href="https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical-migration#azure-vm-requirements">physical server</a> migration to ensure your on-premises machines comply.</p>
+<h3 id="prepare-machines-for-post-migration-connectivity">Prepare Machines for Post-Migration Connectivity</h3>
+<p>After migrating your on-premises machines to Azure, you&rsquo;ll need to be able to connect to the new Azure VMs. Follow these steps to prepare for post-migration connectivity:</p>
+<h4 id="for-windows-machines">For Windows Machines</h4>
+<ol>
+<li>Configure Windows settings, including removing any static persistent routes or WinHTTP proxy.</li>
+<li>Ensure the required Windows services are running.</li>
+<li>Enable remote desktop (RDP) to allow remote connections to the on-premises machine.</li>
+<li>Configure Windows Firewall rules to allow RDP access over the internet or a site-to-site VPN.</li>
+<li>Ensure there are no pending Windows updates on the on-premises VM.</li>
+</ol>
+<h4 id="for-linux-machines">For Linux Machines</h4>
+<ol>
+<li>Ensure the Secure Shell service is set to start automatically on system boot.</li>
+<li>Verify that firewall rules allow an SSH connection.</li>
+</ol>
+<p>After migration, you&rsquo;ll need to complete a few additional steps on the Azure VMs, such as assigning a public IP address, configuring network security group rules, and enabling boot diagnostics.</p>
+<p>By following the steps outlined in this guide, you&rsquo;ll be well-prepared to migrate your on-premises machines to Azure using the Azure Migrate service. Remember to review the specific requirements and configurations for your operating system and migration scenario to ensure a successful migration.</p>
+<p>For more information, please refer to the <a href="https://docs.microsoft.com/en-us/azure/migrate/prepare-for-migration">official Azure Migrate documentation</a>.</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

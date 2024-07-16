@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multicloud Security on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/multicloud-security/</link>
+    <description>Recent content in Multicloud Security on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/multicloud-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging Microsoft Defender for Containers to Secure Your AWS Workloads</title>
+      <link>http://example.org/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</guid>
+      <description>Securing Containers in a Multicloud Environment with Microsoft Defender for Containers As organizations increasingly adopt container technologies and deploy workloads across multiple cloud providers, ensuring the security and visibility of these environments becomes a critical priority. Microsoft Defender for Containers, part of the Microsoft Defender for Cloud solution, provides a comprehensive, cloud-native approach to securing containers across Azure, AWS, and other cloud platforms.
+Enabling Defender for Containers for Your AWS Accounts To get started with protecting your AWS-hosted containers, you&amp;rsquo;ll need to enable the Defender for Containers plan within your Microsoft Defender for Cloud environment.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Defender for Cloud Pricing- Comprehensive Security at Scale</title>
+      <link>http://example.org/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
+      <description>Microsoft Defender for Cloud is a unified, cloud-native security platform that provides advanced protection for your multicloud and hybrid environments. With flexible pricing options, you can tailor your security coverage to your specific needs and budget.
+Cloud Security Posture Management (CSPM) Microsoft Defender for Cloud offers both foundational and advanced CSPM capabilities:
+ Foundational CSPM: This is available for free and includes continuous security assessments, security recommendations, Secure Score, and the Microsoft cloud security benchmark across Azure, AWS, and Google Cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

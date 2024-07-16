@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Management on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/group-management/</link>
+    <description>Recent content in Group Management on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/group-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Microsoft 365 Groups with PowerShell</title>
+      <link>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_microsoft_365_groups_with_powershell/</guid>
+      <description>As an administrator, managing Microsoft 365 Groups can be a crucial task to ensure smooth collaboration and information sharing within your organization. PowerShell provides a powerful tool to streamline these management tasks, and this comprehensive guide will walk you through the essential steps.
+Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a direct link to your organization&amp;rsquo;s usage guidelines.</description>
+    </item>
+    
+    <item>
+      <title>Managing Microsoft 365 Groups- Add, Remove, and Assign Owners</title>
+      <link>http://example.org/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</guid>
+      <description>Managing Microsoft 365 Groups: Add, Remove, and Assign Owners In the modern workplace, collaboration is key, and Microsoft 365 Groups are an essential tool for bringing teams together. As an administrator, you have the ability to manage group membership and ownership, ensuring your organization&amp;rsquo;s groups are set up for success.
+Adding Members to a Group Adding members to a Microsoft 365 Group is a straightforward process. As an admin, you can access the administrative center and navigate to the Active Groups page.</description>
+    </item>
+    
+    <item>
+      <title>Managing Microsoft 365 Groups with PowerShell</title>
+      <link>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/managing_microsoft_365_groups_with_powershell/</guid>
+      <description>As an IT administrator, managing Microsoft 365 Groups can be a crucial task to ensure your organization&amp;rsquo;s collaboration and communication channels are properly set up and secured. This comprehensive guide will walk you through various PowerShell cmdlets and techniques to effectively manage your Microsoft 365 Groups.
+Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a link to your organization&amp;rsquo;s usage guidelines.</description>
+    </item>
+    
+  </channel>
+</rss>

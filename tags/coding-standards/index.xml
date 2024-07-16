@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding Standards on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/coding-standards/</link>
+    <description>Recent content in Coding Standards on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/coding-standards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Diverse Perspectives in PowerShell Best Practices</title>
+      <link>http://example.org/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</guid>
+      <description>Navigating the Diverse Perspectives in PowerShell Best Practices If you&amp;rsquo;ve spent any time exploring PowerShell code projects, you&amp;rsquo;ve likely noticed that the PowerShell community has a wide range of perspectives on what constitutes the &amp;lsquo;right&amp;rsquo; way to write PowerShell scripts and modules. This diversity of opinions can make it challenging to establish a clear set of best practices that everyone agrees on.
+The introduction provided outlines some of the key factors that have contributed to this lack of consensus over the years.</description>
+    </item>
+    
+  </channel>
+</rss>

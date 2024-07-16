@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDE on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/ide/</link>
+    <description>Recent content in IDE on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhance Your PowerShell Development with Visual Studio Code</title>
+      <link>http://example.org/posts/enhance_your_powershell_development_with_visual_studio_code/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/enhance_your_powershell_development_with_visual_studio_code/</guid>
+      <description>Visual Studio Code (VS Code) has become a popular integrated development environment (IDE) for PowerShell developers, offering a rich set of features and capabilities that streamline the PowerShell development process. The PowerShell extension for VS Code, maintained by the PowerShell team and the community, provides an exceptional experience for writing, debugging, and managing PowerShell scripts.
+Powerful Features for PowerShell Developers The PowerShell extension for VS Code delivers a wide range of features that enhance the PowerShell development experience:</description>
+    </item>
+    
+  </channel>
+</rss>

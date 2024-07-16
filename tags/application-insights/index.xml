@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Insights on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/application-insights/</link>
+    <description>Recent content in Application Insights on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/application-insights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Azure Monitor Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
+      <description>Unlocking Cost-Effective Monitoring with Azure Monitor Azure Monitor is a powerful tool that provides comprehensive observability into your applications, infrastructure, and network. However, with its varied pricing models and features, understanding and optimizing your Azure Monitor costs can be a challenge. In this in-depth guide, we&amp;rsquo;ll explore the different components of Azure Monitor pricing, share strategies to analyze and manage your costs, and provide practical tips to ensure you&amp;rsquo;re getting the most out of your Azure Monitor investment.</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Hybrid App with On-Premises Data and Cross-Cloud Scaling</title>
+      <link>http://example.org/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</guid>
+      <description>Deploying a Hybrid App with On-Premises Data and Cross-Cloud Scaling In this comprehensive guide, we&amp;rsquo;ll walk through the process of deploying a hybrid application that leverages both Azure and Azure Stack Hub to create a scalable and resilient solution. By combining the benefits of a private cloud (Azure Stack Hub) with the scalability of the public cloud (Azure), you can build applications that meet your organization&amp;rsquo;s compliance requirements while still taking advantage of the cloud&amp;rsquo;s elasticity.</description>
+    </item>
+    
+  </channel>
+</rss>

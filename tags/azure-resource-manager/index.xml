@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Resource Manager on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-resource-manager/</link>
+    <description>Recent content in Azure Resource Manager on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-resource-manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless Migration of Azure Cloud Services (classic) to Azure Cloud Services (extended support)</title>
+      <link>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_azure_cloud_services_extended_support/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_azure_cloud_services_extended_support/</guid>
+      <description>Seamless Migration of Azure Cloud Services (classic) to Azure Cloud Services (extended support) Azure Cloud Services is a widely used Platform as a Service (PaaS) offering that allows you to build, deploy, and manage scalable and highly available web applications and APIs. Recently, Microsoft introduced Azure Cloud Services (extended support), which provides several enhancements over the classic Cloud Services model.
+This comprehensive guide will walk you through the process of migrating your existing Azure Cloud Services (classic) deployments to the newer Azure Cloud Services (extended support) platform.</description>
+    </item>
+    
+    <item>
+      <title>Seamless Migration of Classic IaaS Resources to Azure Resource Manager</title>
+      <link>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</guid>
+      <description>Overview of Platform-Supported Migration As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.
+This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model.</description>
+    </item>
+    
+    <item>
+      <title>Migrating IaaS Resources from Classic to Azure Resource Manager- A Technical Deep Dive</title>
+      <link>http://example.org/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</guid>
+      <description>Migrating IaaS Resources from Classic to Azure Resource Manager: A Technical Deep Dive As the Azure platform continues to evolve, the migration from the classic deployment model to the Azure Resource Manager deployment model has become an important part of managing your cloud infrastructure. This comprehensive guide will take you on a deep dive into the technical aspects of this migration process, helping you understand how the Azure platform translates resources between the two deployment models.</description>
+    </item>
+    
+  </channel>
+</rss>

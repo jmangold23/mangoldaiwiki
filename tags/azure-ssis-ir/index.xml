@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure-ssis IR on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-ssis-ir/</link>
+    <description>Recent content in azure-ssis IR on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-ssis-ir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Integration Runtimes in Azure Data Factory and Synapse Analytics</title>
+      <link>http://example.org/posts/mastering_integration_runtimes_in_azure_data_factory_and_synapse_analytics/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_integration_runtimes_in_azure_data_factory_and_synapse_analytics/</guid>
+      <description>The Integration Runtime (IR) is the backbone of Azure Data Factory and Azure Synapse Analytics, providing the compute infrastructure to enable a wide range of data integration capabilities across different network environments. Whether you&amp;rsquo;re moving data between cloud data stores, dispatching transformation activities, or natively executing SSIS packages, the IR is the critical component that makes it all possible.
+In this comprehensive guide, we&amp;rsquo;ll dive deep into the different types of integration runtimes available, their capabilities, network environment support, and how to determine which one to use for your specific data integration needs.</description>
+    </item>
+    
+    <item>
+      <title>Provisioning an Azure-SSIS Integration Runtime via Azure Portal</title>
+      <link>http://example.org/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</guid>
+      <description>Azure-SSIS Integration Runtime is now generally available in Azure Synapse Analytics, allowing you to use it and the Execute SSIS Package activity in your Synapse pipelines. This article provides a comprehensive guide on how to create an Azure-SSIS integration runtime (IR) in Azure Data Factory (ADF) or Synapse Analytics via the Azure portal.
+The Azure-SSIS IR supports running packages deployed into the SSIS catalog (SSISDB) hosted by Azure SQL Database server or Managed Instance (Project Deployment Model), as well as packages deployed into Azure Files (Package Deployment Model).</description>
+    </item>
+    
+  </channel>
+</rss>

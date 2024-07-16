@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/governance/</link>
+    <description>Recent content in Governance on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organizing Your Azure Resources with Management Groups</title>
+      <link>http://example.org/posts/organizing_your_azure_resources_with_management_groups/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/organizing_your_azure_resources_with_management_groups/</guid>
+      <description>Azure Management Groups are a powerful tool for organizing and managing your Azure resources. They allow you to create a hierarchical structure that can be used to apply consistent policies, access controls, and governance across multiple Azure subscriptions.
+In this guide, we&amp;rsquo;ll walk through the process of creating a new management group using the Azure Portal. Management groups are containers that help you manage access, policy, and compliance across multiple Azure subscriptions.</description>
+    </item>
+    
+    <item>
+      <title>Accelerate Your Cloud Adoption with the Cloud Adoption Framework for Azure</title>
+      <link>http://example.org/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
+      <description>The Cloud Adoption Framework for Azure is a comprehensive set of tools, templates, and assessments that can help you quickly implement technical changes and accelerate your cloud adoption journey. This framework covers various phases of the cloud adoption process, from strategy and planning to readiness, governance, migration, innovation, and management.
+Strategy The Cloud Adoption Framework offers several resources to help you define and refine your cloud adoption strategy:
+ Cloud Adoption Strategy Evaluator assessment: Assess your current cloud adoption strategy and get recommendations on building and advancing your cloud business case.</description>
+    </item>
+    
+    <item>
+      <title>Unlocking Collaboration with Microsoft 365 Groups</title>
+      <link>http://example.org/posts/unlocking_collaboration_with_microsoft_365_groups/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/unlocking_collaboration_with_microsoft_365_groups/</guid>
+      <description>Unlocking Collaboration with Microsoft 365 Groups Microsoft 365 Groups is a powerful collaboration tool that enables teams across your organization to work together more effectively. By creating a Microsoft 365 Group, you can provide a shared set of resources that team members can access and use to drive their projects forward.
+What are Microsoft 365 Groups? Microsoft 365 Groups is the foundational membership service that powers collaboration across the Microsoft 365 suite.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Security with Microsoft Defender for Cloud- Improve Your Secure Posture</title>
+      <link>http://example.org/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
+      <description>Mastering Azure Security with Microsoft Defender for Cloud: Improve Your Secure Posture In this comprehensive article, we&amp;rsquo;ll explore how you can leverage the powerful features of Microsoft Defender for Cloud to enhance the security posture of your Azure environment. By the end of this post, you&amp;rsquo;ll have a deep understanding of how to use vulnerability assessment for virtual machines and containers, automate recommendation workflows, and access your secure score data using Azure Resource Graph (ARG).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Server Migration on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/sql-server-migration/</link>
+    <description>Recent content in SQL Server Migration on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sql-server-migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating Line-of-Business Applications to Azure</title>
+      <link>http://example.org/posts/migrating_line-of-business_applications_to_azure/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_line-of-business_applications_to_azure/</guid>
+      <description>Migrating Line-of-Business Applications to Azure In this comprehensive guide, we will walk through the process of assessing and migrating a multi-tier line-of-business application from an on-premises Hyper-V environment to Microsoft Azure. We will leverage a variety of Azure tools and services to ensure a successful migration, including Azure Migrate, Azure Database Migration Service, and Azure Site Recovery.
+Abstract and Learning Objectives Throughout this guide, you will learn how to:
+ Use Azure Migrate to assess the on-premises environment and create a migration plan Migrate the application database from on-premises SQL Server to Azure SQL Database Migrate the web and application tiers from on-premises Hyper-V VMs to Azure virtual machines Reconfigure the application to use the migrated database Perform post-migration steps to prepare the application for production  After completing this guide, you will understand the role of Azure Migrate and related migration tools, and how to use them to successfully migrate an on-premises multi-tier application to Azure.</description>
+    </item>
+    
+  </channel>
+</rss>

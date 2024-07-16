@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Route Tables on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/route-tables/</link>
+    <description>Recent content in Route Tables on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/route-tables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Virtual Hub Routing in Azure- A Comprehensive Guide</title>
+      <link>http://example.org/posts/mastering_virtual_hub_routing_in_azure_a_comprehensive_guide/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_virtual_hub_routing_in_azure_a_comprehensive_guide/</guid>
+      <description>Mastering Virtual Hub Routing in Azure: A Comprehensive Guide In the dynamic world of cloud infrastructure, the ability to manage and configure routing within your virtual hubs is crucial for maintaining seamless connectivity and efficient data flow. This comprehensive guide will walk you through the process of configuring virtual hub routing using the Azure portal, helping you unlock the full potential of your Azure Virtual WAN network.
+Understanding Virtual Hub Routing A virtual hub in Azure Virtual WAN can contain multiple gateways, such as site-to-site VPN, ExpressRoute, point-to-site, and Azure Firewall.</description>
+    </item>
+    
+  </channel>
+</rss>

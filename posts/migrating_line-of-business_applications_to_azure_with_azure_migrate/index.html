@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Migrating Line-of-Business Applications to Azure with Azure Migrate // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Migrating Line-of-Business Applications to Azure with Azure Migrate"/>
+<meta name="twitter:description" content="Migrating Line-of-Business Applications to Azure with Azure Migrate In this comprehensive guide, we&rsquo;ll walk through the step-by-step process of assessing and migrating a multi-tier application from on-premises Hyper-V infrastructure to Azure. We&rsquo;ll leverage various Azure tools and services throughout the migration journey, including Azure Migrate, Azure Site Recovery, Azure SQL Database, and the Azure Database Migration Service.
+Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a complex, multi-tier application from Hyper-V to Azure."/>
+
+    <meta property="og:title" content="Migrating Line-of-Business Applications to Azure with Azure Migrate" />
+<meta property="og:description" content="Migrating Line-of-Business Applications to Azure with Azure Migrate In this comprehensive guide, we&rsquo;ll walk through the step-by-step process of assessing and migrating a multi-tier application from on-premises Hyper-V infrastructure to Azure. We&rsquo;ll leverage various Azure tools and services throughout the migration journey, including Azure Migrate, Azure Site Recovery, Azure SQL Database, and the Azure Database Migration Service.
+Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a complex, multi-tier application from Hyper-V to Azure." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/migrating_line-of-business_applications_to_azure_with_azure_migrate/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-06-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-06-03T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Migrating Line-of-Business Applications to Azure with Azure Migrate</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Jun 3, 2024
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          8 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="http://example.org/tags/hyper-v/">Hyper-V</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <h2 id="migrating-line-of-business-applications-to-azure-with-azure-migrate">Migrating Line-of-Business Applications to Azure with Azure Migrate</h2>
+<p>In this comprehensive guide, we&rsquo;ll walk through the step-by-step process of assessing and migrating a multi-tier application from on-premises Hyper-V infrastructure to Azure. We&rsquo;ll leverage various Azure tools and services throughout the migration journey, including Azure Migrate, Azure Site Recovery, Azure SQL Database, and the Azure Database Migration Service.</p>
+<h3 id="abstract-and-learning-objectives">Abstract and Learning Objectives</h3>
+<p>This hands-on lab will teach you how to assess and migrate a complex, multi-tier application from Hyper-V to Azure. You&rsquo;ll learn the roles and usage of key Azure migration tools, and apply them to successfully migrate the on-premises &lsquo;SmartHotel&rsquo; application to the cloud.</p>
+<p>After completing this guide, you will:</p>
+<ul>
+<li>Understand how to use Azure Migrate to discover and assess your on-premises environment</li>
+<li>Know how to leverage Azure Site Recovery to migrate your application and web tiers to Azure</li>
+<li>Learn to migrate an on-premises database to Azure SQL Database using the Azure Database Migration Service</li>
+<li>Gain experience in configuring networking, IP addresses, and database connections for your migrated application</li>
+</ul>
+<h3 id="overview">Overview</h3>
+<p>Before the lab, you will have a pre-deployed on-premises infrastructure hosted in Hyper-V. This infrastructure hosts the multi-tier &lsquo;SmartHotel&rsquo; application, using separate Hyper-V VMs for each application tier.</p>
+<p>During the lab, you will migrate the entire SmartHotel application stack to Azure. This includes:</p>
+<ul>
+<li>Assessing the on-premises environment using Azure Migrate</li>
+<li>Migrating the database tier to Azure SQL Database using the SQL Server Data Migration Assistant (DMA) and the Azure Database Migration Service (DMS)</li>
+<li>Migrating the web and application tiers using Azure Site Recovery</li>
+</ul>
+<p>The migration will cover both Windows and Linux VMs.</p>
+<h3 id="solution-architecture">Solution Architecture</h3>
+<p>The SmartHotel application comprises 4 VMs hosted in Hyper-V:</p>
+<ul>
+<li><strong>Database Tier</strong>: Hosted on the <code>smarthotelSQL1</code> VM, running Windows Server 2016 and SQL Server 2017</li>
+<li><strong>Application Tier</strong>: Hosted on the <code>smarthotelweb2</code> VM, running Windows Server 2012 R2</li>
+<li><strong>Web Tier</strong>: Hosted on the <code>smarthotelweb1</code> VM, running Windows Server 2012 R2</li>
+<li><strong>Web Proxy</strong>: Hosted on the <code>UbuntuWAF</code> VM, running Nginx on Ubuntu 18.04 LTS</li>
+</ul>
+<p>For simplicity, there is no redundancy in any of the tiers.</p>
+<blockquote>
+<p><strong>Note</strong>: The Hyper-V host itself is deployed as an Azure VM for convenience. For the purposes of this lab, you should consider it an on-premises machine.</p>
+</blockquote>
+<p>The migration workflow is as follows:</p>
+<ol>
+<li>
+<p><strong>Assess the on-premises environment using Azure Migrate</strong>:</p>
+<ul>
+<li>Deploy the Azure Migrate appliance on the Hyper-V host to gather information about the environment</li>
+<li>Install the Microsoft Monitoring Agent and Dependency Agent on the VMs to enable Azure Migrate dependency visualization</li>
+</ul>
+</li>
+<li>
+<p><strong>Migrate the Database Tier to Azure SQL Database</strong>:</p>
+<ul>
+<li>Install the SQL Server Data Migration Assistant (DMA) on the Hyper-V host to assess the on-premises database</li>
+<li>Use the DMA to migrate the database schema to Azure SQL Database</li>
+<li>Complete the data migration using the Azure Database Migration Service (DMS)</li>
+</ul>
+</li>
+<li>
+<p><strong>Migrate the Application and Web Tiers using Azure Site Recovery</strong>:</p>
+<ul>
+<li>Deploy the Azure Site Recovery collector appliance into the Hyper-V environment</li>
+<li>Set up the Azure environment, including a storage account and virtual network</li>
+<li>Replicate the application and web tier VMs to Azure</li>
+<li>Perform a test failover to migrate the application to Azure</li>
+</ul>
+</li>
+</ol>
+<p>After migration, the application could be further modernized to use Azure Application Gateway instead of the Ubuntu Nginx VM, and Azure App Service to host both the web tier and application tier. However, these optimizations are out of scope for this lab, which focuses on a &lsquo;lift and shift&rsquo; migration to Azure VMs.</p>
+<h3 id="requirements">Requirements</h3>
+<ol>
+<li>You will need Owner or Contributor permissions for an Azure subscription to use in the lab.</li>
+<li>Your Azure subscription must have sufficient unused quota to deploy the VMs used in this lab (at least 15 vCPUs available).</li>
+</ol>
+<p>For further details, see the <a href="./Before%20the%20HOL%20-%20Line-of-business%20application%20migration.md">Before the HOL - Line-of-business application migration</a> setup guide.</p>
+<h3 id="exercise-1-discover-and-assess-the-on-premises-environment">Exercise 1: Discover and Assess the On-Premises Environment</h3>
+<p>In this first exercise, you will use Azure Migrate to assess the on-premises Hyper-V environment and prepare for migration.</p>
+<h4 id="task-1-create-the-azure-migrate-project">Task 1: Create the Azure Migrate Project</h4>
+<ol>
+<li>Log into the Azure Portal and navigate to the Azure Migrate service.</li>
+<li>Click the <strong>Add tool(s)</strong> button to create a new Azure Migrate project.</li>
+<li>Select your Azure subscription and create a new resource group named <strong>AzureMigrateRG</strong>.</li>
+<li>At the &lsquo;Select assessment tool&rsquo; step, choose <strong>Azure Migrate: Server Assessment</strong>.</li>
+<li>At the &lsquo;Select migration tool&rsquo; step, choose <strong>Azure Migrate: Server Migration</strong>.</li>
+<li>Review the settings and click <strong>Add tool(s)</strong> to create the Azure Migrate project.</li>
+<li>Once the deployment completes, navigate to the &lsquo;Servers&rsquo; panel and verify the Azure Migrate: Server Assessment tool is available.</li>
+</ol>
+<h4 id="task-2-deploy-the-azure-migrate-appliance">Task 2: Deploy the Azure Migrate Appliance</h4>
+<ol>
+<li>Click <strong>Discover</strong> to open the &lsquo;Discover machines&rsquo; blade, and select <strong>Yes, with Hyper-V</strong>.</li>
+<li>Follow the instructions to download, deploy, and configure the Azure Migrate appliance on the Hyper-V host VM.</li>
+<li>Create a new &lsquo;Azure Migrate Switch&rsquo; virtual switch in Hyper-V to isolate the appliance from the application VMs.</li>
+<li>Import the Azure Migrate appliance VM and configure its network settings using a PowerShell script.</li>
+<li>Start the Azure Migrate appliance VM and complete the configuration wizard.</li>
+</ol>
+<h4 id="task-3-configure-the-azure-migrate-appliance">Task 3: Configure the Azure Migrate Appliance</h4>
+<ol>
+<li>Connect to the Azure Migrate appliance VM and complete the configuration wizard.</li>
+<li>Register the appliance with your Azure Migrate project.</li>
+<li>Provide the Hyper-V host credentials and add the <code>SmartHotelHost</code> to the list of hosts to discover.</li>
+<li>Wait for the discovery process to complete, then verify the discovered servers in the Azure portal.</li>
+</ol>
+<h4 id="task-4-create-a-migration-assessment">Task 4: Create a Migration Assessment</h4>
+<ol>
+<li>In the Azure Migrate blade, click <strong>+ Assess</strong> to start a new migration assessment.</li>
+<li>Review the available assessment properties and customize as needed.</li>
+<li>Create a new server group for the &lsquo;SmartHotel VMs&rsquo; and select the appropriate VMs.</li>
+<li>Wait for the assessment to complete, then review the results, including Azure readiness and migration cost estimates.</li>
+<li>Explore the assessment details, such as the &lsquo;Unsupported boot type&rsquo; issue for <code>smarthotelweb1</code>.</li>
+</ol>
+<h4 id="task-5-configure-dependency-visualization">Task 5: Configure Dependency Visualization</h4>
+<ol>
+<li>Install the Microsoft Monitoring Agent and Dependency Agent on the application VMs to enable dependency visualization.</li>
+<li>For the Linux <code>UbuntuWAF</code> VM, use the Azure Cloud Shell to remotely install the agents.</li>
+<li>Generate some traffic on the SmartHotel application to populate the dependency data.</li>
+</ol>
+<h4 id="task-6-explore-dependency-visualization">Task 6: Explore Dependency Visualization</h4>
+<ol>
+<li>In the Azure Migrate blade, review the &lsquo;Discovered items&rsquo; and click &lsquo;View dependencies&rsquo; for the <code>smarthotelweb1</code> VM.</li>
+<li>Explore the dependency visualization, examining the processes and connections between the VMs.</li>
+<li>Use the multi-select functionality to group VMs for migration assessment.</li>
+</ol>
+<h3 id="exercise-2-migrate-the-application-database">Exercise 2: Migrate the Application Database</h3>
+<p>In this exercise, you will migrate the application database from the on-premises Hyper-V VM to an Azure SQL Database.</p>
+<h4 id="task-1-create-an-azure-sql-database">Task 1: Create an Azure SQL Database</h4>
+<ol>
+<li>In the Azure portal, create a new Azure SQL Database named <code>smarthoteldb</code>.</li>
+<li>Create a new SQL server for the database, using the server name <code>smarthoteldb[unique number]</code>.</li>
+<li>Configure the SQL server firewall to allow access from the on-premises Hyper-V host VM.</li>
+</ol>
+<h4 id="task-2-assess-the-on-premises-database">Task 2: Assess the On-Premises Database</h4>
+<ol>
+<li>On the Hyper-V host VM, install the SQL Server Data Migration Assistant (DMA).</li>
+<li>Use the DMA to assess the on-premises <code>SmartHotel.Registration</code> database for migration to Azure SQL Database.</li>
+<li>Review the assessment results, noting any compatibility issues or unsupported features.</li>
+</ol>
+<h4 id="task-3-migrate-the-on-premises-database">Task 3: Migrate the On-Premises Database</h4>
+<ol>
+<li>In the DMA, create a new migration project targeting Azure SQL Database.</li>
+<li>Specify the connection details for the on-premises SQL Server and the Azure SQL Database.</li>
+<li>Select the <code>SmartHotel.Registration</code> database and migrate the schema.</li>
+<li>Migrate the data to the Azure SQL Database.</li>
+</ol>
+<h3 id="exercise-3-migrate-the-application-and-web-tiers-using-azure-site-recovery">Exercise 3: Migrate the Application and Web Tiers using Azure Site Recovery</h3>
+<p>In this final exercise, you will migrate the application and web tiers of the SmartHotel application to Azure using Azure Site Recovery.</p>
+<h4 id="task-1-create-a-storage-account">Task 1: Create a Storage Account</h4>
+<ol>
+<li>In the Azure portal, create a new storage account that will be used by Azure Site Recovery for replicating the virtual machines.</li>
+</ol>
+<h4 id="task-2-create-a-virtual-network">Task 2: Create a Virtual Network</h4>
+<ol>
+<li>Create a new virtual network named <code>SmartHotelASRVNet</code> that will host the migrated VMs.</li>
+</ol>
+<h4 id="task-3-configure-and-start-replication-of-vms">Task 3: Configure and Start Replication of VMs</h4>
+<ol>
+<li>In the Azure Migrate blade, select the VMs to be migrated and configure the replication settings.</li>
+<li>Review the target compute and disk settings for the migrated VMs.</li>
+<li>Start the replication process to copy the on-premises VMs to Azure.</li>
+</ol>
+<h4 id="task-4-test-migration">Task 4: Test Migration</h4>
+<ol>
+<li>Once replication is complete, perform a test failover of the <code>SmartHotelWeb*</code> VMs to the Azure virtual network.</li>
+<li>Verify the test failover resources are created in the <code>SmartHotelASRRG</code> resource group.</li>
+</ol>
+<h4 id="task-5-7-configure-database-connection-public-ip-and-test-application">Task 5-7: Configure Database Connection, Public IP, and Test Application</h4>
+<ol>
+<li>On the <code>smarthotelweb2-test</code> VM, update the database connection string in the <code>Web.config</code> to point to the Azure SQL Database.</li>
+<li>Associate a public IP address with the <code>UbuntuWAF-test</code> VM to access the migrated application.</li>
+<li>Verify the SmartHotel application is accessible and functioning correctly in Azure.</li>
+</ol>
+<h4 id="task-8-cleanup-the-test-failover">Task 8: Cleanup the Test Failover</h4>
+<ol>
+<li>In the Azure Site Recovery portal, clean up the test failover resources, including the test VMs.</li>
+</ol>
+<h3 id="after-the-hands-on-lab">After the Hands-on Lab</h3>
+<ol>
+<li>Clean up all the resources created during the lab to avoid continued billing.</li>
+</ol>
+<p>This comprehensive guide has walked you through the end-to-end process of assessing and migrating a multi-tier application from on-premises Hyper-V to Azure. By leveraging the various Azure migration tools, you&rsquo;ve gained practical experience in successfully migrating workloads to the cloud.</p>
+<p>For more information, please refer to the <a href="https://raw.githubusercontent.com/2020shobhit2020/Azure-Migrate-Hands-on-Lab/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Line-of-business%20application%20migration.md">original hands-on lab instructions</a>.</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

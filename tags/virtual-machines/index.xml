@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Machines on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/virtual-machines/</link>
+    <description>Recent content in Virtual Machines on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/virtual-machines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Azure VM Maintenance with Maintenance Configurations and the Azure CLI</title>
+      <link>http://example.org/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</guid>
+      <description>Maintaining a fleet of Azure virtual machines (VMs) can be a complex task, but with the Maintenance Configurations feature and the Azure CLI, you can take control of when platform updates are applied to your resources. In this comprehensive guide, we&amp;rsquo;ll explore the ins and outs of using Maintenance Configurations to optimize your VM maintenance strategy.
+Creating Maintenance Configurations The first step in managing your VM maintenance is to create a maintenance configuration.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Hybrid Benefit for Linux Virtual Machines</title>
+      <link>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</guid>
+      <description>Azure Hybrid Benefit (AHB) for Linux is a powerful feature that allows you to easily switch between pay-as-you-go (PAYG) and bring-your-own-subscription (BYOS) licensing models for your Linux virtual machines. With AHB, you can remove licensing costs by bringing your existing Red Hat and SUSE Linux subscriptions directly to Azure, or utilize a PAYG model where you pay for subscriptions as you use them.
+This comprehensive guide will walk you through the key concepts of PAYG and BYOS licensing, how to enable AHB on new and existing VMs, how to check the current licensing model of an AHB-enabled VM, and the step-by-step process for converting between PAYG and BYOS models.</description>
+    </item>
+    
+    <item>
+      <title>Manage and Optimize Azure Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</guid>
+      <description>Manage and Optimize Azure Costs: A Comprehensive Guide When you sign up for Azure, it&amp;rsquo;s important to get a handle on your spending and proactively manage costs. This comprehensive guide will walk you through key strategies and tools to plan, monitor, and optimize your Azure expenditure.
+Get Estimated Costs Before Adding Azure Services Before provisioning any Azure resources, it&amp;rsquo;s crucial to estimate the potential costs. You can use the following tools to get accurate estimates:</description>
+    </item>
+    
+    <item>
+      <title>Optimize Your Azure Virtual Machine Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
+      <description>Optimize Your Azure Virtual Machine Costs: A Comprehensive Guide Running virtual machines (VMs) in the cloud can be a powerful and flexible solution, but it&amp;rsquo;s important to understand and manage the costs associated with them. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, monitor, and optimize the costs of your Azure virtual machines.
+Estimate Costs Before Deployment Before you deploy any virtual machines, use the Azure pricing calculator to estimate the costs.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Your Azure Spend with Azure Advisor&#39;s Cost-Saving Recommendations</title>
+      <link>http://example.org/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</guid>
+      <description>Optimizing Azure Costs with Azure Advisor Azure Advisor is a powerful tool that can help you identify and address opportunities to optimize your Azure infrastructure and reduce your overall cloud spend. By analyzing your resource utilization and making targeted recommendations, Advisor empowers you to make informed decisions that can lead to significant cost savings.
+Identifying Underutilized Virtual Machines and Scale Sets One of Advisor&amp;rsquo;s key capabilities is its ability to detect underutilized virtual machines (VMs) and virtual machine scale sets (VMSS).</description>
+    </item>
+    
+    <item>
+      <title>Reduce Azure Costs with Optimization Recommendations</title>
+      <link>http://example.org/posts/reduce_azure_costs_with_optimization_recommendations/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reduce_azure_costs_with_optimization_recommendations/</guid>
+      <description>Optimizing your Azure costs can have a significant impact on your overall cloud spending. This comprehensive guide walks you through leveraging Azure Advisor recommendations to identify and address underutilized resources, ultimately helping you reduce your Azure costs.
+Understand Cost Optimization Recommendations Azure Advisor, integrated with Cost Management, provides valuable recommendations to help you optimize your Azure resource utilization and costs. These recommendations identify usage inefficiencies and potential savings opportunities.
+The recommendations are categorized by their potential impact:</description>
+    </item>
+    
+    <item>
+      <title>Setting Up a Simulated Hybrid Cloud Environment for Testing</title>
+      <link>http://example.org/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
+      <description>Setting Up a Simulated Hybrid Cloud Environment for Testing Microsoft Azure provides a flexible and scalable platform for creating test environments that simulate a hybrid cloud setup. This article walks you through the process of setting up a simulated hybrid cloud test environment using two separate Azure virtual networks and a VNet-to-VNet connection.
+This setup simulates a hybrid cloud production environment consisting of:
+ A simulated and simplified on-premises network hosted in an Azure virtual network (the TestLab virtual network).</description>
+    </item>
+    
+    <item>
+      <title>Seamless Migration of Classic IaaS Resources to Azure Resource Manager</title>
+      <link>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/seamless_migration_of_classic_iaas_resources_to_azure_resource_manager/</guid>
+      <description>Overview of Platform-Supported Migration As the cloud computing landscape evolves, Microsoft has introduced Azure Resource Manager (ARM) as the preferred deployment model, offering enhanced capabilities and benefits over the classic Azure Service Manager (ASM) model. Today, approximately 90% of IaaS VMs are using Azure Resource Manager, and the classic deployment model has been deprecated, with a full retirement scheduled for September 6, 2023.
+This comprehensive guide will walk you through the platform-supported migration process, enabling you to seamlessly transition your existing classic IaaS resources, including virtual machines, storage accounts, and virtual networks, to the Azure Resource Manager deployment model.</description>
+    </item>
+    
+    <item>
+      <title>Migrating IaaS Resources from Classic to Azure Resource Manager- A Technical Deep Dive</title>
+      <link>http://example.org/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</guid>
+      <description>Migrating IaaS Resources from Classic to Azure Resource Manager: A Technical Deep Dive As the Azure platform continues to evolve, the migration from the classic deployment model to the Azure Resource Manager deployment model has become an important part of managing your cloud infrastructure. This comprehensive guide will take you on a deep dive into the technical aspects of this migration process, helping you understand how the Azure platform translates resources between the two deployment models.</description>
+    </item>
+    
+  </channel>
+</rss>

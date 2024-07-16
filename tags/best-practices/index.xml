@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Practices on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/best-practices/</link>
+    <description>Recent content in Best Practices on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Securing Container Images in Azure Kubernetes Service (AKS)</title>
+      <link>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <description>As container-based workloads become increasingly prevalent, ensuring the security of container images is crucial to avoid introducing vulnerabilities into your deployments. In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing and securing container images in Azure Kubernetes Service (AKS).
+Secure the Images and Runtime Best Practice Guidance:
+ Scan your container images for vulnerabilities. Only deploy validated images. Regularly update the base images and application runtime. Redeploy workloads in the AKS cluster.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the &#34;Great Debate&#34; in the PowerShell Community</title>
+      <link>http://example.org/posts/exploring_the_great_debate_in_the_powershell_community/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/exploring_the_great_debate_in_the_powershell_community/</guid>
+      <description>Exploring the &amp;ldquo;Great Debate&amp;rdquo; in the PowerShell Community Introduction The PowerShell community has long been engaged in a series of debates around best practices, coding styles, and various aspects of PowerShell scripting. These discussions, collectively referred to as the &amp;ldquo;Great Debate</description>
+    </item>
+    
+    <item>
+      <title>Unlock the Power of PowerShell- Essential Scripting Style and Best Practices</title>
+      <link>http://example.org/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</guid>
+      <description>In the ever-evolving world of PowerShell, the art of writing efficient, maintainable, and readable code is paramount. This comprehensive guide delves into the essential scripting style and best practices that can elevate your PowerShell prowess to new heights.
+PowerShell, as a powerful scripting language, has become an indispensable tool for system administrators, IT professionals, and automation enthusiasts. However, with great power comes great responsibility. Adopting a set of well-defined best practices can help you navigate the intricacies of PowerShell and ensure your code is not only effective but also easily understandable and reusable.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Diverse Perspectives in PowerShell Best Practices</title>
+      <link>http://example.org/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</guid>
+      <description>Navigating the Diverse Perspectives in PowerShell Best Practices If you&amp;rsquo;ve spent any time exploring PowerShell code projects, you&amp;rsquo;ve likely noticed that the PowerShell community has a wide range of perspectives on what constitutes the &amp;lsquo;right&amp;rsquo; way to write PowerShell scripts and modules. This diversity of opinions can make it challenging to establish a clear set of best practices that everyone agrees on.
+The introduction provided outlines some of the key factors that have contributed to this lack of consensus over the years.</description>
+    </item>
+    
+    <item>
+      <title>Prescriptive Practices for Deploying and Running Azure Databricks at Scale</title>
+      <link>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
+      <description>Planning, deploying, and running Azure Databricks (ADB) at scale requires one to make many architectural decisions. While each ADB deployment is unique to an organization&amp;rsquo;s needs, we have found that some patterns are common across most successful ADB projects. This guide summarizes these patterns into prescriptive and actionable best practices for Azure Databricks.
+We follow a logical path of planning the infrastructure, provisioning the workspaces, developing Azure Databricks applications, and finally, running Azure Databricks in production.</description>
+    </item>
+    
+    <item>
+      <title>Mastering PowerShell- Best Practices for Efficient and Maintainable Scripts</title>
+      <link>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
+      <description>Mastering PowerShell: Best Practices for Efficient and Maintainable Scripts Navigating the Diverse PowerShell Landscape As you dive into the world of PowerShell scripting, you&amp;rsquo;ll quickly realize that the PowerShell community is a diverse and opinionated one. When scanning through code projects on the PoshCode repository or the Microsoft Learn Code Samples Gallery, you&amp;rsquo;ll encounter a wide range of approaches and perspectives on what constitutes &amp;ldquo;best practices</description>
+    </item>
+    
+    <item>
+      <title>Mastering PowerShell Best Practices- A Comprehensive Guide</title>
+      <link>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
+      <description>Mastering PowerShell Best Practices: A Comprehensive Guide Introduction As a seasoned PowerShell practitioner, you&amp;rsquo;ve likely encountered the diverse perspectives and practices within the PowerShell community. From code projects on PoshCode to the Microsoft Learn Code Samples Gallery, it&amp;rsquo;s clear that PowerShell users have a wide range of opinions on what constitutes &amp;ldquo;right and wrong</description>
+    </item>
+    
+    <item>
+      <title>Mastering Continuous Integration and Delivery in Azure Data Factory</title>
+      <link>http://example.org/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <description>Continuous Integration and Delivery in Azure Data Factory Continuous integration is the practice of automatically testing each change made to your codebase as early as possible. Continuous delivery then takes the tested changes and pushes them to a staging or production environment.
+In Azure Data Factory, continuous integration and delivery (CI/CD) refers to the process of moving your data pipelines from one environment (like development) to another (like test or production).</description>
+    </item>
+    
+  </channel>
+</rss>

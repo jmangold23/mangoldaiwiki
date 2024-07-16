@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure ML on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-ml/</link>
+    <description>Recent content in Azure ML on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set up AutoML for Time-Series Forecasting with SDK and CLI</title>
+      <link>http://example.org/posts/set_up_automl_for_time-series_forecasting_with_sdk_and_cli/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/set_up_automl_for_time-series_forecasting_with_sdk_and_cli/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll explore how to set up Azure Machine Learning&amp;rsquo;s automated machine learning (AutoML) for time-series forecasting using the Azure Machine Learning Python SDK and CLI. We&amp;rsquo;ll cover everything from preparing your data to orchestrating the entire workflow, including training, inference, and model evaluation.
+Prepare Your Data for Forecasting To start, your input data for AutoML forecasting must contain valid time series in tabular format. Each variable should have its own corresponding column in the data table.</description>
+    </item>
+    
+    <item>
+      <title>Demand Forecasting with Deep Learning Models</title>
+      <link>http://example.org/posts/demand_forecasting_with_deep_learning_models/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/demand_forecasting_with_deep_learning_models/</guid>
+      <description>In this notebook, we&amp;rsquo;ll demonstrate how to use Azure Machine Learning&amp;rsquo;s automated machine learning (AutoML) for time-series forecasting, specifically using deep learning models to forecast GitHub daily active users (DAU).
+Prepare Data We&amp;rsquo;ll start by loading the GitHub daily active users data into an MLTable, which is the required format for AutoML forecasting jobs.
+import pandas as pd from azure.ai.ml import Input from azure.ai.ml.constants import AssetTypes # Load the GitHub DAU data df = pd.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Time-Series Forecasting with Azure Machine Learning&#39;s Automated ML</title>
+      <link>http://example.org/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll dive deep into setting up Azure Machine Learning&amp;rsquo;s Automated ML for time-series forecasting. Unlike classical time series methods, Automated ML takes a unique approach by &amp;ldquo;pivoting&amp;rdquo; past time-series values to become additional dimensions for the regressor, along with other predictors. This approach allows Automated ML to incorporate multiple contextual variables and their relationships during training, making it a powerful tool for real-world forecasting scenarios.
+We&amp;rsquo;ll start by preparing your data for time-series modeling, ensuring that all features used in training can be used when running predictions for your intended horizon.</description>
+    </item>
+    
+  </channel>
+</rss>

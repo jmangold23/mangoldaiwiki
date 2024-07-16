@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Ethics on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/ai-ethics/</link>
+    <description>Recent content in AI Ethics on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ai-ethics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building an Ethical AI Framework- A Comprehensive Guide</title>
+      <link>http://example.org/posts/building_an_ethical_ai_framework_a_comprehensive_guide/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/building_an_ethical_ai_framework_a_comprehensive_guide/</guid>
+      <description>Building an Ethical AI Framework: A Comprehensive Guide As artificial intelligence (AI) becomes increasingly integrated into our lives, organizations are facing the complex challenge of ensuring their AI implementations are ethical, responsible, and aligned with their values. The AI Ethics Framework provided by www.ethicalby.design offers a comprehensive approach to navigating these critical considerations.
+Key Principles of Ethical AI The framework outlines several core principles for organizations to consider when developing and implementing AI systems:</description>
+    </item>
+    
+  </channel>
+</rss>

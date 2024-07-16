@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java Runtime on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/java-runtime/</link>
+    <description>Recent content in Java Runtime on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/java-runtime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest Releases of Eclipse Temurin - The Open Source Java SE Build</title>
+      <link>http://example.org/posts/latest_releases_of_eclipse_temurin_-_the_open_source_java_se_build/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/latest_releases_of_eclipse_temurin_-_the_open_source_java_se_build/</guid>
+      <description>The Adoptium website provides access to the latest releases of Eclipse Temurin, an open source Java SE build based on OpenJDK. Temurin is available for a wide range of platforms and Java SE versions, and the latest releases recommended for production use are listed on this page.
+Some key details about the Temurin releases:
+Latest Recommended Releases The page displays the current recommended Temurin releases for production use, which include versions 22, 21, 19, 18, 16, and 8 (LTS).</description>
+    </item>
+    
+  </channel>
+</rss>

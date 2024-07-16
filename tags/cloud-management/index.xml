@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Management on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/cloud-management/</link>
+    <description>Recent content in Cloud Management on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Your Azure Costs with Advisor Recommendations</title>
+      <link>http://example.org/posts/optimizing_your_azure_costs_with_advisor_recommendations/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimizing_your_azure_costs_with_advisor_recommendations/</guid>
+      <description>Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.
+In this comprehensive guide, we&amp;rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.
+AI Services Potential Cost Savings on AI Services Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Landscape- Maximize the Benefits, Minimize the Concerns</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
+      <description>Navigating the Hybrid and Multicloud Landscape: Maximize the Benefits, Minimize the Concerns As the digital landscape continues to evolve, more and more organizations are embracing the power of hybrid and multicloud environments. Microsoft Azure, as an enterprise-grade cloud provider, offers a comprehensive suite of products and features to help you build and operate your technology solutions across public, hybrid, and multicloud setups.
+Defining Hybrid and Multicloud A hybrid cloud is a type of cloud computing that combines a private cloud (on-premises infrastructure) with a public cloud (computing services offered by third-party providers over the public internet).</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Hybrid and Multicloud Landscape with Azure</title>
+      <link>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</guid>
+      <description>Navigating the Hybrid and Multicloud Landscape with Azure As enterprises increasingly look to leverage the benefits of cloud computing, many are finding that a hybrid or multicloud approach is the best fit for their needs. Microsoft Azure, as a leading enterprise-grade cloud provider, is well-equipped to support businesses across public, hybrid, and multicloud environments.
+Understanding Hybrid and Multicloud A hybrid cloud combines a private cloud (on-premises infrastructure) with a public cloud (third-party cloud services).</description>
+    </item>
+    
+  </channel>
+</rss>

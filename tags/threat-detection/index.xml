@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>threat detection on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/threat-detection/</link>
+    <description>Recent content in threat detection on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/threat-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing Your Cloud Infrastructure- End-to-End Security in Azure</title>
+      <link>http://example.org/posts/securing_your_cloud_infrastructure_end-to-end_security_in_azure/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_cloud_infrastructure_end-to-end_security_in_azure/</guid>
+      <description>Azure is a robust cloud platform that offers a comprehensive suite of security services to help businesses safeguard their cloud resources, detect threats, and respond effectively. In this in-depth article, we&amp;rsquo;ll explore the various security capabilities available in Azure and how you can leverage them to create a secure, end-to-end cloud environment.
+Secure and Protect One of the key advantages of using Azure is the wide array of security tools and capabilities it provides.</description>
+    </item>
+    
+  </channel>
+</rss>

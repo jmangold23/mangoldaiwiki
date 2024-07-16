@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Manage Roles and Permissions in Microsoft Sentinel // mangoldai :: cloud architect insights</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.d18c46a9c052e3fff4ff60ea22fff43c74140b8b952b4bbebd229127fbf997f3.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Manage Roles and Permissions in Microsoft Sentinel"/>
+<meta name="twitter:description" content="Roles and Permissions in Microsoft Sentinel Microsoft Sentinel uses Azure role-based access control (Azure RBAC) to provide built-in roles that can be assigned to users, groups, and services in Azure. This allows you to grant appropriate access to Microsoft Sentinel and control what users can see and do.
+Microsoft Sentinel-Specific Roles The built-in Microsoft Sentinel roles and their allowed actions are:
+ Microsoft Sentinel Reader: Can view data, incidents, workbooks, and other Microsoft Sentinel resources."/>
+
+    <meta property="og:title" content="Manage Roles and Permissions in Microsoft Sentinel" />
+<meta property="og:description" content="Roles and Permissions in Microsoft Sentinel Microsoft Sentinel uses Azure role-based access control (Azure RBAC) to provide built-in roles that can be assigned to users, groups, and services in Azure. This allows you to grant appropriate access to Microsoft Sentinel and control what users can see and do.
+Microsoft Sentinel-Specific Roles The built-in Microsoft Sentinel roles and their allowed actions are:
+ Microsoft Sentinel Reader: Can view data, incidents, workbooks, and other Microsoft Sentinel resources." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/manage_roles_and_permissions_in_microsoft_sentinel/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-04-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-04-25T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://example.org/"><img class="app-header-avatar" src="/avatar.jpg" alt="John Doe" /></a>
+      <span class="app-header-title">mangoldai :: cloud architect insights</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Cloud architecture, Azure, and tech innovations. Notes, tips, and insights.</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/jmangold23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>My Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/joshua-mangold-a7ba0989/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>My LinkedIn</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Manage Roles and Permissions in Microsoft Sentinel</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Apr 25, 2024
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="http://example.org/tags/roles/">roles</a>
+              <a class="tag" href="http://example.org/tags/permissions/">permissions</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <h2 id="roles-and-permissions-in-microsoft-sentinel">Roles and Permissions in Microsoft Sentinel</h2>
+<p>Microsoft Sentinel uses Azure role-based access control (Azure RBAC) to provide built-in roles that can be assigned to users, groups, and services in Azure. This allows you to grant appropriate access to Microsoft Sentinel and control what users can see and do.</p>
+<h3 id="microsoft-sentinel-specific-roles">Microsoft Sentinel-Specific Roles</h3>
+<p>The built-in Microsoft Sentinel roles and their allowed actions are:</p>
+<ul>
+<li><strong>Microsoft Sentinel Reader</strong>: Can view data, incidents, workbooks, and other Microsoft Sentinel resources.</li>
+<li><strong>Microsoft Sentinel Responder</strong>: In addition to Reader permissions, can manage incidents like assign, dismiss, and change them.</li>
+<li><strong>Microsoft Sentinel Contributor</strong>: In addition to Responder permissions, can install and update solutions from the content hub, and create/edit Microsoft Sentinel resources like workbooks, analytics rules, etc.</li>
+<li><strong>Microsoft Sentinel Playbook Operator</strong>: Can list, view, and manually run playbooks.</li>
+<li><strong>Microsoft Sentinel Automation Contributor</strong>: Allows Microsoft Sentinel to add playbooks to automation rules (not meant for user accounts).</li>
+</ul>
+<p>You can assign these roles at the resource group level containing the Microsoft Sentinel workspace, or directly to the workspace itself.</p>
+<h3 id="other-roles-and-permissions">Other Roles and Permissions</h3>
+<p>Users may need additional roles or permissions depending on their job requirements:</p>
+<ul>
+<li><strong>Install and Manage Content</strong>: Assign the Microsoft Sentinel Contributor role to enable installing and managing solutions from the content hub.</li>
+<li><strong>Automate Threat Response</strong>: Use the Microsoft Sentinel Playbook Operator and Logic App Contributor roles to enable creating, editing, and running playbooks.</li>
+<li><strong>Connect Data Sources</strong>: Assign Write permissions on the Microsoft Sentinel workspace to allow adding data connectors.</li>
+<li><strong>Allow Guest Users to Assign Incidents</strong>: Assign the Directory Reader role in addition to the Microsoft Sentinel Responder role.</li>
+<li><strong>Create and Delete Workbooks</strong>: Assign either the Microsoft Sentinel Contributor role or a lesser Microsoft Sentinel role plus the Workbook Contributor role.</li>
+</ul>
+<p>You may also encounter Azure and Log Analytics roles that provide broader permissions, which could impact access to Microsoft Sentinel resources.</p>
+<h2 id="custom-roles-and-advanced-azure-rbac">Custom Roles and Advanced Azure RBAC</h2>
+<ul>
+<li><strong>Custom Roles</strong>: You can create custom Azure roles for Microsoft Sentinel, based on specific permissions.</li>
+<li><strong>Log Analytics RBAC</strong>: Use advanced Azure RBAC across the data in your Microsoft Sentinel workspace, including data type-based and resource-context RBAC.</li>
+</ul>
+<h2 id="role-and-permissions-recommendations">Role and Permissions Recommendations</h2>
+<p>Here are some role recommendations for different user types:</p>
+<table>
+<thead>
+<tr>
+<th>User Type</th>
+<th>Roles</th>
+<th>Resource Group</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Security Analysts</td>
+<td>Microsoft Sentinel Responder<!-- raw HTML omitted -->Microsoft Sentinel Playbook Operator</td>
+<td>Microsoft Sentinel&rsquo;s resource group</td>
+</tr>
+<tr>
+<td>Security Engineers</td>
+<td>Microsoft Sentinel Contributor<!-- raw HTML omitted -->Logic App Contributor</td>
+<td>Microsoft Sentinel&rsquo;s resource group</td>
+</tr>
+<tr>
+<td>Service Principal</td>
+<td>Microsoft Sentinel Contributor</td>
+<td>Microsoft Sentinel&rsquo;s resource group</td>
+</tr>
+</tbody>
+</table>
+<p>Additional roles may be required depending on your data and requirements, such as Microsoft Entra roles.</p>
+<h2 id="resource-based-access-control">Resource-Based Access Control</h2>
+<p>You can also configure RBAC based on the resources users are allowed to access, rather than granting access to the entire Microsoft Sentinel environment. This resource-context RBAC can provide more granular control over data access.</p>
+<p>For more information, see the <a href="resource-context-rbac.md">Manage access to Microsoft Sentinel data by resource</a> article.</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

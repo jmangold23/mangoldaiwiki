@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Run-time Threat Protection on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/run-time-threat-protection/</link>
+    <description>Recent content in Run-time Threat Protection on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/run-time-threat-protection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive Guide to Microsoft Defender for Containers</title>
+      <link>http://example.org/posts/comprehensive_guide_to_microsoft_defender_for_containers/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/comprehensive_guide_to_microsoft_defender_for_containers/</guid>
+      <description>Introduction to Microsoft Defender for Containers Microsoft Defender for Containers is a powerful cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This comprehensive platform addresses the unique security challenges associated with the rapid growth and adoption of containers and Kubernetes.
+Defender for Containers provides a holistic approach to container security, focusing on four core domains:
+  Security Posture Management: Continuously monitors cloud APIs, Kubernetes APIs, and Kubernetes workloads to discover resources, detect misconfigurations, provide risk assessment, and enable enhanced risk hunting capabilities.</description>
+    </item>
+    
+  </channel>
+</rss>

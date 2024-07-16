@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/linux/</link>
+    <description>Recent content in Linux on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing PowerShell on Linux- A Comprehensive Guide</title>
+      <link>http://example.org/posts/installing_powershell_on_linux_a_comprehensive_guide/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/installing_powershell_on_linux_a_comprehensive_guide/</guid>
+      <description>PowerShell is a powerful and versatile tool that can be installed on a variety of Linux distributions, each with its own package manager and installation process. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions and the steps to install PowerShell on each of them.
+Supported Linux Distributions PowerShell can be installed on several different Linux distributions, including:
+Alpine Alpine is a lightweight and secure Linux distribution that uses the APK package manager.</description>
+    </item>
+    
+    <item>
+      <title>Building PowerShell on Linux- A Step-by-Step Guide</title>
+      <link>http://example.org/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
+      <description>Building PowerShell on Linux can be a daunting task, but with the right guidance, it&amp;rsquo;s a rewarding process that can deepen your understanding of the platform. This comprehensive guide will take you through the necessary steps to set up your environment, install the required toolchain, and build PowerShell from the ground up.
+Setting Up Your Environment The first step is to ensure your environment is properly configured for building PowerShell on Linux.</description>
+    </item>
+    
+    <item>
+      <title>Building PowerShell on Linux- A Comprehensive Guide</title>
+      <link>http://example.org/posts/building_powershell_on_linux_a_comprehensive_guide/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/building_powershell_on_linux_a_comprehensive_guide/</guid>
+      <description>Building PowerShell on Linux: A Comprehensive Guide If you&amp;rsquo;re a developer looking to build PowerShell on Linux, you&amp;rsquo;ve come to the right place. This guide will walk you through the process step-by-step, ensuring you have a smooth and successful experience.
+Setting Up the Environment The first step is to set up your development environment. This guide assumes you&amp;rsquo;re using Ubuntu 16.04 LTS, as that&amp;rsquo;s the distribution the PowerShell team primarily uses.</description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of PowerShell on Linux- A Comprehensive Guide</title>
+      <link>http://example.org/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
+      <description>PowerShell, the powerful command-line tool developed by Microsoft, has gained widespread adoption across various operating systems, including Linux. If you&amp;rsquo;re a Linux user looking to harness the capabilities of PowerShell, you&amp;rsquo;ve come to the right place. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions, installation methods, and community support options to help you seamlessly integrate PowerShell into your Linux workflow.
+Supported Linux Distributions PowerShell can be installed on a variety of Linux distributions, each with its own package manager.</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Guide to Installing PowerShell on Linux</title>
+      <link>http://example.org/posts/comprehensive_guide_to_installing_powershell_on_linux/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/comprehensive_guide_to_installing_powershell_on_linux/</guid>
+      <description>Comprehensive Guide to Installing PowerShell on Linux PowerShell is a powerful and versatile scripting language and automation tool that runs on a variety of platforms, including Linux. In this comprehensive guide, we&amp;rsquo;ll explore the different methods you can use to install PowerShell on your Linux distribution.
+Snap Package One of the easiest ways to install PowerShell on Linux is through the Snap package manager. Snaps are self-contained application packages that are easy to install, secure, and cross-platform.</description>
+    </item>
+    
+    <item>
+      <title>Preparing On-Premises Machines for Migration to Azure</title>
+      <link>http://example.org/posts/preparing_on-premises_machines_for_migration_to_azure/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/preparing_on-premises_machines_for_migration_to_azure/</guid>
+      <description>Preparing On-Premises Machines for Migration to Azure Azure Migrate is a service that helps you discover, assess, and migrate on-premises machines to Microsoft Azure. This comprehensive guide will walk you through the steps to prepare your on-premises machines before migrating them to Azure using the Azure Migrate service.
+Verify Migration Limitations Before you begin, it&amp;rsquo;s important to understand the discovery, assessment, and migration limits for Azure Migrate. The table below summarizes these limits across different scenarios:</description>
+    </item>
+    
+    <item>
+      <title>Alternate Ways to Install PowerShell on Linux</title>
+      <link>http://example.org/posts/alternate_ways_to_install_powershell_on_linux/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/alternate_ways_to_install_powershell_on_linux/</guid>
+      <description>Alternate Ways to Install PowerShell on Linux Microsoft&amp;rsquo;s PowerShell is a powerful cross-platform automation tool that can be installed on various Linux distributions. In addition to the standard installation methods, there are several alternate ways to get PowerShell up and running on your Linux system.
+Snap Package One of the easiest ways to install PowerShell on Linux is through the use of Snap packages. Snap is a container-based packaging format that makes it simple to install and maintain applications across a wide range of Linux distributions.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Your Windows Server, SQL Server, and Linux Workloads</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by applying your existing Windows Server, SQL Server licenses, and Linux subscriptions. By leveraging this benefit, you can achieve significant savings of up to 85% over the standard pay-as-you-go rates.
+One of the key advantages of the Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to take advantage of the scalability and flexibility of the cloud while still utilizing your existing investments in SQL Server licenses.</description>
+    </item>
+    
+    <item>
+      <title>Migrating Your Linux Workloads to Azure</title>
+      <link>http://example.org/posts/migrating_your_linux_workloads_to_azure/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
+Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
+    </item>
+    
+    <item>
+      <title>Assessing and Migrating Applications to Azure - A Step-by-Step Guide</title>
+      <link>http://example.org/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</guid>
+      <description>In this comprehensive guide, we&amp;rsquo;ll explore the process of assessing an on-premises multi-tier application and migrating it to Microsoft Azure. We&amp;rsquo;ll leverage the powerful suite of tools provided by Azure Migrate to ensure a seamless and efficient migration journey.
+Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a multi-tier application from Hyper-V to Azure. You will learn to use Azure Migrate as the central hub for executing the migration, along with accompanying tools like Microsoft Data Migration Assistant (DMA) and Azure Database Migration Service (DMS).</description>
+    </item>
+    
+  </channel>
+</rss>

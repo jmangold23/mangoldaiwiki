@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Segmentation on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/network-segmentation/</link>
+    <description>Recent content in Network Segmentation on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/network-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing Your Azure Container Instances- Best Practices and Strategies</title>
+      <link>http://example.org/posts/securing_your_azure_container_instances_best_practices_and_strategies/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/securing_your_azure_container_instances_best_practices_and_strategies/</guid>
+      <description>Containerization has revolutionized the way we develop, deploy, and manage applications, but with this powerful technology comes a unique set of security challenges. As organizations embrace Azure Container Instances to run their containerized workloads, it&amp;rsquo;s crucial to address these security concerns head-on.
+In this comprehensive guide, we&amp;rsquo;ll dive deep into the security considerations for Azure Container Instances, equipping you with the knowledge and strategies to safeguard your containerized environments.
+Securing Container Images Use a Private Registry Publicly available container images may not always be secure, as they can contain vulnerabilities in their various software layers.</description>
+    </item>
+    
+  </channel>
+</rss>

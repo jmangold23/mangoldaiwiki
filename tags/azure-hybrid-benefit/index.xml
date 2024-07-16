@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Hybrid Benefit on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-hybrid-benefit/</link>
+    <description>Recent content in Azure Hybrid Benefit on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-hybrid-benefit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Your Windows Server Licenses and Save on Azure Kubernetes Service</title>
+      <link>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
+      <description>Maximizing Your Windows Server Licenses on Azure Kubernetes Service Are you running Windows-based workloads in the cloud? If so, you may be able to save a significant amount on your Azure Kubernetes Service (AKS) costs by taking advantage of the Azure Hybrid Benefit program.
+Azure Hybrid Benefit is a licensing program that allows you to use your existing on-premises Windows Server licenses on Azure virtual machines, including those running in AKS.</description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Optimizing Virtual Machine Costs in Azure</title>
+      <link>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/best_practices_for_optimizing_virtual_machine_costs_in_azure/</guid>
+      <description>Optimizing Virtual Machine Costs in Azure: Best Practices As organizations continue to embrace the cloud, managing and reducing costs for virtual machines (VMs) has become a critical priority. This comprehensive guide delves into the best practices you can implement to optimize the costs of your Azure virtual machines.
+Use the Azure VM Selector to Identify the Right VMs for Your Needs The first step in cost optimization is selecting the appropriate virtual machines for your workloads.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Your SQL Server and Windows Server Investments with Azure Hybrid Benefit</title>
+      <link>http://example.org/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving program from Microsoft that allows you to get more value from your existing Windows Server, SQL Server, and Linux software investments when migrating to the cloud. By applying your on-premises licenses to Azure, you can save up to 85% over standard pay-as-you-go rates and seamlessly extend your hybrid infrastructure.
+Here&amp;rsquo;s how Azure Hybrid Benefit can benefit your organization:
+1. Save Up to 85% on Azure Costs With Azure Hybrid Benefit, you can use your existing Windows Server and SQL Server licenses to run virtual machines in Azure at a substantially reduced rate.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Windows Server, SQL Server, and Linux Subscriptions</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by leveraging your existing Windows Server, SQL Server licenses, and Linux subscriptions. By taking advantage of this benefit, you can save up to 85% over the standard pay-as-you-go rate when running your workloads on Azure.
+One of the key features of Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to seamlessly migrate and modernize your SQL Server databases to the cloud.</description>
+    </item>
+    
+    <item>
+      <title>Mastering Azure Hybrid Benefit for Linux Virtual Machines</title>
+      <link>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_hybrid_benefit_for_linux_virtual_machines/</guid>
+      <description>Azure Hybrid Benefit (AHB) for Linux is a powerful feature that allows you to easily switch between pay-as-you-go (PAYG) and bring-your-own-subscription (BYOS) licensing models for your Linux virtual machines. With AHB, you can remove licensing costs by bringing your existing Red Hat and SUSE Linux subscriptions directly to Azure, or utilize a PAYG model where you pay for subscriptions as you use them.
+This comprehensive guide will walk you through the key concepts of PAYG and BYOS licensing, how to enable AHB on new and existing VMs, how to check the current licensing model of an AHB-enabled VM, and the step-by-step process for converting between PAYG and BYOS models.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Azure Costs with the Cost Optimization Workbook</title>
+      <link>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize your Azure costs. This comprehensive guide will walk you through the various features and capabilities of the workbook, equipping you with the knowledge to make informed decisions and drive cost savings in your Azure environment.
+Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used cost optimization tools and insights.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Cost Savings with Azure Hybrid Benefit for Your Windows Server, SQL Server, and Linux Workloads</title>
+      <link>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
+      <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by applying your existing Windows Server, SQL Server licenses, and Linux subscriptions. By leveraging this benefit, you can achieve significant savings of up to 85% over the standard pay-as-you-go rates.
+One of the key advantages of the Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to take advantage of the scalability and flexibility of the cloud while still utilizing your existing investments in SQL Server licenses.</description>
+    </item>
+    
+    <item>
+      <title>Maximize Your Cloud Efficiency with Microsoft Azure Cost Management</title>
+      <link>http://example.org/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</guid>
+      <description>Navigating the world of cloud computing can be a daunting task, especially when it comes to understanding and managing your cloud costs. That&amp;rsquo;s where Microsoft Azure Cost Management comes in - a powerful suite of FinOps tools designed to help organizations like yours analyze, monitor, and optimize their Microsoft Cloud spending.
+In this comprehensive post, we&amp;rsquo;ll dive into the ins and outs of Azure Cost Management, exploring how it can help you take control of your cloud costs and drive greater efficiency across your organization.</description>
+    </item>
+    
+    <item>
+      <title>Maximizing Your SQL Server Investments with Azure Hybrid Benefit</title>
+      <link>http://example.org/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</guid>
+      <description>Migrating and modernizing your SQL Server deployments can be a complex and costly endeavor, but Microsoft&amp;rsquo;s Azure Hybrid Benefit offers a solution that can help you save significantly on your licensing costs while streamlining your hybrid environment.
+Azure Hybrid Benefit is a cost-saving offering from Microsoft that allows you to apply your existing Windows Server, SQL Server, and Linux subscriptions to your cloud workloads, unlocking substantial savings. By leveraging this benefit, you can save up to 85% over the standard pay-as-you-go rates, making it a highly attractive option for organizations looking to optimize their IT investments.</description>
+    </item>
+    
+    <item>
+      <title>Maximizing Your Microsoft Cloud Investment- An In-Depth Look at Cost Management</title>
+      <link>http://example.org/posts/maximizing_your_microsoft_cloud_investment_an_in-depth_look_at_cost_management/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximizing_your_microsoft_cloud_investment_an_in-depth_look_at_cost_management/</guid>
+      <description>Microsoft Cost Management is a comprehensive suite of FinOps tools designed to help organizations analyze, monitor, and optimize their Microsoft Cloud costs. Whether you&amp;rsquo;re managing a single subscription or multiple billing accounts, Cost Management provides the insights and control you need to make informed decisions and maximize the value of your cloud investment.
+Understanding the Commerce Data Pipeline At the heart of Cost Management is the Microsoft Commerce data pipeline, which underpins all commercial transactions across Microsoft&amp;rsquo;s ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Your Azure Virtual Machine Costs- A Comprehensive Guide</title>
+      <link>http://example.org/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
+      <description>Optimize Your Azure Virtual Machine Costs: A Comprehensive Guide Running virtual machines (VMs) in the cloud can be a powerful and flexible solution, but it&amp;rsquo;s important to understand and manage the costs associated with them. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, monitor, and optimize the costs of your Azure virtual machines.
+Estimate Costs Before Deployment Before you deploy any virtual machines, use the Azure pricing calculator to estimate the costs.</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Centrally Managed Azure Hybrid Benefit for SQL Server</title>
+      <link>http://example.org/posts/optimizing_centrally_managed_azure_hybrid_benefit_for_sql_server/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimizing_centrally_managed_azure_hybrid_benefit_for_sql_server/</guid>
+      <description>Optimizing Centrally Managed Azure Hybrid Benefit for SQL Server This comprehensive guide will walk you through the process of proactively managing and optimizing your use of Azure Hybrid Benefit for SQL Server. By centrally managing this benefit, you can reduce the costs of running Azure SQL and ensure you&amp;rsquo;re getting the most value out of your existing SQL Server licenses.
+Prerequisites Before you begin, make sure you have:
+  Read and understood the What is centrally managed Azure Hybrid Benefit?</description>
+    </item>
+    
+    <item>
+      <title>Optimize Your Azure Costs with the Cost Optimization Workbook</title>
+      <link>http://example.org/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize the costs of your Azure environment. This comprehensive guide will walk you through the features and capabilities of the workbook, empowering you to make informed decisions and drive cost savings in your Azure deployments.
+Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used tools that can help you drive utilization and efficiency goals.</description>
+    </item>
+    
+    <item>
+      <title>Streamlining Azure Hybrid Benefit Management for Significant Cost Savings</title>
+      <link>http://example.org/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
+      <description>Centralizing Azure Hybrid Benefit Management for SQL Server Azure Hybrid Benefit is a powerful licensing program that allows you to significantly reduce the costs of running your workloads in the cloud. By bringing your on-premises Software Assurance or subscription-enabled Windows Server and SQL Server licenses to Azure, you can save substantially on your cloud computing expenses.
+One of the key advancements in Azure Hybrid Benefit is the introduction of centralized management capabilities.</description>
+    </item>
+    
+  </channel>
+</rss>

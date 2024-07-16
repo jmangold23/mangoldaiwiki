@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure-powershell on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/azure-powershell/</link>
+    <description>Recent content in azure-powershell on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/azure-powershell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
+      <link>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
+In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
+    </item>
+    
+  </channel>
+</rss>

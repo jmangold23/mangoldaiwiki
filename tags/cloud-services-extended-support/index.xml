@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Services (extended support) on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/cloud-services-extended-support/</link>
+    <description>Recent content in Cloud Services (extended support) on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cloud-services-extended-support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless Migration of Azure Cloud Services (classic) to Cloud Services (extended support)</title>
+      <link>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_cloud_services_extended_support/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/seamless_migration_of_azure_cloud_services_classic_to_cloud_services_extended_support/</guid>
+      <description>Azure Cloud Services is a widely used Platform-as-a-Service (PaaS) offering that allows developers to focus on building applications without having to manage the underlying infrastructure. Over the years, Microsoft has evolved its cloud platform, introducing new capabilities and deployment models to better serve the evolving needs of customers.
+One such evolution is the introduction of Azure Cloud Services (extended support), which provides several benefits over the classic deployment model. Cloud Services (extended support) offers regional resiliency, feature parity with the classic model, and integration with Azure Resource Manager (ARM) capabilities like role-based access control (RBAC), tags, and policy.</description>
+    </item>
+    
+  </channel>
+</rss>

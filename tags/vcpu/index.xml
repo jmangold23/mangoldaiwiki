@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vCPU on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/vcpu/</link>
+    <description>Recent content in vCPU on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/vcpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modernizing Mainframe Applications with Azure- A Comprehensive Guide</title>
+      <link>http://example.org/posts/modernizing_mainframe_applications_with_azure_a_comprehensive_guide/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/modernizing_mainframe_applications_with_azure_a_comprehensive_guide/</guid>
+      <description>As organizations strive to stay competitive in today&amp;rsquo;s fast-paced digital landscape, many are considering migrating their traditional mainframe applications to the cloud. Azure, Microsoft&amp;rsquo;s powerful cloud platform, offers a compelling alternative to the mainframe, providing hyperscale compute and storage in a highly available environment.
+In this comprehensive guide, we&amp;rsquo;ll explore the key strategies and considerations for making the switch from a mainframe platform to Azure.
+MIPS vs. vCPUs: Mapping Mainframe Workloads to the Cloud One of the first challenges in a mainframe migration is determining the appropriate level of compute resources needed to run your workloads on Azure.</description>
+    </item>
+    
+  </channel>
+</rss>

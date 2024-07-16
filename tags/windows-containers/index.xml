@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Containers on mangoldai :: cloud architect insights</title>
+    <link>http://example.org/tags/windows-containers/</link>
+    <description>Recent content in Windows Containers on mangoldai :: cloud architect insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/windows-containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Your Windows Server Licenses and Save on Azure Kubernetes Service</title>
+      <link>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
+      <description>Maximizing Your Windows Server Licenses on Azure Kubernetes Service Are you running Windows-based workloads in the cloud? If so, you may be able to save a significant amount on your Azure Kubernetes Service (AKS) costs by taking advantage of the Azure Hybrid Benefit program.
+Azure Hybrid Benefit is a licensing program that allows you to use your existing on-premises Windows Server licenses on Azure virtual machines, including those running in AKS.</description>
+    </item>
+    
+  </channel>
+</rss>
