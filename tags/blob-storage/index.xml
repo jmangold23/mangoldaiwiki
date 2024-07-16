@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blob Storage on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/blob-storage/</link>
+    <link>https://mangoldai.com/tags/blob-storage/</link>
     <description>Recent content in Blob Storage on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/blob-storage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/blob-storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamline Your Data Migration to Azure Storage with AzCopy</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</link>
+      <link>https://mangoldai.com/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</guid>
+      <guid>https://mangoldai.com/posts/streamline_your_data_migration_to_azure_storage_with_azcopy/</guid>
       <description>Streamline Your Data Migration to Azure Storage with AzCopy Are you looking to move your on-premises data to the cloud? Azure Storage&amp;rsquo;s AzCopy tool can make the process quick and efficient. In this comprehensive guide, we&amp;rsquo;ll walk you through the steps to seamlessly migrate your data to Azure Storage using AzCopy.
 What is AzCopy? AzCopy is a powerful command-line tool that allows you to copy data to and from Azure Blob storage, Azure Files, and Azure Table storage.</description>
     </item>

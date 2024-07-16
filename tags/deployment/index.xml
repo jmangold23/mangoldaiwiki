@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deployment on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/deployment/</link>
+    <link>https://mangoldai.com/tags/deployment/</link>
     <description>Recent content in Deployment on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quickly Deploy Microsoft Defender for Identity Sensors on Active Directory and Other Key Servers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/quickly_deploy_microsoft_defender_for_identity_sensors_on_active_directory_and_other_key_servers/</link>
+      <link>https://mangoldai.com/posts/quickly_deploy_microsoft_defender_for_identity_sensors_on_active_directory_and_other_key_servers/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/quickly_deploy_microsoft_defender_for_identity_sensors_on_active_directory_and_other_key_servers/</guid>
+      <guid>https://mangoldai.com/posts/quickly_deploy_microsoft_defender_for_identity_sensors_on_active_directory_and_other_key_servers/</guid>
       <description>Microsoft Defender for Identity is a critical security solution that helps protect your organization against identity-based attacks. This comprehensive guide will walk you through the quick installation process to get your Defender for Identity sensors up and running on your Active Directory, Active Directory Federation Services (AD FS), and Active Directory Certificate Services (AD CS) servers.
 Prerequisites Before you begin the installation, it&amp;rsquo;s important to ensure you have the necessary prerequisites in place:</description>
     </item>
     
     <item>
       <title>Mastering Continuous Integration and Delivery in Azure Data Factory</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <link>https://mangoldai.com/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <guid>https://mangoldai.com/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
       <description>Continuous Integration and Delivery in Azure Data Factory Continuous integration is the practice of automatically testing each change made to your codebase as early as possible. Continuous delivery then takes the tested changes and pushes them to a staging or production environment.
 In Azure Data Factory, continuous integration and delivery (CI/CD) refers to the process of moving your data pipelines from one environment (like development) to another (like test or production).</description>
     </item>

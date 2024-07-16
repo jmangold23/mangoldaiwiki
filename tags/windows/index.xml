@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/windows/</link>
+    <link>https://mangoldai.com/tags/windows/</link>
     <description>Recent content in Windows on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Powershell-SlackBot- A Comprehensive Guide to Building a Slack Bot with PowerShell</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</link>
+      <link>https://mangoldai.com/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</guid>
+      <guid>https://mangoldai.com/posts/powershell-slackbot_a_comprehensive_guide_to_building_a_slack_bot_with_powershell/</guid>
       <description>Powershell-SlackBot: A Comprehensive Guide to Building a Slack Bot with PowerShell This project is a PowerShell implementation of a Chat Bot for Slack that utilises the Slack Real Time Messaging (RTM) API. This code is intended to provide a simple framework for anyone that wants to write a Chat Bot for a single Slack Team that is able to respond to Channel and Direct Messages. It would also be simple to extend the code to permit the Bot to respond to any other events exposed via the RTM API.</description>
     </item>
     
     <item>
       <title>Preparing On-Premises Machines for Migration to Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_on-premises_machines_for_migration_to_azure/</link>
+      <link>https://mangoldai.com/posts/preparing_on-premises_machines_for_migration_to_azure/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_on-premises_machines_for_migration_to_azure/</guid>
+      <guid>https://mangoldai.com/posts/preparing_on-premises_machines_for_migration_to_azure/</guid>
       <description>Preparing On-Premises Machines for Migration to Azure Azure Migrate is a service that helps you discover, assess, and migrate on-premises machines to Microsoft Azure. This comprehensive guide will walk you through the steps to prepare your on-premises machines before migrating them to Azure using the Azure Migrate service.
 Verify Migration Limitations Before you begin, it&amp;rsquo;s important to understand the discovery, assessment, and migration limits for Azure Migrate. The table below summarizes these limits across different scenarios:</description>
     </item>

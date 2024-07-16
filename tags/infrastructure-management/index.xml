@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infrastructure Management on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/infrastructure-management/</link>
+    <link>https://mangoldai.com/tags/infrastructure-management/</link>
     <description>Recent content in Infrastructure Management on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/infrastructure-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/infrastructure-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Serverless Computing on Microsoft Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_serverless_computing_on_microsoft_azure/</link>
+      <link>https://mangoldai.com/posts/exploring_serverless_computing_on_microsoft_azure/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
+      <guid>https://mangoldai.com/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
       <description>Serverless computing is a revolutionary approach to application development that enables developers to build and run applications without having to manage any underlying infrastructure. This article provides an in-depth look at serverless computing on Microsoft Azure, covering the key concepts, benefits, and patterns of serverless applications.
 What is Serverless Computing? Serverless computing allows developers to build and run applications and services without having to provision or manage any servers. The cloud service provider (in this case, Microsoft Azure) automatically provisions, scales, and manages the infrastructure required to run the code.</description>
     </item>

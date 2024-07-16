@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>private cloud on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/private-cloud/</link>
+    <link>https://mangoldai.com/tags/private-cloud/</link>
     <description>Recent content in private cloud on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/private-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/private-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Cloud- Exploring Public, Private and Hybrid Cloud Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
       <description>As the cloud computing landscape continues to evolve, organizations are faced with a critical decision - which cloud deployment model best suits their unique needs? The choice between public, private, and hybrid cloud can have a significant impact on factors like data security, scalability, cost, and control.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the pros and cons of each cloud deployment model, empowering you to make an informed decision that aligns with your business objectives.</description>
     </item>
     
     <item>
       <title>Exploring the Benefits and Differences of Cloud Computing Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</link>
+      <link>https://mangoldai.com/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</guid>
       <description>Navigating the Cloud: Unlocking the Power of Public, Private, and Hybrid Models
 In the ever-evolving landscape of technology, cloud computing has emerged as a game-changer, offering organizations a vast array of benefits and deployment options. Whether you&amp;rsquo;re new to the cloud or looking to deepen your understanding, this comprehensive guide will explore the key differences and advantages of public, private, and hybrid cloud models.
 Understanding Cloud Concepts: High Availability, Scalability, and More</description>
@@ -30,110 +30,110 @@ Understanding Cloud Concepts: High Availability, Scalability, and More</descript
     
     <item>
       <title>Exploring the Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>Cloud computing has become an essential part of modern IT infrastructure, offering organizations a range of deployment models to choose from based on their specific needs and requirements. In this comprehensive article, we will delve into the three primary cloud deployment models - public, private, and hybrid - examining their key characteristics, advantages, and disadvantages.
 Public Cloud The public cloud is the most common deployment model, where an organization&amp;rsquo;s data and applications are hosted on the infrastructure of a cloud service provider.</description>
     </item>
     
     <item>
       <title>Navigating the Cloud- Public, Private, and Hybrid Deployment Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</guid>
       <description>In the ever-evolving landscape of cloud computing, understanding the different deployment models is crucial for organizations seeking to leverage the power and flexibility of the cloud. The choice of deployment model can significantly impact factors like security, scalability, and maintenance, making it a critical decision for any business.
 Public Cloud: The Go-To Solution The public cloud is the most common deployment model, offering a compelling value proposition for many organizations. By leveraging the infrastructure and resources of a cloud provider, businesses can avoid the hassle of managing and maintaining their own hardware.</description>
     </item>
     
     <item>
       <title>Exploring Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>The cloud has become an essential part of modern computing, offering businesses and organizations a range of deployment models to choose from. Each model comes with its own set of advantages and disadvantages, and the choice ultimately depends on factors such as budget, security requirements, scalability needs, and maintenance preferences.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure of a cloud service provider.</description>
     </item>
     
     <item>
       <title>Navigating the Cloud Deployment Landscape- Public, Private, and Hybrid Strategies</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</guid>
       <description>In the ever-evolving world of cloud computing, understanding the different deployment models is crucial for organizations seeking to maximize their technology investments and meet their unique business requirements. The choice between public, private, and hybrid cloud models can have a significant impact on factors such as security, scalability, cost, and operational control.
 Public Cloud: The Flexible and Cost-Effective Option The public cloud is the most common deployment model, where organizations leverage the infrastructure and services provided by cloud providers like Microsoft Azure, Amazon Web Services, or Google Cloud Platform.</description>
     </item>
     
     <item>
       <title>Cloud Deployment Models- Navigating the Public, Private, and Hybrid Landscape</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</link>
+      <link>https://mangoldai.com/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</guid>
+      <guid>https://mangoldai.com/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</guid>
       <description>When it comes to cloud computing, the choice of deployment model can have a significant impact on your organization&amp;rsquo;s operations, security, and cost considerations. The content provided outlines the three primary cloud deployment models - public, private, and hybrid - and their respective advantages and disadvantages. Let&amp;rsquo;s dive deeper into each model and explore how you can determine the best fit for your needs.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure provided by a cloud service provider, such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP).</description>
     </item>
     
     <item>
       <title>Understanding Cloud Computing- Exploring the Benefits, Service Models, and Deployment Options</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
+      <link>https://mangoldai.com/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
+      <guid>https://mangoldai.com/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
       <description>Cloud computing has become an integral part of modern technology, transforming the way organizations and individuals approach computing resources. In this comprehensive article, we&amp;rsquo;ll explore the key benefits and considerations of using cloud services, delve into the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS), and compare the public, private, and hybrid cloud deployment models.
 The Benefits and Considerations of Cloud Computing Cloud computing offers a wide range of benefits that can significantly impact an organization&amp;rsquo;s operations and efficiency.</description>
     </item>
     
     <item>
       <title>Choosing the Right Cloud Deployment Model for Your Business</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/choosing_the_right_cloud_deployment_model_for_your_business/</link>
+      <link>https://mangoldai.com/posts/choosing_the_right_cloud_deployment_model_for_your_business/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/choosing_the_right_cloud_deployment_model_for_your_business/</guid>
+      <guid>https://mangoldai.com/posts/choosing_the_right_cloud_deployment_model_for_your_business/</guid>
       <description>When it comes to cloud computing, there are three primary deployment models to consider: public cloud, private cloud, and hybrid cloud. Each model has its own unique advantages and disadvantages, and the right choice will depend on your business&amp;rsquo;s specific needs, budget, and requirements.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure of a cloud service provider like Microsoft Azure or Amazon Web Services.</description>
     </item>
     
     <item>
       <title>Understanding Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>Cloud computing has revolutionized the way we approach IT infrastructure and service delivery. When it comes to cloud deployment, organizations have three primary models to choose from: public cloud, private cloud, and hybrid cloud. Each of these models offers distinct advantages and disadvantages, and the choice ultimately depends on an organization&amp;rsquo;s specific needs, budget, security requirements, and long-term goals.
 Public Cloud The public cloud is the most common deployment model, where organizations leverage the infrastructure and services provided by a cloud vendor, such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP).</description>
     </item>
     
     <item>
       <title>Navigating the Cloud- Exploring Public, Private, and Hybrid Cloud Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
       <description>In the ever-evolving world of cloud computing, organizations face a crucial decision when it comes to their cloud deployment strategy. The choice between public, private, or hybrid cloud models can have a significant impact on factors such as security, scalability, and cost-effectiveness. Understanding the nuances of each deployment model is essential for making an informed decision that aligns with your business needs.
 Public Cloud: The Scalable and Cost-Effective Option The public cloud has emerged as the most common deployment model, offering organizations a highly scalable and cost-effective solution.</description>
     </item>
     
     <item>
       <title>Exploring the Different Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>In the rapidly evolving world of cloud computing, businesses and organizations face an important decision - which cloud deployment model best fits their needs? The choice can significantly impact the security, scalability, and maintenance of their data and applications. This comprehensive article delves into the three primary cloud deployment models: public, private, and hybrid, providing a detailed overview of their advantages, disadvantages, and real-world use cases.
 Public Cloud: The Most Common Deployment Model The public cloud is the most widely adopted cloud deployment model, offering a highly scalable and cost-effective solution for businesses.</description>
     </item>
     
     <item>
       <title>Exploring Cloud Deployment Models- Public, Private, and Hybrid Strategies</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</link>
+      <link>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</guid>
+      <guid>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</guid>
       <description>As organizations navigate the digital landscape, the choice of cloud deployment model has become a critical decision. The options span public, private, and hybrid clouds, each offering unique advantages and considerations. In this comprehensive guide, we&amp;rsquo;ll delve into the nuances of these cloud deployment models, equipping you with the knowledge to make an informed decision that aligns with your business needs.
 Public Cloud: Scalability and Convenience The public cloud has emerged as the most prevalent deployment model, providing organizations with a highly scalable and agile infrastructure.</description>
     </item>

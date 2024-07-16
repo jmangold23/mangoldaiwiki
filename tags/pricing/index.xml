@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pricing on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/pricing/</link>
+    <link>https://mangoldai.com/tags/pricing/</link>
     <description>Recent content in pricing on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/pricing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/pricing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure DevOps Data Migration- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</guid>
       <description>Mastering Azure DevOps Data Migration: A Comprehensive Guide Before embarking on your Azure DevOps data migration journey, it&amp;rsquo;s important to understand the key concepts and considerations that will ensure a successful transition from your on-premises server to the cloud-based Azure DevOps Services.
 Understanding the Migration Process The Azure DevOps Data Migration Tool facilitates a high-fidelity migration, ensuring that the majority of your data is seamlessly transferred to the cloud. However, it&amp;rsquo;s crucial to note that not all data is migrated.</description>
     </item>
     
     <item>
       <title>Optimize Your Azure Virtual Machine Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
       <description>Optimize Your Azure Virtual Machine Costs: A Comprehensive Guide Running virtual machines (VMs) in the cloud can be a powerful and flexible solution, but it&amp;rsquo;s important to understand and manage the costs associated with them. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, monitor, and optimize the costs of your Azure virtual machines.
 Estimate Costs Before Deployment Before you deploy any virtual machines, use the Azure pricing calculator to estimate the costs.</description>
     </item>
     
     <item>
       <title>Mastering Azure Cosmos DB Pricing- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
       <description>Navigating the pricing landscape of Azure Cosmos DB can be a daunting task, but with the right information, you can optimize your costs and maximize the value of this powerful NoSQL database service. In this comprehensive guide, we&amp;rsquo;ll dive deep into the intricacies of Azure Cosmos DB&amp;rsquo;s pricing model, uncover strategies to save on your database operations, and explore the various options available for developers to get started with Azure Cosmos DB for free.</description>
     </item>
     
     <item>
       <title>Microsoft Defender for Cloud Pricing- Comprehensive Security at Scale</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
+      <link>https://mangoldai.com/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</link>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
+      <guid>https://mangoldai.com/posts/microsoft_defender_for_cloud_pricing_comprehensive_security_at_scale/</guid>
       <description>Microsoft Defender for Cloud is a unified, cloud-native security platform that provides advanced protection for your multicloud and hybrid environments. With flexible pricing options, you can tailor your security coverage to your specific needs and budget.
 Cloud Security Posture Management (CSPM) Microsoft Defender for Cloud offers both foundational and advanced CSPM capabilities:
  Foundational CSPM: This is available for free and includes continuous security assessments, security recommendations, Secure Score, and the Microsoft cloud security benchmark across Azure, AWS, and Google Cloud.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security Alerts on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/security-alerts/</link>
+    <link>https://mangoldai.com/tags/security-alerts/</link>
     <description>Recent content in Security Alerts on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/security-alerts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/security-alerts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protecting Your Hybrid Identity Environment with Microsoft Defender for Identity</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</link>
+      <link>https://mangoldai.com/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</guid>
+      <guid>https://mangoldai.com/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</guid>
       <description>Protecting Your Hybrid Identity Environment with Microsoft Defender for Identity Microsoft Defender for Identity (MDI) is a powerful tool that plays a critical role in safeguarding your hybrid identity environment. As a component of the Microsoft 365 Defender suite, MDI gathers signals from on-premises Active Directory servers and uses these signals to protect your organization against hackers who attempt to leverage compromised accounts to move laterally across your on-premises workstations.</description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure/</link>
+    <link>https://mangoldai.com/tags/azure/</link>
     <description>Recent content in Azure on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure VM Maintenance with Maintenance Configurations and the Azure CLI</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_vm_maintenance_with_maintenance_configurations_and_the_azure_cli/</guid>
       <description>Maintaining a fleet of Azure virtual machines (VMs) can be a complex task, but with the Maintenance Configurations feature and the Azure CLI, you can take control of when platform updates are applied to your resources. In this comprehensive guide, we&amp;rsquo;ll explore the ins and outs of using Maintenance Configurations to optimize your VM maintenance strategy.
 Creating Maintenance Configurations The first step in managing your VM maintenance is to create a maintenance configuration.</description>
     </item>
     
     <item>
       <title>Mastering Azure Machine Learning Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_machine_learning_cost_management/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_machine_learning_cost_management/</guid>
       <description>Efficiently Manage and Optimize Costs for Your Azure Machine Learning Workloads
 As you embark on your Azure Machine Learning journey, it&amp;rsquo;s crucial to have a solid understanding of the cost management strategies and best practices to ensure your machine learning initiatives are both impactful and cost-effective. In this comprehensive guide, we&amp;rsquo;ll dive deep into the various aspects of planning, monitoring, and optimizing costs for your Azure Machine Learning resources.
 Estimating Costs Before Getting Started Before you create any resources in your Azure Machine Learning workspace, it&amp;rsquo;s important to estimate the potential costs.</description>
@@ -30,20 +30,20 @@ Estimating Costs Before Getting Started Before you create any resources in your 
     
     <item>
       <title>Organizing Your Azure Resources with Management Groups</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/organizing_your_azure_resources_with_management_groups/</link>
+      <link>https://mangoldai.com/posts/organizing_your_azure_resources_with_management_groups/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/organizing_your_azure_resources_with_management_groups/</guid>
+      <guid>https://mangoldai.com/posts/organizing_your_azure_resources_with_management_groups/</guid>
       <description>Azure Management Groups are a powerful tool for organizing and managing your Azure resources. They allow you to create a hierarchical structure that can be used to apply consistent policies, access controls, and governance across multiple Azure subscriptions.
 In this guide, we&amp;rsquo;ll walk through the process of creating a new management group using the Azure Portal. Management groups are containers that help you manage access, policy, and compliance across multiple Azure subscriptions.</description>
     </item>
     
     <item>
       <title>Accelerate Your Cloud Adoption with the Cloud Adoption Framework for Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
+      <link>https://mangoldai.com/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
+      <guid>https://mangoldai.com/posts/accelerate_your_cloud_adoption_with_the_cloud_adoption_framework_for_azure/</guid>
       <description>The Cloud Adoption Framework for Azure is a comprehensive set of tools, templates, and assessments that can help you quickly implement technical changes and accelerate your cloud adoption journey. This framework covers various phases of the cloud adoption process, from strategy and planning to readiness, governance, migration, innovation, and management.
 Strategy The Cloud Adoption Framework offers several resources to help you define and refine your cloud adoption strategy:
  Cloud Adoption Strategy Evaluator assessment: Assess your current cloud adoption strategy and get recommendations on building and advancing your cloud business case.</description>
@@ -51,59 +51,59 @@ Strategy The Cloud Adoption Framework offers several resources to help you defin
     
     <item>
       <title>Create and Manage Budgets in Azure Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</link>
+      <link>https://mangoldai.com/posts/create_and_manage_budgets_in_azure_cost_management/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
       <description>Creating and Managing Budgets in Azure Cost Management Budgets in Azure Cost Management help you plan for and manage your organizational spending on Azure services. They enable you to proactively monitor costs, set spending limits, and receive alerts when thresholds are exceeded. This comprehensive guide will walk you through the process of creating, configuring, and managing budgets in the Azure portal.
 Prerequisites  Understand the different Azure account types and scopes that support budgets, including Azure RBAC, Enterprise Agreement, Individual, and Microsoft Customer Agreement scopes.</description>
     </item>
     
     <item>
       <title>Configuring a Self-Hosted Integration Runtime for Azure Data Factory and Synapse Analytics</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</link>
+      <link>https://mangoldai.com/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</guid>
+      <guid>https://mangoldai.com/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</guid>
       <description>The integration runtime (IR) is the compute infrastructure that Azure Data Factory and Synapse pipelines use to provide data-integration capabilities across different network environments. A self-hosted integration runtime can run copy activities between a cloud data store and a data store in a private network, as well as dispatch transform activities against compute resources in an on-premises network or an Azure virtual network.
 This comprehensive guide covers the key aspects of setting up and managing a self-hosted integration runtime:</description>
     </item>
     
     <item>
       <title>Prescriptive Practices for Deploying and Running Azure Databricks at Scale</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
+      <link>https://mangoldai.com/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
+      <guid>https://mangoldai.com/posts/prescriptive_practices_for_deploying_and_running_azure_databricks_at_scale/</guid>
       <description>Planning, deploying, and running Azure Databricks (ADB) at scale requires one to make many architectural decisions. While each ADB deployment is unique to an organization&amp;rsquo;s needs, we have found that some patterns are common across most successful ADB projects. This guide summarizes these patterns into prescriptive and actionable best practices for Azure Databricks.
 We follow a logical path of planning the infrastructure, provisioning the workspaces, developing Azure Databricks applications, and finally, running Azure Databricks in production.</description>
     </item>
     
     <item>
       <title>Optimizing Kubernetes Costs on Azure- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</guid>
       <description>Optimizing Kubernetes Costs on Azure: A Comprehensive Guide Kubernetes has become a popular choice for organizations looking to deploy and manage their applications in the cloud. However, as with any cloud-based infrastructure, cost optimization is crucial to ensure that your Kubernetes environment is running efficiently and cost-effectively. In this comprehensive guide, we&amp;rsquo;ll explore various strategies and best practices to help you optimize the costs of your Kubernetes deployment on Azure.</description>
     </item>
     
     <item>
       <title>Preparing Your Environment for a Hybrid and Multicloud Future with Azure Arc</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
+      <link>https://mangoldai.com/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
+      <guid>https://mangoldai.com/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
       <description>The modern business landscape demands flexibility, scalability, and seamless integration across on-premises, edge, and multicloud environments. As organizations navigate this complex landscape, the Cloud Adoption Framework&amp;rsquo;s Ready methodology can be a powerful guide, helping you prepare your environment for a successful hybrid and multicloud strategy.
 At the heart of this approach are Azure landing zones - the building blocks of any Azure cloud adoption environment. These landing zones account for crucial elements like scale, security governance, networking, identity, cost management, and monitoring.</description>
     </item>
     
     <item>
       <title>Modernizing Mainframe Applications with Azure- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/modernizing_mainframe_applications_with_azure_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/modernizing_mainframe_applications_with_azure_a_comprehensive_guide/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/modernizing_mainframe_applications_with_azure_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/modernizing_mainframe_applications_with_azure_a_comprehensive_guide/</guid>
       <description>As organizations strive to stay competitive in today&amp;rsquo;s fast-paced digital landscape, many are considering migrating their traditional mainframe applications to the cloud. Azure, Microsoft&amp;rsquo;s powerful cloud platform, offers a compelling alternative to the mainframe, providing hyperscale compute and storage in a highly available environment.
 In this comprehensive guide, we&amp;rsquo;ll explore the key strategies and considerations for making the switch from a mainframe platform to Azure.
 MIPS vs. vCPUs: Mapping Mainframe Workloads to the Cloud One of the first challenges in a mainframe migration is determining the appropriate level of compute resources needed to run your workloads on Azure.</description>
@@ -111,10 +111,10 @@ MIPS vs. vCPUs: Mapping Mainframe Workloads to the Cloud One of the first challe
     
     <item>
       <title>Navigating the Hybrid and Multicloud Journey- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</guid>
       <description>As organizations continue to embrace cloud computing, the path to cloud adoption is becoming increasingly complex. The hybrid and multicloud scenario, as outlined in the Cloud Adoption Framework for Azure, presents a strategic approach to navigating this evolving landscape.
 This comprehensive guide aims to provide a deep dive into the key components and considerations required to successfully implement a hybrid and multicloud strategy.
 Understanding the Hybrid and Multicloud Scenario The hybrid and multicloud scenario focuses on two primary objectives:</description>
@@ -122,166 +122,166 @@ Understanding the Hybrid and Multicloud Scenario The hybrid and multicloud scena
     
     <item>
       <title>Monitoring Azure Virtual WAN</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/monitoring_azure_virtual_wan/</link>
+      <link>https://mangoldai.com/posts/monitoring_azure_virtual_wan/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/monitoring_azure_virtual_wan/</guid>
+      <guid>https://mangoldai.com/posts/monitoring_azure_virtual_wan/</guid>
       <description>Monitoring Azure Virtual WAN When you have critical applications and business processes relying on Azure resources, it&amp;rsquo;s important to monitor those resources for their availability and performance. This article will guide you through the monitoring data generated by Azure Virtual WAN and how to leverage Azure Monitor to gain visibility into your Virtual WAN deployment.
 Prerequisites To follow along, you&amp;rsquo;ll need to have an existing Virtual WAN deployment configured. If you need help with that, check out these guides:</description>
     </item>
     
     <item>
       <title>Crafting a Tailored Azure Migration Plan with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</guid>
       <description>Defining Your Cloud Migration Goals Before embarking on your cloud migration journey, it&amp;rsquo;s crucial to understand and evaluate your motivation for moving to Azure. The Cloud Adoption Framework outlines several common triggers and outcomes that can inform your strategic migration goals:
    Business Event Migration Outcome     Datacenter exit Cost reduction   Merger, acquisition, or divestiture Reduction in vendor/technical complexity   Reduction in capital expenses Optimization of internal operations   End of support for mission-critical technologies Increase in business agility   Response to regulatory compliance changes Preparation for new technical capabilities   New data sovereignty requirements Scaling to meet market demands   Reduction in disruptions and IT stability improvements Scaling to meet geographic demands    Identifying your key motivations will help you define clear, strategic migration goals.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- Strategies for Success</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape: Strategies for Success Microsoft Azure provides a comprehensive set of products and features to help organizations build and operate their technology solutions in the cloud. However, many businesses find themselves needing to leverage multiple private and public clouds to meet their specific business requirements. This article outlines Microsoft&amp;rsquo;s perspective on the important cloud computing concepts of hybrid and multicloud, and provides guidance on navigating the associated challenges and opportunities.</description>
     </item>
     
     <item>
       <title>Migrating Your Linux Workloads to Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</link>
+      <link>https://mangoldai.com/posts/migrating_your_linux_workloads_to_azure/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <guid>https://mangoldai.com/posts/migrating_your_linux_workloads_to_azure/</guid>
       <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
 Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
     </item>
     
     <item>
       <title>Create a Budget with Resource Manager Templates in Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
+      <link>https://mangoldai.com/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
+      <guid>https://mangoldai.com/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
       <description>ource=</description>
     </item>
     
     <item>
       <title>Optimize Your Azure Virtual Machine Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
       <description>Optimize Your Azure Virtual Machine Costs: A Comprehensive Guide Running virtual machines (VMs) in the cloud can be a powerful and flexible solution, but it&amp;rsquo;s important to understand and manage the costs associated with them. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, monitor, and optimize the costs of your Azure virtual machines.
 Estimate Costs Before Deployment Before you deploy any virtual machines, use the Azure pricing calculator to estimate the costs.</description>
     </item>
     
     <item>
       <title>Building a Comprehensive Migration Plan with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</guid>
       <description>Defining Your Cloud Migration Goals Before embarking on your cloud migration journey, it&amp;rsquo;s crucial to understand and evaluate your motivations for moving to the cloud. The Cloud Adoption Framework outlines several common triggers and outcomes that can guide your strategic migration goals.
 Some key business events that may drive your migration include datacenter exit, mergers and acquisitions, reducing capital expenses, addressing end-of-support for mission-critical technologies, responding to regulatory changes, or improving IT stability and scalability.</description>
     </item>
     
     <item>
       <title>Navigating the Cloud Adoption Framework- A Comprehensive Guide to Successful Azure Migrations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</guid>
       <description>Migrating workloads to the cloud can be a complex and daunting task, but with the right approach and guidance, it can be a seamless and rewarding experience. The Cloud Adoption Framework for Azure provides a comprehensive methodology to help organizations navigate the migration process and ensure a successful transition to the cloud.
 The framework outlines four key stages in the migration journey: Prepare, Assess, Deploy, and Release. Each stage is designed to address the unique challenges and considerations that arise throughout the migration process.</description>
     </item>
     
     <item>
       <title>Mastering Azure Cosmos DB Pricing- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
       <description>Navigating the pricing landscape of Azure Cosmos DB can be a daunting task, but with the right information, you can optimize your costs and maximize the value of this powerful NoSQL database service. In this comprehensive guide, we&amp;rsquo;ll dive deep into the intricacies of Azure Cosmos DB&amp;rsquo;s pricing model, uncover strategies to save on your database operations, and explore the various options available for developers to get started with Azure Cosmos DB for free.</description>
     </item>
     
     <item>
       <title>Azure Migration Execution Guide- A Comprehensive Roadmap to Successful Cloud Transformation</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</link>
+      <link>https://mangoldai.com/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</guid>
+      <guid>https://mangoldai.com/posts/azure_migration_execution_guide_a_comprehensive_roadmap_to_successful_cloud_transformation/</guid>
       <description>Azure Migration Execution Guide: A Comprehensive Roadmap to Successful Cloud Transformation This comprehensive guide, developed by a team of FastTrack for Azure experts, provides prescriptive guidance for executing a successful migration project to Microsoft Azure. Whether you&amp;rsquo;re migrating your entire infrastructure, modernizing your applications, or expanding your cloud presence, this guide covers the essential steps and best practices to ensure a smooth and efficient transition.
 Key Objectives   Consistent Guidance: The Migration Execution Guide (MEG) delivers well-considered guidance at the business, project, and technical levels to ensure a standardized approach.</description>
     </item>
     
     <item>
       <title>Accelerating Your Cloud Migration- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/accelerating_your_cloud_migration_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/accelerating_your_cloud_migration_a_comprehensive_guide/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/accelerating_your_cloud_migration_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/accelerating_your_cloud_migration_a_comprehensive_guide/</guid>
       <description>Accelerating Your Cloud Migration: A Comprehensive Guide Migrating to the cloud can be a daunting task, but with the right approach, you can significantly accelerate your migration efforts and realize business value faster. This comprehensive guide, based on the Microsoft Cloud Adoption Framework, outlines the key steps to help you overcome common migration roadblocks and streamline your cloud migration journey.
 Step 1: Align Stakeholders Successful cloud migration starts with aligning your business and IT stakeholders.</description>
     </item>
     
     <item>
       <title>Mastering Azure Security with Microsoft Defender for Cloud- Improve Your Secure Posture</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
       <description>Mastering Azure Security with Microsoft Defender for Cloud: Improve Your Secure Posture In this comprehensive article, we&amp;rsquo;ll explore how you can leverage the powerful features of Microsoft Defender for Cloud to enhance the security posture of your Azure environment. By the end of this post, you&amp;rsquo;ll have a deep understanding of how to use vulnerability assessment for virtual machines and containers, automate recommendation workflows, and access your secure score data using Azure Resource Graph (ARG).</description>
     </item>
     
     <item>
       <title>Navigating the Cloud Adoption Framework- A Comprehensive Guide to Migrating Workloads to Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</guid>
       <description>Migrating workloads to the cloud can be a complex and daunting task, but with the right framework and guidance, it can be a seamless and successful experience. The Cloud Adoption Framework for Azure provides a comprehensive and proven methodology to help organizations plan, prepare, and execute their cloud migration journey.
 In this article, we&amp;rsquo;ll dive into the key stages of the migration process and explore how the Cloud Adoption Framework can help you navigate each step with confidence.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- Maximize the Benefits, Minimize the Concerns</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape: Maximize the Benefits, Minimize the Concerns As the digital landscape continues to evolve, more and more organizations are embracing the power of hybrid and multicloud environments. Microsoft Azure, as an enterprise-grade cloud provider, offers a comprehensive suite of products and features to help you build and operate your technology solutions across public, hybrid, and multicloud setups.
 Defining Hybrid and Multicloud A hybrid cloud is a type of cloud computing that combines a private cloud (on-premises infrastructure) with a public cloud (computing services offered by third-party providers over the public internet).</description>
     </item>
     
     <item>
       <title>Hybrid and Multicloud- Unlocking the Power of the Cloud</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
+      <link>https://mangoldai.com/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
+      <guid>https://mangoldai.com/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
       <description>Hybrid and Multicloud: Unlocking the Power of the Cloud As businesses strive to remain agile, innovative, and competitive in today&amp;rsquo;s fast-paced digital landscape, the need for a flexible and scalable technology infrastructure has become paramount. Enter the world of hybrid and multicloud computing - a transformative approach that empowers organizations to harness the full potential of cloud technology while addressing the unique challenges they face.
 Microsoft Azure, as a leading enterprise-grade cloud provider, understands the intricacies of this evolving landscape.</description>
     </item>
     
     <item>
       <title>The Power of Hybrid and Multicloud Computing for Mission-Critical Applications</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</link>
+      <link>https://mangoldai.com/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</guid>
+      <guid>https://mangoldai.com/posts/the_power_of_hybrid_and_multicloud_computing_for_mission-critical_applications/</guid>
       <description>The Power of Hybrid and Multicloud Computing for Mission-Critical Applications As modern businesses strive to stay competitive and agile, the need for a flexible and scalable IT infrastructure has become increasingly crucial. This is where the power of hybrid and multicloud computing shines, offering organizations the ability to seamlessly blend on-premises resources with the vast capabilities of public cloud platforms.
 Understanding Hybrid and Multicloud A hybrid cloud is a computing environment that combines a private cloud (on-premises infrastructure) with a public cloud (services provided by third-party providers over the internet).</description>
     </item>
     
     <item>
       <title>Setting Up a Simulated Hybrid Cloud Environment for Testing</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
+      <link>https://mangoldai.com/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
+      <guid>https://mangoldai.com/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
       <description>Setting Up a Simulated Hybrid Cloud Environment for Testing Microsoft Azure provides a flexible and scalable platform for creating test environments that simulate a hybrid cloud setup. This article walks you through the process of setting up a simulated hybrid cloud test environment using two separate Azure virtual networks and a VNet-to-VNet connection.
 This setup simulates a hybrid cloud production environment consisting of:
  A simulated and simplified on-premises network hosted in an Azure virtual network (the TestLab virtual network).</description>
@@ -289,10 +289,10 @@ This setup simulates a hybrid cloud production environment consisting of:
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</guid>
       <description>As cloud adoption continues to mature, organizations are finding themselves navigating an increasingly complex journey to the cloud. The hybrid and multicloud scenario presents both challenges and opportunities, requiring a strategic and well-orchestrated approach to succeed.
 This comprehensive guide will walk you through the key considerations and guidance necessary to prepare for and thrive in a hybrid and multicloud environment.
 The Hybrid and Multicloud Scenario The hybrid and multicloud scenario is centered around two primary goals:</description>
@@ -300,39 +300,39 @@ The Hybrid and Multicloud Scenario The hybrid and multicloud scenario is centere
     
     <item>
       <title>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
+      <link>https://mangoldai.com/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
+      <guid>https://mangoldai.com/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
       <description>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure As organizations continue to embrace Kubernetes for their cloud-native applications, managing and optimizing the cost of running these environments becomes a critical concern. One of the key tools in the Kubernetes cost optimization arsenal is the Cluster Autoscaler (CA), a powerful component that can dynamically scale the number of nodes in your Azure Kubernetes Service (AKS) cluster to match the changing demands of your workloads.</description>
     </item>
     
     <item>
       <title>Preparing Your Environment for Hybrid and Multicloud Scenarios with Azure Arc</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
+      <link>https://mangoldai.com/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
+      <guid>https://mangoldai.com/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
       <description>In today&amp;rsquo;s ever-evolving technology landscape, organizations are increasingly adopting hybrid and multicloud strategies to meet their diverse business needs. The Cloud Adoption Framework&amp;rsquo;s Ready methodology provides a structured approach to prepare your environment for these complex scenarios, with Azure landing zones serving as the building blocks.
 Understanding Hybrid and Multicloud in Azure Landing Zones Azure landing zones are the result of a multi-subscription Azure environment that accounts for scale, security governance, networking, identity, cost management, and monitoring.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape with Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape with Azure As enterprises increasingly look to leverage the benefits of cloud computing, many are finding that a hybrid or multicloud approach is the best fit for their needs. Microsoft Azure, as a leading enterprise-grade cloud provider, is well-equipped to support businesses across public, hybrid, and multicloud environments.
 Understanding Hybrid and Multicloud A hybrid cloud combines a private cloud (on-premises infrastructure) with a public cloud (third-party cloud services).</description>
     </item>
     
     <item>
       <title>Understanding and Maximizing Azure Cost Management Reporting</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_and_maximizing_azure_cost_management_reporting/</link>
+      <link>https://mangoldai.com/posts/understanding_and_maximizing_azure_cost_management_reporting/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_and_maximizing_azure_cost_management_reporting/</guid>
+      <guid>https://mangoldai.com/posts/understanding_and_maximizing_azure_cost_management_reporting/</guid>
       <description>Azure Cost Management is a powerful suite of tools that helps you gain visibility into your cloud spending, identify cost savings opportunities, and optimize your cloud infrastructure. In this comprehensive guide, we&amp;rsquo;ll explore the key reporting components of Azure Cost Management and how to leverage them to make informed decisions about your cloud investments.
 Cost Analysis: Visualize and Analyze Your Costs Cost analysis should be your first stop when it comes to understanding your cloud spending.</description>
     </item>

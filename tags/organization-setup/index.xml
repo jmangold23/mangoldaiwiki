@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>organization-setup on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/organization-setup/</link>
+    <link>https://mangoldai.com/tags/organization-setup/</link>
     <description>Recent content in organization-setup on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/organization-setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/organization-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Started with Azure DevOps Data Migration</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_devops_data_migration/</link>
+      <link>https://mangoldai.com/posts/get_started_with_azure_devops_data_migration/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_devops_data_migration/</guid>
+      <guid>https://mangoldai.com/posts/get_started_with_azure_devops_data_migration/</guid>
       <description>Get Started with Azure DevOps Data Migration Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand some key concepts.
 What Data Gets Migrated? Not all data gets migrated during the process. Separate databases outside the collection, such as reporting and SharePoint data, don&amp;rsquo;t get migrated. Here&amp;rsquo;s more detail on what does and doesn&amp;rsquo;t get migrated:
 Included Data  Collection Mapping: Each collection in Azure DevOps Server corresponds to one database.</description>

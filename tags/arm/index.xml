@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARM on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/arm/</link>
+    <link>https://mangoldai.com/tags/arm/</link>
     <description>Recent content in ARM on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/arm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Integrating ARM Templates with Azure Pipelines</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/integrating_arm_templates_with_azure_pipelines/</link>
+      <link>https://mangoldai.com/posts/integrating_arm_templates_with_azure_pipelines/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/integrating_arm_templates_with_azure_pipelines/</guid>
+      <guid>https://mangoldai.com/posts/integrating_arm_templates_with_azure_pipelines/</guid>
       <description>Integrating ARM Templates with Azure Pipelines You can integrate Azure Resource Manager templates (ARM templates) with Azure Pipelines for continuous integration and continuous deployment (CI/CD). In this article, you will learn two more advanced ways to deploy templates with Azure Pipelines.
 Select Your Option Before proceeding, let&amp;rsquo;s consider the different options for deploying an ARM template from a pipeline:
   Use ARM Template Deployment Task: This is the easiest option when you want to deploy a template directly from a repository.</description>

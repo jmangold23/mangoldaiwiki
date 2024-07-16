@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CI/CD on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/ci/cd/</link>
+    <link>https://mangoldai.com/tags/ci/cd/</link>
     <description>Recent content in CI/CD on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mangoldai.com/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Integrating ARM Templates with Azure Pipelines</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/integrating_arm_templates_with_azure_pipelines/</link>
+      <link>https://mangoldai.com/posts/integrating_arm_templates_with_azure_pipelines/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/integrating_arm_templates_with_azure_pipelines/</guid>
+      <guid>https://mangoldai.com/posts/integrating_arm_templates_with_azure_pipelines/</guid>
       <description>Integrating ARM Templates with Azure Pipelines You can integrate Azure Resource Manager templates (ARM templates) with Azure Pipelines for continuous integration and continuous deployment (CI/CD). In this article, you will learn two more advanced ways to deploy templates with Azure Pipelines.
 Select Your Option Before proceeding, let&amp;rsquo;s consider the different options for deploying an ARM template from a pipeline:
   Use ARM Template Deployment Task: This is the easiest option when you want to deploy a template directly from a repository.</description>
@@ -19,39 +19,39 @@ Select Your Option Before proceeding, let&amp;rsquo;s consider the different opt
     
     <item>
       <title>Securing Container Images in Azure Kubernetes Service (AKS)</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <link>https://mangoldai.com/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <guid>https://mangoldai.com/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
       <description>Securing Container Images in Azure Kubernetes Service (AKS) Container and container image security is a critical priority when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes can introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools within your containers during the build and runtime phases. The earlier you can identify and address vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     
     <item>
       <title>Mastering Continuous Integration and Delivery in Azure Data Factory</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <link>https://mangoldai.com/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <guid>https://mangoldai.com/posts/mastering_continuous_integration_and_delivery_in_azure_data_factory/</guid>
       <description>Continuous Integration and Delivery in Azure Data Factory Continuous integration is the practice of automatically testing each change made to your codebase as early as possible. Continuous delivery then takes the tested changes and pushes them to a staging or production environment.
 In Azure Data Factory, continuous integration and delivery (CI/CD) refers to the process of moving your data pipelines from one environment (like development) to another (like test or production).</description>
     </item>
     
     <item>
       <title>Continuous Integration and Delivery in Azure Data Factory</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/continuous_integration_and_delivery_in_azure_data_factory/</link>
+      <link>https://mangoldai.com/posts/continuous_integration_and_delivery_in_azure_data_factory/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/continuous_integration_and_delivery_in_azure_data_factory/</guid>
+      <guid>https://mangoldai.com/posts/continuous_integration_and_delivery_in_azure_data_factory/</guid>
       <description>Continuous integration is the practice of testing each change made to your codebase automatically and as early as possible. Continuous delivery follows the testing that happens during continuous integration and pushes changes to a staging or production system.
 In Azure Data Factory, continuous integration and delivery (CI/CD) means moving Data Factory pipelines from one environment (development, test, production) to another. Azure Data Factory utilizes Azure Resource Manager templates to store the configuration of your various ADF entities (pipelines, datasets, data flows, and so on).</description>
     </item>
     
     <item>
       <title>Securing Your Containers- Best Practices for Container Image Management in Azure Kubernetes Service</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
+      <link>https://mangoldai.com/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
+      <guid>https://mangoldai.com/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
       <description>Containers and container image security are critical priorities when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools in your containers during both the build and runtime stages. The earlier you identify vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     

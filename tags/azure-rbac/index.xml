@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure RBAC on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-rbac/</link>
+    <link>https://mangoldai.com/tags/azure-rbac/</link>
     <description>Recent content in Azure RBAC on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-rbac/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-rbac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organize Your Azure Resources with Management Groups</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/organize_your_azure_resources_with_management_groups/</link>
+      <link>https://mangoldai.com/posts/organize_your_azure_resources_with_management_groups/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/organize_your_azure_resources_with_management_groups/</guid>
+      <guid>https://mangoldai.com/posts/organize_your_azure_resources_with_management_groups/</guid>
       <description>Organize Your Azure Resources with Management Groups If your organization has many Azure subscriptions, you may need a way to efficiently manage access, policies, and compliance across those subscriptions. Azure management groups provide a governance scope above subscriptions, allowing you to organize your subscriptions into a hierarchical structure for unified policy and access management.
 Hierarchy of Management Groups and Subscriptions You can build a flexible hierarchy of management groups and subscriptions to organize your Azure resources.</description>
     </item>
     
     <item>
       <title>Comprehensive Guide to Azure Identity Management Security Features</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_azure_identity_management_security_features/</link>
+      <link>https://mangoldai.com/posts/comprehensive_guide_to_azure_identity_management_security_features/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_azure_identity_management_security_features/</guid>
+      <guid>https://mangoldai.com/posts/comprehensive_guide_to_azure_identity_management_security_features/</guid>
       <description>Identity management is a critical component of any modern IT infrastructure, and Microsoft&amp;rsquo;s Azure platform offers a robust set of tools and capabilities to help organizations effectively manage identities and secure access to resources. In this comprehensive guide, we&amp;rsquo;ll explore the core Azure security features that empower identity management, including single sign-on, reverse proxy, multifactor authentication, Azure role-based access control (RBAC), security monitoring and reporting, and more.
 Single Sign-On (SSO) Single sign-on (SSO) is a fundamental feature of Azure&amp;rsquo;s identity management offerings, allowing users to access all the applications and resources they need by signing in only once with their primary organizational account.</description>
     </item>
     
     <item>
       <title>Manage Roles and Permissions in Microsoft Sentinel</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_roles_and_permissions_in_microsoft_sentinel/</link>
+      <link>https://mangoldai.com/posts/manage_roles_and_permissions_in_microsoft_sentinel/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_roles_and_permissions_in_microsoft_sentinel/</guid>
+      <guid>https://mangoldai.com/posts/manage_roles_and_permissions_in_microsoft_sentinel/</guid>
       <description>Roles and Permissions in Microsoft Sentinel Microsoft Sentinel uses Azure role-based access control (Azure RBAC) to provide built-in roles that can be assigned to users, groups, and services in Azure. This allows you to grant appropriate access to Microsoft Sentinel and control what users can see and do.
 Microsoft Sentinel-Specific Roles The built-in Microsoft Sentinel roles and their allowed actions are:
  Microsoft Sentinel Reader: Can view data, incidents, workbooks, and other Microsoft Sentinel resources.</description>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SD-WAN on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/sd-wan/</link>
+    <link>https://mangoldai.com/tags/sd-wan/</link>
     <description>Recent content in SD-WAN on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/sd-wan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/sd-wan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Virtual WAN- A Comprehensive Guide for Seamless Site-to-Site Connectivity</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_virtual_wan_a_comprehensive_guide_for_seamless_site-to-site_connectivity/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_virtual_wan_a_comprehensive_guide_for_seamless_site-to-site_connectivity/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_virtual_wan_a_comprehensive_guide_for_seamless_site-to-site_connectivity/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_virtual_wan_a_comprehensive_guide_for_seamless_site-to-site_connectivity/</guid>
       <description>Mastering Azure Virtual WAN: A Comprehensive Guide for Seamless Site-to-Site Connectivity Azure Virtual WAN is a powerful and versatile networking service that simplifies the process of connecting your on-premises sites to Azure resources. Whether you&amp;rsquo;re a seasoned networking professional or new to the cloud, this comprehensive guide will walk you through the step-by-step process of creating a secure, reliable, and scalable site-to-site connection using Virtual WAN.
 Understanding Azure Virtual WAN Azure Virtual WAN is a fully managed, software-defined wide area network (SD-WAN) service that provides unified connectivity and security across your global network.</description>
     </item>
     
     <item>
       <title>Connecting Your Local Sites to Azure Using Azure Virtual WAN</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</link>
+      <link>https://mangoldai.com/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</guid>
+      <guid>https://mangoldai.com/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</guid>
       <description>Azure Virtual WAN is a networking service that provides a simple, unified, and global connectivity solution for connecting your on-premises sites to Azure. In this comprehensive guide, we&amp;rsquo;ll explore how you can leverage Virtual WAN to establish secure site-to-site VPN connections between your local network and your Azure resources.
 Understanding Azure Virtual WAN Azure Virtual WAN is a fully managed, software-defined wide area network (SD-WAN) service that simplifies the process of connecting your branch offices, retail locations, and other remote sites to the cloud.</description>
     </item>

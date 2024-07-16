@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure-devops on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-devops/</link>
+    <link>https://mangoldai.com/tags/azure-devops/</link>
     <description>Recent content in azure-devops on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manage Users and Groups with Security Groups in Azure DevOps</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
+      <link>https://mangoldai.com/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
+      <guid>https://mangoldai.com/posts/manage_users_and_groups_with_security_groups_in_azure_devops/</guid>
       <description>Effectively managing permissions and access in Azure DevOps is key to ensuring your teams can collaborate efficiently and securely. One of the most powerful tools for this is the use of security groups, which allow you to centrally define and control permissions for users and groups.
 In this comprehensive guide, we&amp;rsquo;ll explore how to leverage security groups in Azure DevOps to streamline user management, assign permissions, and maintain control over your organization&amp;rsquo;s resources.</description>
     </item>
     
     <item>
       <title>Migrating to Azure DevOps Services- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/migrating_to_azure_devops_services_a_comprehensive_guide/</guid>
       <description>Migrating to Azure DevOps Services: A Comprehensive Guide Moving your on-premises Azure DevOps Server to the cloud-based Azure DevOps Services is a strategic decision that can unlock a world of benefits for your organization. This comprehensive guide will walk you through the entire migration process, from understanding the basics to completing the post-migration tasks.
 Understanding the Migration Process Before embarking on your migration journey, it&amp;rsquo;s essential to familiarize yourself with the key concepts and considerations involved.</description>
     </item>
     
     <item>
       <title>Get Started with Migrating to Azure DevOps Services</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_migrating_to_azure_devops_services/</link>
+      <link>https://mangoldai.com/posts/get_started_with_migrating_to_azure_devops_services/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_migrating_to_azure_devops_services/</guid>
+      <guid>https://mangoldai.com/posts/get_started_with_migrating_to_azure_devops_services/</guid>
       <description>Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand some key concepts and considerations.
 Included and Excluded Data Not all data gets migrated when moving from Azure DevOps Server to Azure DevOps Services. The migration process includes your team project collection, which contains work items, version control history, build definitions, and more. However, certain data is excluded, such as extensions, service hooks, load test data, pipeline agents/pools, and project server integrations.</description>
     </item>
     
     <item>
       <title>Mastering User and Group Management in Azure DevOps</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_user_and_group_management_in_azure_devops/</link>
+      <link>https://mangoldai.com/posts/mastering_user_and_group_management_in_azure_devops/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_user_and_group_management_in_azure_devops/</guid>
+      <guid>https://mangoldai.com/posts/mastering_user_and_group_management_in_azure_devops/</guid>
       <description>Azure DevOps provides a powerful and flexible security system that allows you to manage permissions and access for users and groups. By leveraging security groups, you can easily control who can access and perform various actions within your Azure DevOps organization and projects.
 Understanding Security Groups in Azure DevOps Security groups are the foundation for managing permissions and access in Azure DevOps. You can use both default and custom security groups to set permissions at different levels, including project, collection, and object-level.</description>
     </item>
     
     <item>
       <title>Mastering Azure DevOps Data Migration- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_devops_data_migration_a_comprehensive_guide/</guid>
       <description>Mastering Azure DevOps Data Migration: A Comprehensive Guide Before embarking on your Azure DevOps data migration journey, it&amp;rsquo;s important to understand the key concepts and considerations that will ensure a successful transition from your on-premises server to the cloud-based Azure DevOps Services.
 Understanding the Migration Process The Azure DevOps Data Migration Tool facilitates a high-fidelity migration, ensuring that the majority of your data is seamlessly transferred to the cloud. However, it&amp;rsquo;s crucial to note that not all data is migrated.</description>
     </item>
     
     <item>
       <title>Smoothly Migrate Your On-Premises Azure DevOps Server to the Cloud</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</link>
+      <link>https://mangoldai.com/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</guid>
+      <guid>https://mangoldai.com/posts/smoothly_migrate_your_on-premises_azure_devops_server_to_the_cloud/</guid>
       <description>Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand the key concepts and considerations involved in the migration process.
 Understand What Data Gets Migrated Not all data gets migrated during the process. Separate databases outside the collection, such as reporting and SharePoint data, do not get migrated. Here&amp;rsquo;s a breakdown of what is and isn&amp;rsquo;t included:
 Included Data
@@ -71,10 +71,10 @@ Included Data
     
     <item>
       <title>Get Started with Azure DevOps Data Migration</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_devops_data_migration/</link>
+      <link>https://mangoldai.com/posts/get_started_with_azure_devops_data_migration/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_devops_data_migration/</guid>
+      <guid>https://mangoldai.com/posts/get_started_with_azure_devops_data_migration/</guid>
       <description>Get Started with Azure DevOps Data Migration Before you use the Azure DevOps Data Migration Tool to migrate your database with high fidelity, it&amp;rsquo;s important to understand some key concepts.
 What Data Gets Migrated? Not all data gets migrated during the process. Separate databases outside the collection, such as reporting and SharePoint data, don&amp;rsquo;t get migrated. Here&amp;rsquo;s more detail on what does and doesn&amp;rsquo;t get migrated:
 Included Data  Collection Mapping: Each collection in Azure DevOps Server corresponds to one database.</description>

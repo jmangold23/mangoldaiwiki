@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Services on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-services/</link>
+    <link>https://mangoldai.com/tags/azure-services/</link>
     <description>Recent content in Azure Services on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Your Azure Costs with Advisor Recommendations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_your_azure_costs_with_advisor_recommendations/</link>
+      <link>https://mangoldai.com/posts/optimizing_your_azure_costs_with_advisor_recommendations/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_your_azure_costs_with_advisor_recommendations/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_your_azure_costs_with_advisor_recommendations/</guid>
       <description>Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.
 In this comprehensive guide, we&amp;rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.
 AI Services Potential Cost Savings on AI Services Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier.</description>

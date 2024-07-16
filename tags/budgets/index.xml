@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>budgets on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/budgets/</link>
+    <link>https://mangoldai.com/tags/budgets/</link>
     <description>Recent content in budgets on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/budgets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/budgets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manage Costs for Azure Machine Learning</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_costs_for_azure_machine_learning/</link>
+      <link>https://mangoldai.com/posts/manage_costs_for_azure_machine_learning/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_costs_for_azure_machine_learning/</guid>
+      <guid>https://mangoldai.com/posts/manage_costs_for_azure_machine_learning/</guid>
       <description>As you work with Azure Machine Learning, it&amp;rsquo;s important to carefully plan and manage your costs to ensure your projects stay on budget. In this comprehensive guide, we&amp;rsquo;ll walk through several strategies and best practices to help you optimize your spending and get the most value from your Azure investment.
 Estimate Costs Upfront Before you start deploying resources, use the Azure Pricing Calculator to estimate the potential costs. This tool allows you to build out your Azure Machine Learning workspace and other supporting services, and it will provide an estimate of the monthly charges you can expect.</description>
     </item>
     
     <item>
       <title>Create and Manage Budgets in Azure Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</link>
+      <link>https://mangoldai.com/posts/create_and_manage_budgets_in_azure_cost_management/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/create_and_manage_budgets_in_azure_cost_management/</guid>
       <description>Creating and Managing Budgets in Azure Cost Management Budgets in Azure Cost Management help you plan for and manage your organizational spending on Azure services. They enable you to proactively monitor costs, set spending limits, and receive alerts when thresholds are exceeded. This comprehensive guide will walk you through the process of creating, configuring, and managing budgets in the Azure portal.
 Prerequisites  Understand the different Azure account types and scopes that support budgets, including Azure RBAC, Enterprise Agreement, Individual, and Microsoft Customer Agreement scopes.</description>
     </item>
     
     <item>
       <title>Create a Budget with Resource Manager Templates in Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
+      <link>https://mangoldai.com/posts/create_a_budget_with_resource_manager_templates_in_azure/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
+      <guid>https://mangoldai.com/posts/create_a_budget_with_resource_manager_templates_in_azure/</guid>
       <description>ource=</description>
     </item>
     
     <item>
       <title>Manage and Optimize Azure Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</guid>
       <description>Manage and Optimize Azure Costs: A Comprehensive Guide When you sign up for Azure, it&amp;rsquo;s important to get a handle on your spending and proactively manage costs. This comprehensive guide will walk you through key strategies and tools to plan, monitor, and optimize your Azure expenditure.
 Get Estimated Costs Before Adding Azure Services Before provisioning any Azure resources, it&amp;rsquo;s crucial to estimate the potential costs. You can use the following tools to get accurate estimates:</description>
     </item>
     
     <item>
       <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
       <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
 In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
     </item>
     
     <item>
       <title>Optimize and Manage Costs for Azure App Service</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_manage_costs_for_azure_app_service/</link>
+      <link>https://mangoldai.com/posts/optimize_and_manage_costs_for_azure_app_service/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_manage_costs_for_azure_app_service/</guid>
+      <guid>https://mangoldai.com/posts/optimize_and_manage_costs_for_azure_app_service/</guid>
       <description>Azure App Service is a powerful and flexible platform for hosting web applications, APIs, and mobile backends in the cloud. However, as with any cloud service, it&amp;rsquo;s important to understand and manage the costs associated with using App Service. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, optimize, and monitor costs for your Azure App Service deployments.
 Understanding the App Service Billing Model When you use Azure App Service, you&amp;rsquo;re charged based on several factors:</description>
     </item>
     
     <item>
       <title>Manage and Monitor Costs for Microsoft Sentinel</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
+      <link>https://mangoldai.com/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
+      <guid>https://mangoldai.com/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
       <description>Manage and Monitor Costs for Microsoft Sentinel As you use Microsoft Sentinel, it&amp;rsquo;s important to understand and manage the associated costs. Microsoft Sentinel costs are only a portion of your overall Azure bill, but it&amp;rsquo;s crucial to monitor them closely to avoid unexpected expenses. This comprehensive guide will walk you through various strategies and tools to help you manage and monitor Microsoft Sentinel costs effectively.
 View Costs Using Cost Analysis The Azure portal&amp;rsquo;s Cost Management features allow you to view, analyze, and monitor your Microsoft Sentinel costs.</description>
     </item>

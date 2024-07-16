@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure AI Search on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-ai-search/</link>
+    <link>https://mangoldai.com/tags/azure-ai-search/</link>
     <description>Recent content in Azure AI Search on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-ai-search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-ai-search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating the Cost of Implementing a RAG-based Contact Center Solution with Azure OpenAI and Azure AI Search</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</link>
+      <link>https://mangoldai.com/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</guid>
+      <guid>https://mangoldai.com/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</guid>
       <description>Effectively managing the costs associated with implementing a Retrieval-Augmented Generation (RAG) based contact center solution is crucial for businesses looking to leverage the power of large language models and intelligent search capabilities. The Customer Friendly Azure OpenAI Cost Estimator for RAG-based Contact Center Agents Usecase is a Python script that empowers you to estimate the monthly cost of utilizing Azure OpenAI and Azure AI Search within this context.
 This comprehensive tool provides several key functionalities to help you plan and budget for your RAG-based contact center solution:</description>
     </item>

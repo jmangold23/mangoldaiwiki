@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Apps on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/web-apps/</link>
+    <link>https://mangoldai.com/tags/web-apps/</link>
     <description>Recent content in Web Apps on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/web-apps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/web-apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover, Assess, and Migrate to Azure with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</guid>
       <description>Azure Migrate is a powerful platform that simplifies the process of migrating, modernizing, and optimizing your infrastructure, data, and applications for Azure. This comprehensive service provides a unified portal to streamline your entire cloud migration journey.
 Unified Migration Platform Azure Migrate offers a centralized hub where you can start, run, and track your migration to Azure. It provides a range of assessment and migration tools, including Azure Migrate: Discovery and Assessment, and Migration and Modernization.</description>
     </item>

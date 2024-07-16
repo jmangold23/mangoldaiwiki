@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customization on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/customization/</link>
+    <link>https://mangoldai.com/tags/customization/</link>
     <description>Recent content in Customization on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/customization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/customization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Homebrew- Your Comprehensive Guide to the Missing Package Manager for macOS</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</link>
+      <link>https://mangoldai.com/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</guid>
+      <guid>https://mangoldai.com/posts/mastering_homebrew_your_comprehensive_guide_to_the_missing_package_manager_for_macos/</guid>
       <description>Mastering Homebrew: Your Comprehensive Guide to the Missing Package Manager for macOS Homebrew is a powerful and versatile package manager that has become an essential tool for macOS users. It simplifies the installation and management of various applications, libraries, and utilities that are not provided by Apple out-of-the-box. Whether you&amp;rsquo;re a developer, system administrator, or a power user, Homebrew can greatly improve your workflow and productivity.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of Homebrew, exploring its features, benefits, and practical applications.</description>
     </item>
     
     <item>
       <title>Getting Started with Visual Studio Code- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_visual_studio_code_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/getting_started_with_visual_studio_code_a_comprehensive_guide/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_visual_studio_code_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/getting_started_with_visual_studio_code_a_comprehensive_guide/</guid>
       <description>Getting Started with Visual Studio Code: A Comprehensive Guide Getting up and running with Visual Studio Code is quick and easy. As a free, cross-platform code editor, VS Code can be installed in a matter of minutes, allowing you to start coding right away.
 Cross-platform Availability Visual Studio Code is available for Windows, macOS, and Linux operating systems, making it a versatile choice for developers across different platforms. Regardless of your system, you can install VS Code and take advantage of its powerful features.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>workload migration on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/workload-migration/</link>
+    <link>https://mangoldai.com/tags/workload-migration/</link>
     <description>Recent content in workload migration on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/workload-migration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/workload-migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Cloud Adoption Framework- A Comprehensive Guide to Migrating Workloads to Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_migrating_workloads_to_azure/</guid>
       <description>Migrating workloads to the cloud can be a complex and daunting task, but with the right framework and guidance, it can be a seamless and successful experience. The Cloud Adoption Framework for Azure provides a comprehensive and proven methodology to help organizations plan, prepare, and execute their cloud migration journey.
 In this article, we&amp;rsquo;ll dive into the key stages of the migration process and explore how the Cloud Adoption Framework can help you navigate each step with confidence.</description>
     </item>

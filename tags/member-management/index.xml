@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Member Management on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/member-management/</link>
+    <link>https://mangoldai.com/tags/member-management/</link>
     <description>Recent content in Member Management on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/member-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/member-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Managing Microsoft 365 Groups- Add, Remove, and Assign Owners</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</link>
+      <link>https://mangoldai.com/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</guid>
+      <guid>https://mangoldai.com/posts/managing_microsoft_365_groups_add_remove_and_assign_owners/</guid>
       <description>Managing Microsoft 365 Groups: Add, Remove, and Assign Owners In the modern workplace, collaboration is key, and Microsoft 365 Groups are an essential tool for bringing teams together. As an administrator, you have the ability to manage group membership and ownership, ensuring your organization&amp;rsquo;s groups are set up for success.
 Adding Members to a Group Adding members to a Microsoft 365 Group is a straightforward process. As an admin, you can access the administrative center and navigate to the Active Groups page.</description>
     </item>

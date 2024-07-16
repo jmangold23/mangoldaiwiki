@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>free tier on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/free-tier/</link>
+    <link>https://mangoldai.com/tags/free-tier/</link>
     <description>Recent content in free tier on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/free-tier/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/free-tier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Cosmos DB Pricing- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
       <description>Navigating the pricing landscape of Azure Cosmos DB can be a daunting task, but with the right information, you can optimize your costs and maximize the value of this powerful NoSQL database service. In this comprehensive guide, we&amp;rsquo;ll dive deep into the intricacies of Azure Cosmos DB&amp;rsquo;s pricing model, uncover strategies to save on your database operations, and explore the various options available for developers to get started with Azure Cosmos DB for free.</description>
     </item>
     

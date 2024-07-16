@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual Machine Resizing on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/virtual-machine-resizing/</link>
+    <link>https://mangoldai.com/tags/virtual-machine-resizing/</link>
     <description>Recent content in Virtual Machine Resizing on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/virtual-machine-resizing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/virtual-machine-resizing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Azure Costs with Recommendation-Driven Actions</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendation-driven_actions/</link>
+      <link>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendation-driven_actions/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendation-driven_actions/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendation-driven_actions/</guid>
       <description>Optimizing Azure Costs with Recommendation-Driven Actions Managing cloud costs effectively is a critical concern for organizations leveraging Azure services. This comprehensive guide takes you through the process of identifying and acting on cost optimization recommendations provided by Azure Advisor, helping you reduce your Azure spending.
 Unlock Savings with Azure Advisor Recommendations Azure Advisor is a powerful tool that works in tandem with Azure Cost Management to provide tailored cost optimization recommendations.</description>
     </item>
     
     <item>
       <title>Optimizing Azure Costs with Recommendations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendations/</link>
+      <link>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendations/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendations/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendations/</guid>
       <description>Effectively managing and optimizing cloud costs is a crucial aspect of any successful Azure deployment. This comprehensive tutorial will guide you through the process of identifying and acting on cost optimization recommendations provided by Azure Advisor, helping you reduce your Azure expenditure.
 Unlocking Cost Savings with Azure Advisor Azure Advisor, a powerful tool integrated with Cost Management, analyzes your resource utilization and identifies areas where you can optimize your spending. By reviewing the cost optimization recommendations, you can uncover opportunities to resize underutilized virtual machines, purchase Azure Savings Plans, and more.</description>
     </item>

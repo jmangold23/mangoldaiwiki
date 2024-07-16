@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reusable Code on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/reusable-code/</link>
+    <link>https://mangoldai.com/tags/reusable-code/</link>
     <description>Recent content in Reusable Code on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/reusable-code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/reusable-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering PowerShell Modules- A Comprehensive Guide to Creating Reusable Script Modules</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</link>
+      <link>https://mangoldai.com/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</guid>
+      <guid>https://mangoldai.com/posts/mastering_powershell_modules_a_comprehensive_guide_to_creating_reusable_script_modules/</guid>
       <description>Mastering PowerShell Modules: A Comprehensive Guide to Creating Reusable Script Modules PowerShell is a powerful automation tool that allows you to streamline your daily tasks and improve your productivity. One of the key features of PowerShell is its modular design, which enables you to create and share reusable code snippets called script modules. In this comprehensive guide, we will explore the ins and outs of writing PowerShell script modules, helping you become a more efficient and effective PowerShell user.</description>
     </item>
     

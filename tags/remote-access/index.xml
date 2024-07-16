@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remote Access on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/remote-access/</link>
+    <link>https://mangoldai.com/tags/remote-access/</link>
     <description>Recent content in Remote Access on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/remote-access/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/remote-access/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure Remote Access to Azure Resources Using Azure Virtual WAN</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_remote_access_to_azure_resources_using_azure_virtual_wan/</link>
+      <link>https://mangoldai.com/posts/secure_remote_access_to_azure_resources_using_azure_virtual_wan/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_remote_access_to_azure_resources_using_azure_virtual_wan/</guid>
+      <guid>https://mangoldai.com/posts/secure_remote_access_to_azure_resources_using_azure_virtual_wan/</guid>
       <description>Secure Remote Access to Azure Resources Using Azure Virtual WAN In today&amp;rsquo;s increasingly distributed work environment, providing secure remote access to corporate resources has become a critical priority for organizations. Azure Virtual WAN offers a powerful solution to this challenge, enabling you to create point-to-site (P2S) User VPN connections that allow remote users to securely access your Azure resources.
 Overview of Azure Virtual WAN Azure Virtual WAN is a networking service that simplifies the creation and management of wide-area networks (WANs).</description>
     </item>

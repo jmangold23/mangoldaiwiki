@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cost Savings on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cost-savings/</link>
+    <link>https://mangoldai.com/tags/cost-savings/</link>
     <description>Recent content in Cost Savings on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cost-savings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/cost-savings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maximize Your Windows Server Licenses and Save on Azure Kubernetes Service</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
+      <link>https://mangoldai.com/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
+      <guid>https://mangoldai.com/posts/maximize_your_windows_server_licenses_and_save_on_azure_kubernetes_service/</guid>
       <description>Maximizing Your Windows Server Licenses on Azure Kubernetes Service Are you running Windows-based workloads in the cloud? If so, you may be able to save a significant amount on your Azure Kubernetes Service (AKS) costs by taking advantage of the Azure Hybrid Benefit program.
 Azure Hybrid Benefit is a licensing program that allows you to use your existing on-premises Windows Server licenses on Azure virtual machines, including those running in AKS.</description>
     </item>
     
     <item>
       <title>Maximize Cost Savings with Azure Hybrid Benefit for Windows Server, SQL Server, and Linux Subscriptions</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</link>
+      <link>https://mangoldai.com/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</guid>
+      <guid>https://mangoldai.com/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_windows_server_sql_server_and_linux_subscriptions/</guid>
       <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by leveraging your existing Windows Server, SQL Server licenses, and Linux subscriptions. By taking advantage of this benefit, you can save up to 85% over the standard pay-as-you-go rate when running your workloads on Azure.
 One of the key features of Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to seamlessly migrate and modernize your SQL Server databases to the cloud.</description>
     </item>
     
     <item>
       <title>Optimizing Your Azure Costs with Advisor Recommendations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_your_azure_costs_with_advisor_recommendations/</link>
+      <link>https://mangoldai.com/posts/optimizing_your_azure_costs_with_advisor_recommendations/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_your_azure_costs_with_advisor_recommendations/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_your_azure_costs_with_advisor_recommendations/</guid>
       <description>Azure Advisor is a powerful tool that can help you reduce your overall Azure spending by identifying idle and underutilized resources. By implementing the cost recommendations provided by Advisor, you can optimize your cloud costs and ensure your Azure resources are being used efficiently.
 In this comprehensive guide, we&amp;rsquo;ll explore the various cost-saving opportunities identified by Advisor and provide you with actionable steps to implement them.
 AI Services Potential Cost Savings on AI Services Advisor has identified several of your AI service resources, such as Document Intelligence (formerly Form Recognizer), Computer Vision, Speech Service, Translator, LUIS, and Language Service, that could benefit from using a Commitment tier.</description>

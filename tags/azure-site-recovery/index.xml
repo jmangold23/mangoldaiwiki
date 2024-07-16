@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure site recovery on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-site-recovery/</link>
+    <link>https://mangoldai.com/tags/azure-site-recovery/</link>
     <description>Recent content in azure site recovery on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-site-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-site-recovery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating Line-of-Business Applications to Azure with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_line-of-business_applications_to_azure_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/migrating_line-of-business_applications_to_azure_with_azure_migrate/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_line-of-business_applications_to_azure_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/migrating_line-of-business_applications_to_azure_with_azure_migrate/</guid>
       <description>Migrating Line-of-Business Applications to Azure with Azure Migrate In this comprehensive guide, we&amp;rsquo;ll walk through the step-by-step process of assessing and migrating a multi-tier application from on-premises Hyper-V infrastructure to Azure. We&amp;rsquo;ll leverage various Azure tools and services throughout the migration journey, including Azure Migrate, Azure Site Recovery, Azure SQL Database, and the Azure Database Migration Service.
 Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a complex, multi-tier application from Hyper-V to Azure.</description>
     </item>
     
     <item>
       <title>Migrating Line-of-Business Applications to Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_line-of-business_applications_to_azure/</link>
+      <link>https://mangoldai.com/posts/migrating_line-of-business_applications_to_azure/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_line-of-business_applications_to_azure/</guid>
+      <guid>https://mangoldai.com/posts/migrating_line-of-business_applications_to_azure/</guid>
       <description>Migrating Line-of-Business Applications to Azure In this comprehensive guide, we will walk through the process of assessing and migrating a multi-tier line-of-business application from an on-premises Hyper-V environment to Microsoft Azure. We will leverage a variety of Azure tools and services to ensure a successful migration, including Azure Migrate, Azure Database Migration Service, and Azure Site Recovery.
 Abstract and Learning Objectives Throughout this guide, you will learn how to:
  Use Azure Migrate to assess the on-premises environment and create a migration plan Migrate the application database from on-premises SQL Server to Azure SQL Database Migrate the web and application tiers from on-premises Hyper-V VMs to Azure virtual machines Reconfigure the application to use the migrated database Perform post-migration steps to prepare the application for production  After completing this guide, you will understand the role of Azure Migrate and related migration tools, and how to use them to successfully migrate an on-premises multi-tier application to Azure.</description>
@@ -30,10 +30,10 @@ Abstract and Learning Objectives Throughout this guide, you will learn how to:
     
     <item>
       <title>Implementing a Resilient SQL Server Hybrid Cloud Solution</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
+      <link>https://mangoldai.com/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
+      <guid>https://mangoldai.com/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
       <description>Implementing a Resilient SQL Server Hybrid Cloud Solution Overview In this hands-on lab, you will build a disaster recovery site for an on-premises environment. You will enhance the existing database solution to support a hybrid cloud-based disaster recovery solution, implement an archiving strategy and a backup/restore strategy designed to protect data.
 At the end of the lab, you will be better able to design and use availability sets, Managed Disks, SQL Server Always on Availability Groups, Stretch DB and SQL Server Managed Backup.</description>
     </item>

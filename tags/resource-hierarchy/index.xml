@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resource-hierarchy on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/resource-hierarchy/</link>
+    <link>https://mangoldai.com/tags/resource-hierarchy/</link>
     <description>Recent content in resource-hierarchy on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/resource-hierarchy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/resource-hierarchy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organizing Your Azure Resources with Management Groups</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/organizing_your_azure_resources_with_management_groups/</link>
+      <link>https://mangoldai.com/posts/organizing_your_azure_resources_with_management_groups/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/organizing_your_azure_resources_with_management_groups/</guid>
+      <guid>https://mangoldai.com/posts/organizing_your_azure_resources_with_management_groups/</guid>
       <description>Azure Management Groups are a powerful tool for organizing and managing your Azure resources. They allow you to create a hierarchical structure that can be used to apply consistent policies, access controls, and governance across multiple Azure subscriptions.
 In this guide, we&amp;rsquo;ll walk through the process of creating a new management group using the Azure Portal. Management groups are containers that help you manage access, policy, and compliance across multiple Azure subscriptions.</description>
     </item>

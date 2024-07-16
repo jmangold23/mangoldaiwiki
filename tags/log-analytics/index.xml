@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log Analytics on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/log-analytics/</link>
+    <link>https://mangoldai.com/tags/log-analytics/</link>
     <description>Recent content in Log Analytics on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/log-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/log-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Azure Monitor Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
       <description>Unlocking Cost-Effective Monitoring with Azure Monitor Azure Monitor is a powerful tool that provides comprehensive observability into your applications, infrastructure, and network. However, with its varied pricing models and features, understanding and optimizing your Azure Monitor costs can be a challenge. In this in-depth guide, we&amp;rsquo;ll explore the different components of Azure Monitor pricing, share strategies to analyze and manage your costs, and provide practical tips to ensure you&amp;rsquo;re getting the most out of your Azure Monitor investment.</description>
     </item>
     
     <item>
       <title>Optimize Your Microsoft Sentinel Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimize_your_microsoft_sentinel_costs_a_comprehensive_guide/</guid>
       <description>Navigating the costs associated with Microsoft Sentinel can be a complex task, but with the right strategies, you can significantly reduce your expenses. In this comprehensive guide, we&amp;rsquo;ll explore various methods to optimize your Microsoft Sentinel costs and ensure you get the most value from your investment.
 Set or Change Pricing Tier To achieve the highest savings, closely monitor your data ingestion volume and ensure you have the Commitment Tier that aligns most closely with your usage patterns.</description>
     </item>
     
     <item>
       <title>Manage and Monitor Costs for Microsoft Sentinel</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
+      <link>https://mangoldai.com/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
+      <guid>https://mangoldai.com/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
       <description>Manage and Monitor Costs for Microsoft Sentinel As you use Microsoft Sentinel, it&amp;rsquo;s important to understand and manage the associated costs. Microsoft Sentinel costs are only a portion of your overall Azure bill, but it&amp;rsquo;s crucial to monitor them closely to avoid unexpected expenses. This comprehensive guide will walk you through various strategies and tools to help you manage and monitor Microsoft Sentinel costs effectively.
 View Costs Using Cost Analysis The Azure portal&amp;rsquo;s Cost Management features allow you to view, analyze, and monitor your Microsoft Sentinel costs.</description>
     </item>

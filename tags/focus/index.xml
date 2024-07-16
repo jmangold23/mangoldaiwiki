@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOCUS on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/focus/</link>
+    <link>https://mangoldai.com/tags/focus/</link>
     <description>Recent content in FOCUS on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/focus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/focus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamlining Your FinOps Practice with Improved Azure Cost Management Exports</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</link>
+      <link>https://mangoldai.com/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</guid>
+      <guid>https://mangoldai.com/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</guid>
       <description>Azure&amp;rsquo;s Cost Management service has recently introduced an &amp;ldquo;Improved Exports&amp;rdquo; experience that aims to simplify and enhance the process of exporting cost and usage data for FinOps professionals. This new feature offers a range of improvements designed to help organizations better manage their cloud spending and optimize their cloud investments.
 The Improved Exports experience provides several key benefits:
 Expanded Dataset Support The enhanced exports feature now supports a wider range of datasets, including price sheets, reservation recommendations, reservation details, and reservation transactions.</description>

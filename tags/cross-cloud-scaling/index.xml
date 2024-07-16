@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cross-Cloud Scaling on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cross-cloud-scaling/</link>
+    <link>https://mangoldai.com/tags/cross-cloud-scaling/</link>
     <description>Recent content in Cross-Cloud Scaling on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cross-cloud-scaling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/cross-cloud-scaling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying a Hybrid App with On-Premises Data and Cross-Cloud Scaling</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</link>
+      <link>https://mangoldai.com/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</guid>
+      <guid>https://mangoldai.com/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</guid>
       <description>Deploying a Hybrid App with On-Premises Data and Cross-Cloud Scaling In this comprehensive guide, we&amp;rsquo;ll walk through the process of deploying a hybrid application that leverages both Azure and Azure Stack Hub to create a scalable and resilient solution. By combining the benefits of a private cloud (Azure Stack Hub) with the scalability of the public cloud (Azure), you can build applications that meet your organization&amp;rsquo;s compliance requirements while still taking advantage of the cloud&amp;rsquo;s elasticity.</description>
     </item>
     

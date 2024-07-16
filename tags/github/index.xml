@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/github/</link>
+    <link>https://mangoldai.com/tags/github/</link>
     <description>Recent content in GitHub on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demand Forecasting with Deep Learning Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/demand_forecasting_with_deep_learning_models/</link>
+      <link>https://mangoldai.com/posts/demand_forecasting_with_deep_learning_models/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/demand_forecasting_with_deep_learning_models/</guid>
+      <guid>https://mangoldai.com/posts/demand_forecasting_with_deep_learning_models/</guid>
       <description>In this notebook, we&amp;rsquo;ll demonstrate how to use Azure Machine Learning&amp;rsquo;s automated machine learning (AutoML) for time-series forecasting, specifically using deep learning models to forecast GitHub daily active users (DAU).
 Prepare Data We&amp;rsquo;ll start by loading the GitHub daily active users data into an MLTable, which is the required format for AutoML forecasting jobs.
 import pandas as pd from azure.ai.ml import Input from azure.ai.ml.constants import AssetTypes # Load the GitHub DAU data df = pd.</description>

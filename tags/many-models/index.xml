@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Many Models on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/many-models/</link>
+    <link>https://mangoldai.com/tags/many-models/</link>
     <description>Recent content in Many Models on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/many-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/many-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Time-Series Forecasting with Azure Machine Learning&#39;s Automated ML</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</link>
+      <link>https://mangoldai.com/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</guid>
+      <guid>https://mangoldai.com/posts/mastering_time-series_forecasting_with_azure_machine_learnings_automated_ml/</guid>
       <description>In this comprehensive guide, we&amp;rsquo;ll dive deep into setting up Azure Machine Learning&amp;rsquo;s Automated ML for time-series forecasting. Unlike classical time series methods, Automated ML takes a unique approach by &amp;ldquo;pivoting&amp;rdquo; past time-series values to become additional dimensions for the regressor, along with other predictors. This approach allows Automated ML to incorporate multiple contextual variables and their relationships during training, making it a powerful tool for real-world forecasting scenarios.
 We&amp;rsquo;ll start by preparing your data for time-series modeling, ensuring that all features used in training can be used when running predictions for your intended horizon.</description>
     </item>

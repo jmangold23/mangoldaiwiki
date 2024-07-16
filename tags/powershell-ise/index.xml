@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PowerShell ISE on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/powershell-ise/</link>
+    <link>https://mangoldai.com/tags/powershell-ise/</link>
     <description>Recent content in PowerShell ISE on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/powershell-ise/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/powershell-ise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering PowerShell Scripts- A Comprehensive Guide to the Windows PowerShell ISE</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</link>
+      <link>https://mangoldai.com/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</guid>
+      <guid>https://mangoldai.com/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</guid>
       <description>Welcome to our comprehensive guide on how to write and run scripts in the Windows PowerShell Integrated Scripting Environment (ISE). Whether you&amp;rsquo;re a seasoned PowerShell user or just starting out, this article will provide you with a deep understanding of the various features and functionalities of the PowerShell ISE.
 Creating and Running Scripts The PowerShell ISE allows you to create, edit, and run Windows PowerShell scripts with ease. You can work with a variety of file types, including script files (.</description>
     </item>

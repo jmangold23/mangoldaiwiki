@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hybrid Identity on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/hybrid-identity/</link>
+    <link>https://mangoldai.com/tags/hybrid-identity/</link>
     <description>Recent content in Hybrid Identity on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/hybrid-identity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/hybrid-identity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprehensive Guide to Azure Identity Management Security Features</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_azure_identity_management_security_features/</link>
+      <link>https://mangoldai.com/posts/comprehensive_guide_to_azure_identity_management_security_features/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_azure_identity_management_security_features/</guid>
+      <guid>https://mangoldai.com/posts/comprehensive_guide_to_azure_identity_management_security_features/</guid>
       <description>Identity management is a critical component of any modern IT infrastructure, and Microsoft&amp;rsquo;s Azure platform offers a robust set of tools and capabilities to help organizations effectively manage identities and secure access to resources. In this comprehensive guide, we&amp;rsquo;ll explore the core Azure security features that empower identity management, including single sign-on, reverse proxy, multifactor authentication, Azure role-based access control (RBAC), security monitoring and reporting, and more.
 Single Sign-On (SSO) Single sign-on (SSO) is a fundamental feature of Azure&amp;rsquo;s identity management offerings, allowing users to access all the applications and resources they need by signing in only once with their primary organizational account.</description>
     </item>
     
     <item>
       <title>Protecting Your Hybrid Identity Environment with Microsoft Defender for Identity</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</link>
+      <link>https://mangoldai.com/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</guid>
+      <guid>https://mangoldai.com/posts/protecting_your_hybrid_identity_environment_with_microsoft_defender_for_identity/</guid>
       <description>Protecting Your Hybrid Identity Environment with Microsoft Defender for Identity Microsoft Defender for Identity (MDI) is a powerful tool that plays a critical role in safeguarding your hybrid identity environment. As a component of the Microsoft 365 Defender suite, MDI gathers signals from on-premises Active Directory servers and uses these signals to protect your organization against hackers who attempt to leverage compromised accounts to move laterally across your on-premises workstations.</description>
     </item>
     

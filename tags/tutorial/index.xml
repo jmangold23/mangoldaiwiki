@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/tutorial/</link>
+    <link>https://mangoldai.com/tags/tutorial/</link>
     <description>Recent content in tutorial on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 22:09:00 -0500</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 22:09:00 -0500</lastBuildDate><atom:link href="https://mangoldai.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create an internal load balancer in Azure Kubernetes Service (AKS)</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</link>
+      <link>https://mangoldai.com/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</link>
       <pubDate>Sun, 17 Sep 2023 22:09:00 -0500</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</guid>
+      <guid>https://mangoldai.com/posts/create_an_internal_load_balancer_in_azure_kubernetes_service_aks.2023-09-17t220900-0500/</guid>
       <description>As a cluster operator or developer, you may want to create a service in AKS that uses an internal Azure load balancer for enhanced security and without an external endpoint. This article shows you how to create and use an internal load balancer with AKS.
 Before you begin  This article assumes that you have an existing AKS cluster. If you need an AKS cluster, you can create one using Azure CLI, Azure PowerShell, or the Azure portal.</description>
     </item>

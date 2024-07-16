@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migration Planning on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/migration-planning/</link>
+    <link>https://mangoldai.com/tags/migration-planning/</link>
     <description>Recent content in Migration Planning on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/migration-planning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/migration-planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafting a Tailored Azure Migration Plan with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/crafting_a_tailored_azure_migration_plan_with_azure_migrate/</guid>
       <description>Defining Your Cloud Migration Goals Before embarking on your cloud migration journey, it&amp;rsquo;s crucial to understand and evaluate your motivation for moving to Azure. The Cloud Adoption Framework outlines several common triggers and outcomes that can inform your strategic migration goals:
    Business Event Migration Outcome     Datacenter exit Cost reduction   Merger, acquisition, or divestiture Reduction in vendor/technical complexity   Reduction in capital expenses Optimization of internal operations   End of support for mission-critical technologies Increase in business agility   Response to regulatory compliance changes Preparation for new technical capabilities   New data sovereignty requirements Scaling to meet market demands   Reduction in disruptions and IT stability improvements Scaling to meet geographic demands    Identifying your key motivations will help you define clear, strategic migration goals.</description>
     </item>
     
     <item>
       <title>Building a Comprehensive Migration Plan with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/building_a_comprehensive_migration_plan_with_azure_migrate/</guid>
       <description>Defining Your Cloud Migration Goals Before embarking on your cloud migration journey, it&amp;rsquo;s crucial to understand and evaluate your motivations for moving to the cloud. The Cloud Adoption Framework outlines several common triggers and outcomes that can guide your strategic migration goals.
 Some key business events that may drive your migration include datacenter exit, mergers and acquisitions, reducing capital expenses, addressing end-of-support for mission-critical technologies, responding to regulatory changes, or improving IT stability and scalability.</description>
     </item>

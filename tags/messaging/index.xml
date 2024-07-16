@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Messaging on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/messaging/</link>
+    <link>https://mangoldai.com/tags/messaging/</link>
     <description>Recent content in Messaging on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/messaging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/messaging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Slack Messaging with PowerShell- The Send-SlackMsg Cmdlet</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
+      <link>https://mangoldai.com/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
+      <guid>https://mangoldai.com/posts/mastering_slack_messaging_with_powershell_the_send-slackmsg_cmdlet/</guid>
       <description>In today&amp;rsquo;s fast-paced business landscape, effective communication is paramount. As teams become more distributed and remote work becomes the norm, tools like Slack have emerged as essential collaboration platforms. In this comprehensive guide, we&amp;rsquo;ll explore the power of the Send-SlackMsg PowerShell cmdlet, which allows you to seamlessly integrate Slack messaging into your automation workflows.
 Introducing Send-SlackMsg The Send-SlackMsg cmdlet is a powerful tool that enables you to send simple message responses through the Slack Real-Time Messaging (RTM) API.</description>
     </item>

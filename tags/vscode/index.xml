@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VSCode on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/vscode/</link>
+    <link>https://mangoldai.com/tags/vscode/</link>
     <description>Recent content in VSCode on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing PowerShell Core on Ubuntu Linux</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_core_on_ubuntu_linux/</link>
+      <link>https://mangoldai.com/posts/installing_powershell_core_on_ubuntu_linux/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_core_on_ubuntu_linux/</guid>
+      <guid>https://mangoldai.com/posts/installing_powershell_core_on_ubuntu_linux/</guid>
       <description>Installing PowerShell Core on Ubuntu Linux If you&amp;rsquo;re looking to get started with PowerShell on Linux, specifically Ubuntu, this guide has you covered. We&amp;rsquo;ll walk through installing the necessary dependencies, setting up PowerShell Core, and configuring Visual Studio Code (VSCode) for editing PowerShell scripts.
 Install Useful Tools Before we install PowerShell Core, let&amp;rsquo;s make sure we have some helpful tools in place. We&amp;rsquo;ll start by updating the package manager:
 sudo apt-get -y update Next, let&amp;rsquo;s install a few key tools:</description>

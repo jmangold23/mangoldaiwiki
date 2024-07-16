@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cross-Cloud on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cross-cloud/</link>
+    <link>https://mangoldai.com/tags/cross-cloud/</link>
     <description>Recent content in Cross-Cloud on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cross-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/cross-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying a Hybrid App with On-Premises Data that Scales Across Clouds</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</link>
+      <link>https://mangoldai.com/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</guid>
+      <guid>https://mangoldai.com/posts/deploying_a_hybrid_app_with_on-premises_data_that_scales_across_clouds/</guid>
       <description>This comprehensive guide shows you how to deploy a hybrid app that spans both Azure and Azure Stack Hub and uses a single on-premises data source. By using a hybrid cloud solution, you can combine the compliance benefits of a private cloud with the scalability of the public cloud. Your developers can also take advantage of the Microsoft developer ecosystem and apply their skills to the cloud and on-premises environments.</description>
     </item>
     

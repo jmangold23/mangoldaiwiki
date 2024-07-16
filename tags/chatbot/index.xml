@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chatbot on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/chatbot/</link>
+    <link>https://mangoldai.com/tags/chatbot/</link>
     <description>Recent content in Chatbot on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Powershell-SlackBot- Harnessing the Power of the Slack Real-Time Messaging API</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</link>
+      <link>https://mangoldai.com/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</guid>
+      <guid>https://mangoldai.com/posts/powershell-slackbot_harnessing_the_power_of_the_slack_real-time_messaging_api/</guid>
       <description>Powershell-SlackBot: Harnessing the Power of the Slack Real-Time Messaging API This project is a PowerShell implementation of a Chat Bot for Slack that utilises the Slack Real Time Messaging (RTM) API. This code is intended to provide a simple framework for anyone that wants to write a Chat Bot for a single Slack Team that is able to respond to Channel and Direct Messages. It would also be simple to extend the code to permit the Bot to respond to any other events exposed via the RTM API.</description>
     </item>
     

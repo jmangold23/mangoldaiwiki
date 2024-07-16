@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/machine-learning/</link>
+    <link>https://mangoldai.com/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Machine Learning Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_machine_learning_cost_management/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_machine_learning_cost_management/</guid>
       <description>Efficiently Manage and Optimize Costs for Your Azure Machine Learning Workloads
 As you embark on your Azure Machine Learning journey, it&amp;rsquo;s crucial to have a solid understanding of the cost management strategies and best practices to ensure your machine learning initiatives are both impactful and cost-effective. In this comprehensive guide, we&amp;rsquo;ll dive deep into the various aspects of planning, monitoring, and optimizing costs for your Azure Machine Learning resources.
 Estimating Costs Before Getting Started Before you create any resources in your Azure Machine Learning workspace, it&amp;rsquo;s important to estimate the potential costs.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SSIS on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/ssis/</link>
+    <link>https://mangoldai.com/tags/ssis/</link>
     <description>Recent content in SSIS on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/ssis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/ssis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Provisioning an Azure-SSIS Integration Runtime via Azure Portal</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</link>
+      <link>https://mangoldai.com/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</guid>
+      <guid>https://mangoldai.com/posts/provisioning_an_azure-ssis_integration_runtime_via_azure_portal/</guid>
       <description>Azure-SSIS Integration Runtime is now generally available in Azure Synapse Analytics, allowing you to use it and the Execute SSIS Package activity in your Synapse pipelines. This article provides a comprehensive guide on how to create an Azure-SSIS integration runtime (IR) in Azure Data Factory (ADF) or Synapse Analytics via the Azure portal.
 The Azure-SSIS IR supports running packages deployed into the SSIS catalog (SSISDB) hosted by Azure SQL Database server or Managed Instance (Project Deployment Model), as well as packages deployed into Azure Files (Package Deployment Model).</description>
     </item>

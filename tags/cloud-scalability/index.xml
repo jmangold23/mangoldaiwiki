@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Scalability on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cloud-scalability/</link>
+    <link>https://mangoldai.com/tags/cloud-scalability/</link>
     <description>Recent content in Cloud Scalability on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cloud-scalability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/cloud-scalability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Different Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>In the rapidly evolving world of cloud computing, businesses and organizations face an important decision - which cloud deployment model best fits their needs? The choice can significantly impact the security, scalability, and maintenance of their data and applications. This comprehensive article delves into the three primary cloud deployment models: public, private, and hybrid, providing a detailed overview of their advantages, disadvantages, and real-world use cases.
 Public Cloud: The Most Common Deployment Model The public cloud is the most widely adopted cloud deployment model, offering a highly scalable and cost-effective solution for businesses.</description>
     </item>

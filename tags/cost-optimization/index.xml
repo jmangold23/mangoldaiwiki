@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cost Optimization on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cost-optimization/</link>
+    <link>https://mangoldai.com/tags/cost-optimization/</link>
     <description>Recent content in Cost Optimization on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cost-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/cost-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Machine Learning Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_machine_learning_cost_management/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_machine_learning_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_machine_learning_cost_management/</guid>
       <description>Efficiently Manage and Optimize Costs for Your Azure Machine Learning Workloads
 As you embark on your Azure Machine Learning journey, it&amp;rsquo;s crucial to have a solid understanding of the cost management strategies and best practices to ensure your machine learning initiatives are both impactful and cost-effective. In this comprehensive guide, we&amp;rsquo;ll dive deep into the various aspects of planning, monitoring, and optimizing costs for your Azure Machine Learning resources.
 Estimating Costs Before Getting Started Before you create any resources in your Azure Machine Learning workspace, it&amp;rsquo;s important to estimate the potential costs.</description>
@@ -20,177 +20,177 @@ Estimating Costs Before Getting Started Before you create any resources in your 
     
     <item>
       <title>Manage Costs for Azure Machine Learning</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_costs_for_azure_machine_learning/</link>
+      <link>https://mangoldai.com/posts/manage_costs_for_azure_machine_learning/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_costs_for_azure_machine_learning/</guid>
+      <guid>https://mangoldai.com/posts/manage_costs_for_azure_machine_learning/</guid>
       <description>As you work with Azure Machine Learning, it&amp;rsquo;s important to carefully plan and manage your costs to ensure your projects stay on budget. In this comprehensive guide, we&amp;rsquo;ll walk through several strategies and best practices to help you optimize your spending and get the most value from your Azure investment.
 Estimate Costs Upfront Before you start deploying resources, use the Azure Pricing Calculator to estimate the potential costs. This tool allows you to build out your Azure Machine Learning workspace and other supporting services, and it will provide an estimate of the monthly charges you can expect.</description>
     </item>
     
     <item>
       <title>Exploring Serverless Computing on Microsoft Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_serverless_computing_on_microsoft_azure/</link>
+      <link>https://mangoldai.com/posts/exploring_serverless_computing_on_microsoft_azure/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
+      <guid>https://mangoldai.com/posts/exploring_serverless_computing_on_microsoft_azure/</guid>
       <description>Serverless computing is a revolutionary approach to application development that enables developers to build and run applications without having to manage any underlying infrastructure. This article provides an in-depth look at serverless computing on Microsoft Azure, covering the key concepts, benefits, and patterns of serverless applications.
 What is Serverless Computing? Serverless computing allows developers to build and run applications and services without having to provision or manage any servers. The cloud service provider (in this case, Microsoft Azure) automatically provisions, scales, and manages the infrastructure required to run the code.</description>
     </item>
     
     <item>
       <title>Optimizing Azure Costs with Recommendation-Driven Actions</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendation-driven_actions/</link>
+      <link>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendation-driven_actions/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendation-driven_actions/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendation-driven_actions/</guid>
       <description>Optimizing Azure Costs with Recommendation-Driven Actions Managing cloud costs effectively is a critical concern for organizations leveraging Azure services. This comprehensive guide takes you through the process of identifying and acting on cost optimization recommendations provided by Azure Advisor, helping you reduce your Azure spending.
 Unlock Savings with Azure Advisor Recommendations Azure Advisor is a powerful tool that works in tandem with Azure Cost Management to provide tailored cost optimization recommendations.</description>
     </item>
     
     <item>
       <title>Optimizing Kubernetes Costs on Azure- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_kubernetes_costs_on_azure_a_comprehensive_guide/</guid>
       <description>Optimizing Kubernetes Costs on Azure: A Comprehensive Guide Kubernetes has become a popular choice for organizations looking to deploy and manage their applications in the cloud. However, as with any cloud-based infrastructure, cost optimization is crucial to ensure that your Kubernetes environment is running efficiently and cost-effectively. In this comprehensive guide, we&amp;rsquo;ll explore various strategies and best practices to help you optimize the costs of your Kubernetes deployment on Azure.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft Cost Management- Optimize Your Cloud Spending</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</link>
+      <link>https://mangoldai.com/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</guid>
+      <guid>https://mangoldai.com/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</guid>
       <description>Microsoft Cost Management is a powerful suite of FinOps tools that empowers organizations to analyze, monitor, and optimize their Microsoft Cloud costs. This comprehensive platform provides a centralized view of your cloud spending, enabling you to make data-driven decisions and achieve cost optimization at scale.
 Understanding the Commerce Data Pipeline At the core of Cost Management is the Microsoft Commerce data pipeline, which processes and tracks all commercial transactions, from consumer to enterprise.</description>
     </item>
     
     <item>
       <title>Mastering Cost Management Alerts- Monitoring Usage and Spending with Precision</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</link>
+      <link>https://mangoldai.com/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</guid>
+      <guid>https://mangoldai.com/posts/mastering_cost_management_alerts_monitoring_usage_and_spending_with_precision/</guid>
       <description>Effective cost management is crucial for organizations leveraging the power of Microsoft Azure. One of the key tools in the Cost Management arsenal is the ability to set up cost alerts, which can help you stay on top of your Azure usage and spending. In this comprehensive guide, we&amp;rsquo;ll dive deep into the different types of cost alerts, their capabilities, and how to leverage them to gain better control over your Azure costs.</description>
     </item>
     
     <item>
       <title>Maximize Cost Savings with Azure Hybrid Benefit for Your Windows Server, SQL Server, and Linux Workloads</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
+      <link>https://mangoldai.com/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
+      <guid>https://mangoldai.com/posts/maximize_cost_savings_with_azure_hybrid_benefit_for_your_windows_server_sql_server_and_linux_workloads/</guid>
       <description>Azure Hybrid Benefit is a powerful cost-saving offering from Microsoft that allows you to optimize your hybrid environment by applying your existing Windows Server, SQL Server licenses, and Linux subscriptions. By leveraging this benefit, you can achieve significant savings of up to 85% over the standard pay-as-you-go rates.
 One of the key advantages of the Azure Hybrid Benefit is its flexibility. You can use it in the Azure SQL platform as a service (PaaS) environment, allowing you to take advantage of the scalability and flexibility of the cloud while still utilizing your existing investments in SQL Server licenses.</description>
     </item>
     
     <item>
       <title>Estimating the Cost of Implementing a RAG-based Contact Center Solution with Azure OpenAI and Azure AI Search</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</link>
+      <link>https://mangoldai.com/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</guid>
+      <guid>https://mangoldai.com/posts/estimating_the_cost_of_implementing_a_rag-based_contact_center_solution_with_azure_openai_and_azure_ai_search/</guid>
       <description>Effectively managing the costs associated with implementing a Retrieval-Augmented Generation (RAG) based contact center solution is crucial for businesses looking to leverage the power of large language models and intelligent search capabilities. The Customer Friendly Azure OpenAI Cost Estimator for RAG-based Contact Center Agents Usecase is a Python script that empowers you to estimate the monthly cost of utilizing Azure OpenAI and Azure AI Search within this context.
 This comprehensive tool provides several key functionalities to help you plan and budget for your RAG-based contact center solution:</description>
     </item>
     
     <item>
       <title>Maximize Your Cloud Efficiency with Microsoft Azure Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</link>
+      <link>https://mangoldai.com/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</guid>
       <description>Navigating the world of cloud computing can be a daunting task, especially when it comes to understanding and managing your cloud costs. That&amp;rsquo;s where Microsoft Azure Cost Management comes in - a powerful suite of FinOps tools designed to help organizations like yours analyze, monitor, and optimize their Microsoft Cloud spending.
 In this comprehensive post, we&amp;rsquo;ll dive into the ins and outs of Azure Cost Management, exploring how it can help you take control of your cloud costs and drive greater efficiency across your organization.</description>
     </item>
     
     <item>
       <title>Migrating Your Linux Workloads to Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</link>
+      <link>https://mangoldai.com/posts/migrating_your_linux_workloads_to_azure/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_your_linux_workloads_to_azure/</guid>
+      <guid>https://mangoldai.com/posts/migrating_your_linux_workloads_to_azure/</guid>
       <description>Azure offers a proven and reliable platform for running your Linux workloads. With a rich ecosystem of supported Linux distributions, flexible licensing options, and robust security features, Azure is an excellent choice for migrating and modernizing your mission-critical Linux applications.
 Migrate to Innovate Azure provides a seamless path for migrating your on-premises Linux workloads to the cloud. Using tools like Azure Migrate, you can assess your existing environment, plan your migration, and then execute the migration process with confidence.</description>
     </item>
     
     <item>
       <title>Optimizing Azure Costs with Recommendations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendations/</link>
+      <link>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendations/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_costs_with_recommendations/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_azure_costs_with_recommendations/</guid>
       <description>Effectively managing and optimizing cloud costs is a crucial aspect of any successful Azure deployment. This comprehensive tutorial will guide you through the process of identifying and acting on cost optimization recommendations provided by Azure Advisor, helping you reduce your Azure expenditure.
 Unlocking Cost Savings with Azure Advisor Azure Advisor, a powerful tool integrated with Cost Management, analyzes your resource utilization and identifies areas where you can optimize your spending. By reviewing the cost optimization recommendations, you can uncover opportunities to resize underutilized virtual machines, purchase Azure Savings Plans, and more.</description>
     </item>
     
     <item>
       <title>Manage and Optimize Azure Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/manage_and_optimize_azure_costs_a_comprehensive_guide/</guid>
       <description>Manage and Optimize Azure Costs: A Comprehensive Guide When you sign up for Azure, it&amp;rsquo;s important to get a handle on your spending and proactively manage costs. This comprehensive guide will walk you through key strategies and tools to plan, monitor, and optimize your Azure expenditure.
 Get Estimated Costs Before Adding Azure Services Before provisioning any Azure resources, it&amp;rsquo;s crucial to estimate the potential costs. You can use the following tools to get accurate estimates:</description>
     </item>
     
     <item>
       <title>Maximizing Your Microsoft Cloud Investment- An In-Depth Look at Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximizing_your_microsoft_cloud_investment_an_in-depth_look_at_cost_management/</link>
+      <link>https://mangoldai.com/posts/maximizing_your_microsoft_cloud_investment_an_in-depth_look_at_cost_management/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximizing_your_microsoft_cloud_investment_an_in-depth_look_at_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/maximizing_your_microsoft_cloud_investment_an_in-depth_look_at_cost_management/</guid>
       <description>Microsoft Cost Management is a comprehensive suite of FinOps tools designed to help organizations analyze, monitor, and optimize their Microsoft Cloud costs. Whether you&amp;rsquo;re managing a single subscription or multiple billing accounts, Cost Management provides the insights and control you need to make informed decisions and maximize the value of your cloud investment.
 Understanding the Commerce Data Pipeline At the heart of Cost Management is the Microsoft Commerce data pipeline, which underpins all commercial transactions across Microsoft&amp;rsquo;s ecosystem.</description>
     </item>
     
     <item>
       <title>Optimize Your Azure Virtual Machine Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimize_your_azure_virtual_machine_costs_a_comprehensive_guide/</guid>
       <description>Optimize Your Azure Virtual Machine Costs: A Comprehensive Guide Running virtual machines (VMs) in the cloud can be a powerful and flexible solution, but it&amp;rsquo;s important to understand and manage the costs associated with them. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, monitor, and optimize the costs of your Azure virtual machines.
 Estimate Costs Before Deployment Before you deploy any virtual machines, use the Azure pricing calculator to estimate the costs.</description>
     </item>
     
     <item>
       <title>Optimize Your Azure Spend with Azure Advisor&#39;s Cost-Saving Recommendations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</link>
+      <link>https://mangoldai.com/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</guid>
+      <guid>https://mangoldai.com/posts/optimize_your_azure_spend_with_azure_advisors_cost-saving_recommendations/</guid>
       <description>Optimizing Azure Costs with Azure Advisor Azure Advisor is a powerful tool that can help you identify and address opportunities to optimize your Azure infrastructure and reduce your overall cloud spend. By analyzing your resource utilization and making targeted recommendations, Advisor empowers you to make informed decisions that can lead to significant cost savings.
 Identifying Underutilized Virtual Machines and Scale Sets One of Advisor&amp;rsquo;s key capabilities is its ability to detect underutilized virtual machines (VMs) and virtual machine scale sets (VMSS).</description>
     </item>
     
     <item>
       <title>Optimizing Costs and Monitoring Spending for Microsoft Sentinel</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
+      <link>https://mangoldai.com/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_costs_and_monitoring_spending_for_microsoft_sentinel/</guid>
       <description>Effectively managing and monitoring costs is a crucial aspect of ensuring the long-term success and sustainability of your Microsoft Sentinel deployment. In this comprehensive guide, we&amp;rsquo;ll explore the various tools and techniques available to help you gain visibility into your spending, set budgets, and proactively control costs.
 Understanding Your Costs As you use Azure resources with Microsoft Sentinel, you will inevitably incur costs. These costs can vary based on factors like time intervals (seconds, minutes, hours, days) and usage units (bytes, megabytes).</description>
     </item>
     
     <item>
       <title>Mastering Azure Cosmos DB Pricing- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_cosmos_db_pricing_a_comprehensive_guide/</guid>
       <description>Navigating the pricing landscape of Azure Cosmos DB can be a daunting task, but with the right information, you can optimize your costs and maximize the value of this powerful NoSQL database service. In this comprehensive guide, we&amp;rsquo;ll dive deep into the intricacies of Azure Cosmos DB&amp;rsquo;s pricing model, uncover strategies to save on your database operations, and explore the various options available for developers to get started with Azure Cosmos DB for free.</description>
     </item>
     
     <item>
       <title>Reduce Azure Costs with Optimization Recommendations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/reduce_azure_costs_with_optimization_recommendations/</link>
+      <link>https://mangoldai.com/posts/reduce_azure_costs_with_optimization_recommendations/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/reduce_azure_costs_with_optimization_recommendations/</guid>
+      <guid>https://mangoldai.com/posts/reduce_azure_costs_with_optimization_recommendations/</guid>
       <description>Optimizing your Azure costs can have a significant impact on your overall cloud spending. This comprehensive guide walks you through leveraging Azure Advisor recommendations to identify and address underutilized resources, ultimately helping you reduce your Azure costs.
 Understand Cost Optimization Recommendations Azure Advisor, integrated with Cost Management, provides valuable recommendations to help you optimize your Azure resource utilization and costs. These recommendations identify usage inefficiencies and potential savings opportunities.
 The recommendations are categorized by their potential impact:</description>
@@ -198,10 +198,10 @@ The recommendations are categorized by their potential impact:</description>
     
     <item>
       <title>Optimizing Centrally Managed Azure Hybrid Benefit for SQL Server</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_centrally_managed_azure_hybrid_benefit_for_sql_server/</link>
+      <link>https://mangoldai.com/posts/optimizing_centrally_managed_azure_hybrid_benefit_for_sql_server/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_centrally_managed_azure_hybrid_benefit_for_sql_server/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_centrally_managed_azure_hybrid_benefit_for_sql_server/</guid>
       <description>Optimizing Centrally Managed Azure Hybrid Benefit for SQL Server This comprehensive guide will walk you through the process of proactively managing and optimizing your use of Azure Hybrid Benefit for SQL Server. By centrally managing this benefit, you can reduce the costs of running Azure SQL and ensure you&amp;rsquo;re getting the most value out of your existing SQL Server licenses.
 Prerequisites Before you begin, make sure you have:
   Read and understood the What is centrally managed Azure Hybrid Benefit?</description>
@@ -209,59 +209,59 @@ Prerequisites Before you begin, make sure you have:
     
     <item>
       <title>Maximize Your Cloud Savings with Microsoft Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</link>
+      <link>https://mangoldai.com/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</guid>
       <description>Unlock the Power of Microsoft Cost Management Microsoft Cost Management is a comprehensive suite of FinOps tools designed to help organizations like yours analyze, monitor, and optimize their Microsoft Cloud spending. With Cost Management, you can gain complete visibility into your cloud costs, proactively manage your budget, and unlock significant cost savings.
 Understand the Commerce Data Pipeline At the heart of Cost Management is the Microsoft Commerce data pipeline, which powers all commercial transactions across Microsoft&amp;rsquo;s cloud services.</description>
     </item>
     
     <item>
       <title>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
+      <link>https://mangoldai.com/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
+      <guid>https://mangoldai.com/posts/leveraging_the_cluster_autoscaler_to_optimize_kubernetes_costs_on_azure/</guid>
       <description>Leveraging the Cluster Autoscaler to Optimize Kubernetes Costs on Azure As organizations continue to embrace Kubernetes for their cloud-native applications, managing and optimizing the cost of running these environments becomes a critical concern. One of the key tools in the Kubernetes cost optimization arsenal is the Cluster Autoscaler (CA), a powerful component that can dynamically scale the number of nodes in your Azure Kubernetes Service (AKS) cluster to match the changing demands of your workloads.</description>
     </item>
     
     <item>
       <title>Optimize Your Azure Costs with the Cost Optimization Workbook</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</link>
+      <link>https://mangoldai.com/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <guid>https://mangoldai.com/posts/optimize_your_azure_costs_with_the_cost_optimization_workbook/</guid>
       <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize the costs of your Azure environment. This comprehensive guide will walk you through the features and capabilities of the workbook, empowering you to make informed decisions and drive cost savings in your Azure deployments.
 Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used tools that can help you drive utilization and efficiency goals.</description>
     </item>
     
     <item>
       <title>Optimize and Manage Costs for Azure App Service</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_manage_costs_for_azure_app_service/</link>
+      <link>https://mangoldai.com/posts/optimize_and_manage_costs_for_azure_app_service/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_and_manage_costs_for_azure_app_service/</guid>
+      <guid>https://mangoldai.com/posts/optimize_and_manage_costs_for_azure_app_service/</guid>
       <description>Azure App Service is a powerful and flexible platform for hosting web applications, APIs, and mobile backends in the cloud. However, as with any cloud service, it&amp;rsquo;s important to understand and manage the costs associated with using App Service. In this comprehensive guide, we&amp;rsquo;ll explore how to plan, optimize, and monitor costs for your Azure App Service deployments.
 Understanding the App Service Billing Model When you use Azure App Service, you&amp;rsquo;re charged based on several factors:</description>
     </item>
     
     <item>
       <title>Manage and Monitor Costs for Microsoft Sentinel</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
+      <link>https://mangoldai.com/posts/manage_and_monitor_costs_for_microsoft_sentinel/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
+      <guid>https://mangoldai.com/posts/manage_and_monitor_costs_for_microsoft_sentinel/</guid>
       <description>Manage and Monitor Costs for Microsoft Sentinel As you use Microsoft Sentinel, it&amp;rsquo;s important to understand and manage the associated costs. Microsoft Sentinel costs are only a portion of your overall Azure bill, but it&amp;rsquo;s crucial to monitor them closely to avoid unexpected expenses. This comprehensive guide will walk you through various strategies and tools to help you manage and monitor Microsoft Sentinel costs effectively.
 View Costs Using Cost Analysis The Azure portal&amp;rsquo;s Cost Management features allow you to view, analyze, and monitor your Microsoft Sentinel costs.</description>
     </item>
     
     <item>
       <title>Streamlining Azure Hybrid Benefit Management for Significant Cost Savings</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
+      <link>https://mangoldai.com/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
+      <guid>https://mangoldai.com/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
       <description>Centralizing Azure Hybrid Benefit Management for SQL Server Azure Hybrid Benefit is a powerful licensing program that allows you to significantly reduce the costs of running your workloads in the cloud. By bringing your on-premises Software Assurance or subscription-enabled Windows Server and SQL Server licenses to Azure, you can save substantially on your cloud computing expenses.
 One of the key advancements in Azure Hybrid Benefit is the introduction of centralized management capabilities.</description>
     </item>

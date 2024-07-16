@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Container Security on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/container-security/</link>
+    <link>https://mangoldai.com/tags/container-security/</link>
     <description>Recent content in Container Security on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/container-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/container-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Practices for Securing Container Images in Azure Kubernetes Service (AKS)</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <link>https://mangoldai.com/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <guid>https://mangoldai.com/posts/best_practices_for_securing_container_images_in_azure_kubernetes_service_aks/</guid>
       <description>As container-based workloads become increasingly prevalent, ensuring the security of container images is crucial to avoid introducing vulnerabilities into your deployments. In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing and securing container images in Azure Kubernetes Service (AKS).
 Secure the Images and Runtime Best Practice Guidance:
  Scan your container images for vulnerabilities. Only deploy validated images. Regularly update the base images and application runtime. Redeploy workloads in the AKS cluster.</description>
@@ -20,49 +20,49 @@ Secure the Images and Runtime Best Practice Guidance:
     
     <item>
       <title>Securing Azure Container Instances- A Comprehensive Approach</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_azure_container_instances_a_comprehensive_approach/</link>
+      <link>https://mangoldai.com/posts/securing_azure_container_instances_a_comprehensive_approach/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_azure_container_instances_a_comprehensive_approach/</guid>
+      <guid>https://mangoldai.com/posts/securing_azure_container_instances_a_comprehensive_approach/</guid>
       <description>Securing Azure Container Instances: A Comprehensive Approach Containers have become an increasingly popular way to package and deploy applications, but they also come with unique security challenges. In this comprehensive guide, we&amp;rsquo;ll explore the key security considerations for running container workloads on Azure Container Instances (ACI) and provide practical recommendations to help you secure your container ecosystem.
 Use a Private Container Registry Container images are the foundation of your container-based applications, so it&amp;rsquo;s critical to ensure their security.</description>
     </item>
     
     <item>
       <title>Securing Container Images in Azure Kubernetes Service (AKS)</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
+      <link>https://mangoldai.com/posts/securing_container_images_in_azure_kubernetes_service_aks/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
+      <guid>https://mangoldai.com/posts/securing_container_images_in_azure_kubernetes_service_aks/</guid>
       <description>Securing Container Images in Azure Kubernetes Service (AKS) Container and container image security is a critical priority when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes can introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools within your containers during the build and runtime phases. The earlier you can identify and address vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     
     <item>
       <title>Securing Your Azure Containers with Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_azure_containers_with_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/securing_your_azure_containers_with_defender_for_containers/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_azure_containers_with_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/securing_your_azure_containers_with_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive cloud-native solution that helps you improve, monitor, and maintain the security of your containerized assets across multicloud and on-premises environments. This includes Kubernetes clusters, nodes, workloads, container registries, and container images.
 To get started with Defender for Containers, you&amp;rsquo;ll need a Microsoft Azure subscription. If you don&amp;rsquo;t have one, you can sign up for a free Azure subscription. You&amp;rsquo;ll also need to enable Microsoft Defender for Cloud on your Azure subscription.</description>
     </item>
     
     <item>
       <title>Securing Containerized Applications with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/securing_containerized_applications_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multicloud and on-premises environments. This powerful platform provides a range of security capabilities to help you protect your Kubernetes clusters, nodes, workloads, container registries, and container images.
 Security Posture Management Defender for Containers offers both agentless and sensor-based capabilities to help you manage the security posture of your containerized environment:</description>
     </item>
     
     <item>
       <title>Securing Your Azure Container Instances- Best Practices and Strategies</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_azure_container_instances_best_practices_and_strategies/</link>
+      <link>https://mangoldai.com/posts/securing_your_azure_container_instances_best_practices_and_strategies/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_azure_container_instances_best_practices_and_strategies/</guid>
+      <guid>https://mangoldai.com/posts/securing_your_azure_container_instances_best_practices_and_strategies/</guid>
       <description>Containerization has revolutionized the way we develop, deploy, and manage applications, but with this powerful technology comes a unique set of security challenges. As organizations embrace Azure Container Instances to run their containerized workloads, it&amp;rsquo;s crucial to address these security concerns head-on.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the security considerations for Azure Container Instances, equipping you with the knowledge and strategies to safeguard your containerized environments.
 Securing Container Images Use a Private Registry Publicly available container images may not always be secure, as they can contain vulnerabilities in their various software layers.</description>
@@ -70,10 +70,10 @@ Securing Container Images Use a Private Registry Publicly available container im
     
     <item>
       <title>Safeguarding Your Containerized Infrastructure with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/safeguarding_your_containerized_infrastructure_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive, cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets, including Kubernetes clusters, nodes, workloads, container registries, and container images, across multicloud and on-premises environments.
 Four Core Domains of Container Security Defender for Containers assists you with four key areas of container security:
   Security Posture Management:
@@ -82,20 +82,20 @@ Four Core Domains of Container Security Defender for Containers assists you with
     
     <item>
       <title>Mastering Container Security with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_container_security_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/mastering_container_security_with_microsoft_defender_for_containers/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_container_security_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/mastering_container_security_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multicloud and on-premises environments. This comprehensive platform addresses four core domains of container security: security posture management, vulnerability assessment, runtime threat protection, and deployment and monitoring.
 Security Posture Management Defender for Containers provides agentless capabilities that enable zero-footprint, API-based discovery of your Kubernetes clusters, their configurations, and deployments.</description>
     </item>
     
     <item>
       <title>Comprehensive Guide to Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/comprehensive_guide_to_microsoft_defender_for_containers/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/comprehensive_guide_to_microsoft_defender_for_containers/</guid>
       <description>Introduction to Microsoft Defender for Containers Microsoft Defender for Containers is a powerful cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This comprehensive platform addresses the unique security challenges associated with the rapid growth and adoption of containers and Kubernetes.
 Defender for Containers provides a holistic approach to container security, focusing on four core domains:
   Security Posture Management: Continuously monitors cloud APIs, Kubernetes APIs, and Kubernetes workloads to discover resources, detect misconfigurations, provide risk assessment, and enable enhanced risk hunting capabilities.</description>
@@ -103,10 +103,10 @@ Defender for Containers provides a holistic approach to container security, focu
     
     <item>
       <title>Secure Your Azure Containers with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution designed to enhance the security of your containerized workloads across multicloud and on-premises environments. This comprehensive platform helps you improve, monitor, and maintain the security of your Kubernetes clusters, container registries, container images, and more.
 Gain Visibility and Control Over Your Containers Microsoft Defender for Containers offers a range of powerful features to protect your containerized assets:
   Cloud Security Posture Management (CSPM): Defender for Containers provides both foundational and advanced CSPM capabilities, enabling you to continuously assess your security posture, receive security recommendations, and benchmark your cloud security against industry standards across Azure, AWS, and Google Cloud.</description>
@@ -114,29 +114,29 @@ Gain Visibility and Control Over Your Containers Microsoft Defender for Containe
     
     <item>
       <title>Leveraging Microsoft Defender for Containers to Secure Your AWS Workloads</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</link>
+      <link>https://mangoldai.com/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</guid>
+      <guid>https://mangoldai.com/posts/leveraging_microsoft_defender_for_containers_to_secure_your_aws_workloads/</guid>
       <description>Securing Containers in a Multicloud Environment with Microsoft Defender for Containers As organizations increasingly adopt container technologies and deploy workloads across multiple cloud providers, ensuring the security and visibility of these environments becomes a critical priority. Microsoft Defender for Containers, part of the Microsoft Defender for Cloud solution, provides a comprehensive, cloud-native approach to securing containers across Azure, AWS, and other cloud platforms.
 Enabling Defender for Containers for Your AWS Accounts To get started with protecting your AWS-hosted containers, you&amp;rsquo;ll need to enable the Defender for Containers plan within your Microsoft Defender for Cloud environment.</description>
     </item>
     
     <item>
       <title>Securing Your Containers- Best Practices for Container Image Management in Azure Kubernetes Service</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
+      <link>https://mangoldai.com/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
+      <guid>https://mangoldai.com/posts/securing_your_containers_best_practices_for_container_image_management_in_azure_kubernetes_service/</guid>
       <description>Containers and container image security are critical priorities when developing and running applications in Azure Kubernetes Service (AKS). Outdated base images or unpatched application runtimes introduce security risks and potential attack vectors. To minimize these risks, you can integrate and run scanning and remediation tools in your containers during both the build and runtime stages. The earlier you identify vulnerabilities or outdated base images, the more secure your application will be.</description>
     </item>
     
     <item>
       <title>Securing Your Container Workloads with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/securing_your_container_workloads_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a comprehensive cloud-native solution designed to improve, monitor, and maintain the security of your containerized assets across multi-cloud and on-premises environments. This article delves into the key capabilities of Defender for Containers and how it can help organizations address the evolving security challenges surrounding container-based solutions.
 Core Elements of Defender for Containers Defender for Containers assists you with four core domains of container security:
 1. Security Posture Management Defender for Containers provides a range of agentless capabilities to help you manage the security posture of your container environments:</description>
@@ -144,20 +144,20 @@ Core Elements of Defender for Containers Defender for Containers assists you wit
     
     <item>
       <title>Securing Azure Container Instances- Best Practices for Image Management and Container Ecosystem</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_azure_container_instances_best_practices_for_image_management_and_container_ecosystem/</link>
+      <link>https://mangoldai.com/posts/securing_azure_container_instances_best_practices_for_image_management_and_container_ecosystem/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_azure_container_instances_best_practices_for_image_management_and_container_ecosystem/</guid>
+      <guid>https://mangoldai.com/posts/securing_azure_container_instances_best_practices_for_image_management_and_container_ecosystem/</guid>
       <description>Securing Azure Container Instances: Best Practices for Image Management and Container Ecosystem Containerizing your applications can bring tremendous benefits in terms of portability, scalability, and efficiency. However, it also introduces new security considerations that must be addressed to protect your Azure infrastructure and workloads. This comprehensive guide explores the key security recommendations for managing container images and the broader container ecosystem when using Azure Container Instances.
 Secure Your Container Images Use a Private Container Registry Storing and retrieving container images from a private registry, such as Azure Container Registry or Docker Trusted Registry, is crucial for mitigating security risks.</description>
     </item>
     
     <item>
       <title>Securing Your Amazon Web Service (AWS) Containers with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/securing_your_amazon_web_service_aws_containers_with_microsoft_defender_for_containers/</guid>
       <description>Securing Your Amazon Web Service (AWS) Containers with Microsoft Defender for Containers Microsoft Defender for Containers is a cloud-native solution that helps you improve, monitor, and maintain the security of your Kubernetes clusters, containers, and their applications across multi-cloud and hybrid environments.
 Prerequisites Before you can enable Defender for Containers on your AWS account, make sure you have:
  A Microsoft Azure subscription. If you don&amp;rsquo;t have one, you can sign up for a free Azure subscription.</description>

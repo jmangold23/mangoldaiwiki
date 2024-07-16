@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diversity of Perspectives on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/diversity-of-perspectives/</link>
+    <link>https://mangoldai.com/tags/diversity-of-perspectives/</link>
     <description>Recent content in Diversity of Perspectives on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/diversity-of-perspectives/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/diversity-of-perspectives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Diverse Perspectives in PowerShell Best Practices</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</link>
+      <link>https://mangoldai.com/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_diverse_perspectives_in_powershell_best_practices/</guid>
       <description>Navigating the Diverse Perspectives in PowerShell Best Practices If you&amp;rsquo;ve spent any time exploring PowerShell code projects, you&amp;rsquo;ve likely noticed that the PowerShell community has a wide range of perspectives on what constitutes the &amp;lsquo;right&amp;rsquo; way to write PowerShell scripts and modules. This diversity of opinions can make it challenging to establish a clear set of best practices that everyone agrees on.
 The introduction provided outlines some of the key factors that have contributed to this lack of consensus over the years.</description>
     </item>

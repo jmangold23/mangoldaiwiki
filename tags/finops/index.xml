@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FinOps on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/finops/</link>
+    <link>https://mangoldai.com/tags/finops/</link>
     <description>Recent content in FinOps on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/finops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/finops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maximize Savings and Efficiency with Microsoft Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_savings_and_efficiency_with_microsoft_cost_management/</link>
+      <link>https://mangoldai.com/posts/maximize_savings_and_efficiency_with_microsoft_cost_management/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_savings_and_efficiency_with_microsoft_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/maximize_savings_and_efficiency_with_microsoft_cost_management/</guid>
       <description>Microsoft Cost Management is a powerful suite of FinOps tools that help organizations like yours analyze, monitor, and optimize their Microsoft Cloud costs. With Cost Management, you can gain visibility into your cloud spending, proactively manage your budget, and identify opportunities to optimize and streamline your cloud infrastructure.
 One of the key features of Cost Management is its ability to help you organize and allocate your cloud costs. By leveraging tools like billing profiles, invoice sections, management groups, and resource tags, you can ensure that costs are accurately attributed to the right business units and projects.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft Cost Management- Optimize Your Cloud Spending</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</link>
+      <link>https://mangoldai.com/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</guid>
+      <guid>https://mangoldai.com/posts/mastering_microsoft_cost_management_optimize_your_cloud_spending/</guid>
       <description>Microsoft Cost Management is a powerful suite of FinOps tools that empowers organizations to analyze, monitor, and optimize their Microsoft Cloud costs. This comprehensive platform provides a centralized view of your cloud spending, enabling you to make data-driven decisions and achieve cost optimization at scale.
 Understanding the Commerce Data Pipeline At the core of Cost Management is the Microsoft Commerce data pipeline, which processes and tracks all commercial transactions, from consumer to enterprise.</description>
     </item>
     
     <item>
       <title>Maximize Your Cloud Efficiency with Microsoft Azure Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</link>
+      <link>https://mangoldai.com/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/maximize_your_cloud_efficiency_with_microsoft_azure_cost_management/</guid>
       <description>Navigating the world of cloud computing can be a daunting task, especially when it comes to understanding and managing your cloud costs. That&amp;rsquo;s where Microsoft Azure Cost Management comes in - a powerful suite of FinOps tools designed to help organizations like yours analyze, monitor, and optimize their Microsoft Cloud spending.
 In this comprehensive post, we&amp;rsquo;ll dive into the ins and outs of Azure Cost Management, exploring how it can help you take control of your cloud costs and drive greater efficiency across your organization.</description>
     </item>
     
     <item>
       <title>Streamlining Your FinOps Practice with Improved Azure Cost Management Exports</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</link>
+      <link>https://mangoldai.com/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</guid>
+      <guid>https://mangoldai.com/posts/streamlining_your_finops_practice_with_improved_azure_cost_management_exports/</guid>
       <description>Azure&amp;rsquo;s Cost Management service has recently introduced an &amp;ldquo;Improved Exports&amp;rdquo; experience that aims to simplify and enhance the process of exporting cost and usage data for FinOps professionals. This new feature offers a range of improvements designed to help organizations better manage their cloud spending and optimize their cloud investments.
 The Improved Exports experience provides several key benefits:
 Expanded Dataset Support The enhanced exports feature now supports a wider range of datasets, including price sheets, reservation recommendations, reservation details, and reservation transactions.</description>
@@ -50,10 +50,10 @@ Expanded Dataset Support The enhanced exports feature now supports a wider range
     
     <item>
       <title>Maximize Your Cloud Savings with Microsoft Cost Management</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</link>
+      <link>https://mangoldai.com/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</guid>
+      <guid>https://mangoldai.com/posts/maximize_your_cloud_savings_with_microsoft_cost_management/</guid>
       <description>Unlock the Power of Microsoft Cost Management Microsoft Cost Management is a comprehensive suite of FinOps tools designed to help organizations like yours analyze, monitor, and optimize their Microsoft Cloud spending. With Cost Management, you can gain complete visibility into your cloud costs, proactively manage your budget, and unlock significant cost savings.
 Understand the Commerce Data Pipeline At the heart of Cost Management is the Microsoft Commerce data pipeline, which powers all commercial transactions across Microsoft&amp;rsquo;s cloud services.</description>
     </item>

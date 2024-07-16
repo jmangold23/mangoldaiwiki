@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Environment Setup on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/environment-setup/</link>
+    <link>https://mangoldai.com/tags/environment-setup/</link>
     <description>Recent content in Environment Setup on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/environment-setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/environment-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building PowerShell on Linux- A Step-by-Step Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
+      <link>https://mangoldai.com/posts/building_powershell_on_linux_a_step-by-step_guide/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
+      <guid>https://mangoldai.com/posts/building_powershell_on_linux_a_step-by-step_guide/</guid>
       <description>Building PowerShell on Linux can be a daunting task, but with the right guidance, it&amp;rsquo;s a rewarding process that can deepen your understanding of the platform. This comprehensive guide will take you through the necessary steps to set up your environment, install the required toolchain, and build PowerShell from the ground up.
 Setting Up Your Environment The first step is to ensure your environment is properly configured for building PowerShell on Linux.</description>
     </item>

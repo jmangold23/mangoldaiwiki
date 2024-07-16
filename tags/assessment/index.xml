@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assessment on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/assessment/</link>
+    <link>https://mangoldai.com/tags/assessment/</link>
     <description>Recent content in Assessment on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/assessment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/assessment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover, Assess, and Migrate to Azure with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/discover_assess_and_migrate_to_azure_with_azure_migrate/</guid>
       <description>Azure Migrate is a powerful platform that simplifies the process of migrating, modernizing, and optimizing your infrastructure, data, and applications for Azure. This comprehensive service provides a unified portal to streamline your entire cloud migration journey.
 Unified Migration Platform Azure Migrate offers a centralized hub where you can start, run, and track your migration to Azure. It provides a range of assessment and migration tools, including Azure Migrate: Discovery and Assessment, and Migration and Modernization.</description>
     </item>
     
     <item>
       <title>Mastering Azure Migrate Assessments- Best Practices for Maximizing Migration Success</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_migrate_assessments_best_practices_for_maximizing_migration_success/</guid>
       <description>Azure Migrate is a powerful platform that simplifies the process of discovering, assessing, and migrating workloads to Microsoft Azure. The Azure Migrate Discovery and assessment tool is a crucial component that helps organizations evaluate their on-premises infrastructure and determine the best path forward for their cloud migration journey. In this comprehensive guide, we will delve into the best practices for creating assessments using the Azure Migrate Discovery and assessment tool, ensuring you can make informed decisions and optimize your migration efforts.</description>
     </item>
     
     <item>
       <title>A Comprehensive Guide to Azure Migrate- Simplifying Your Cloud Migration Journey</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_migration_journey/</link>
+      <link>https://mangoldai.com/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_migration_journey/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_migration_journey/</guid>
+      <guid>https://mangoldai.com/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_migration_journey/</guid>
       <description>A Comprehensive Guide to Azure Migrate: Simplifying Your Cloud Migration Journey Azure Migrate is a powerful platform that provides a simplified and streamlined approach to migrating, modernizing, and optimizing your infrastructure, data, and applications for the Azure cloud. Whether you&amp;rsquo;re looking to migrate on-premises servers, databases, web apps, or virtual desktops, Azure Migrate offers a comprehensive suite of tools and services to make your cloud journey a success.
 Unified Migration Platform At the heart of Azure Migrate is a single, unified portal that allows you to start, run, and track your migration to Azure.</description>
     </item>
     
     <item>
       <title>Simplify Your Azure Migration with Azure Migrate</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/simplify_your_azure_migration_with_azure_migrate/</link>
+      <link>https://mangoldai.com/posts/simplify_your_azure_migration_with_azure_migrate/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/simplify_your_azure_migration_with_azure_migrate/</guid>
+      <guid>https://mangoldai.com/posts/simplify_your_azure_migration_with_azure_migrate/</guid>
       <description>Azure Migrate: Your One-Stop Solution for Seamless Cloud Transformation
 In today&amp;rsquo;s rapidly evolving digital landscape, organizations are constantly seeking efficient and reliable ways to migrate their on-premises infrastructure, data, and applications to the cloud. Azure Migrate, a comprehensive service from Microsoft, offers a streamlined approach to this critical journey.
 Unified Migration Platform At the heart of Azure Migrate lies a single, centralized portal that empowers you to start, run, and track your migration to Azure.</description>
@@ -49,20 +49,20 @@ Unified Migration Platform At the heart of Azure Migrate lies a single, centrali
     
     <item>
       <title>A Comprehensive Guide to Azure Migrate- Simplifying Your Cloud Journey</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_journey/</link>
+      <link>https://mangoldai.com/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_journey/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_journey/</guid>
+      <guid>https://mangoldai.com/posts/a_comprehensive_guide_to_azure_migrate_simplifying_your_cloud_journey/</guid>
       <description>Azure Migrate is a powerful service that streamlines your migration, modernization, and optimization journey to the cloud. Whether you&amp;rsquo;re looking to assess and migrate servers, databases, web apps, or virtual desktops, Azure Migrate provides a unified platform to get the job done efficiently.
 Unified Migration Platform At the heart of Azure Migrate is a single portal that allows you to start, run, and track your migration to Azure. This centralized approach helps you stay on top of your cloud transformation efforts, regardless of the complexity or scale of your on-premises infrastructure.</description>
     </item>
     
     <item>
       <title>Assessing and Migrating Applications to Azure - A Step-by-Step Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</link>
+      <link>https://mangoldai.com/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</guid>
+      <guid>https://mangoldai.com/posts/assessing_and_migrating_applications_to_azure_-_a_step-by-step_guide/</guid>
       <description>In this comprehensive guide, we&amp;rsquo;ll explore the process of assessing an on-premises multi-tier application and migrating it to Microsoft Azure. We&amp;rsquo;ll leverage the powerful suite of tools provided by Azure Migrate to ensure a seamless and efficient migration journey.
 Abstract and Learning Objectives This hands-on lab will teach you how to assess and migrate a multi-tier application from Hyper-V to Azure. You will learn to use Azure Migrate as the central hub for executing the migration, along with accompanying tools like Microsoft Data Migration Assistant (DMA) and Azure Database Migration Service (DMS).</description>
     </item>

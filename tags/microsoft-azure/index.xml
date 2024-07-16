@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Azure on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/microsoft-azure/</link>
+    <link>https://mangoldai.com/tags/microsoft-azure/</link>
     <description>Recent content in Microsoft Azure on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Started with Azure for Free</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_for_free/</link>
+      <link>https://mangoldai.com/posts/get_started_with_azure_for_free/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/get_started_with_azure_for_free/</guid>
+      <guid>https://mangoldai.com/posts/get_started_with_azure_for_free/</guid>
       <description>Get Started with Azure for Free If you&amp;rsquo;re looking to explore the power of the cloud, Microsoft Azure offers an excellent starting point with its free account program. In this guide, we&amp;rsquo;ll walk you through the process of creating your Azure free account and taking advantage of the benefits it provides.
 Key Features of the Azure Free Account   $200 Azure Credit: When you sign up for an Azure free account, you&amp;rsquo;ll receive a $200 credit to use towards any Azure services within the first 30 days.</description>
     </item>

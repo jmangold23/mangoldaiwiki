@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure-powershell on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-powershell/</link>
+    <link>https://mangoldai.com/tags/azure-powershell/</link>
     <description>Recent content in azure-powershell on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-powershell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-powershell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Azure Cost Management- Creating and Managing Budgets</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_cost_management_creating_and_managing_budgets/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_cost_management_creating_and_managing_budgets/</guid>
       <description>Mastering Azure Cost Management: Creating and Managing Budgets Budgets in Azure Cost Management are a powerful tool to help you plan, monitor, and control your cloud spending. By creating and managing budgets, you can proactively inform your organization about spending, manage costs, and track how spending evolves over time.
 In this comprehensive guide, we&amp;rsquo;ll walk you through the process of creating and managing budgets in the Azure portal, as well as exploring programmatic options using PowerShell, CLI, and Terraform.</description>
     </item>

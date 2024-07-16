@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Networking on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-networking/</link>
+    <link>https://mangoldai.com/tags/azure-networking/</link>
     <description>Recent content in Azure Networking on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimize Azure Costs with the Cost Optimization Workbook</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
+      <link>https://mangoldai.com/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
+      <guid>https://mangoldai.com/posts/optimize_azure_costs_with_the_cost_optimization_workbook/</guid>
       <description>The Azure Cost Optimization workbook is a powerful tool designed to help you understand and optimize your Azure costs. This comprehensive guide will walk you through the various features and capabilities of the workbook, equipping you with the knowledge to make informed decisions and drive cost savings in your Azure environment.
 Overview The Azure Cost Optimization workbook serves as a centralized hub for some of the most commonly used cost optimization tools and insights.</description>
     </item>

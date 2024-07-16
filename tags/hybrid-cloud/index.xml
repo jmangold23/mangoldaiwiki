@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hybrid cloud on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/hybrid-cloud/</link>
+    <link>https://mangoldai.com/tags/hybrid-cloud/</link>
     <description>Recent content in hybrid cloud on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/hybrid-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/hybrid-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Cloud- Exploring Public, Private and Hybrid Cloud Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
       <description>As the cloud computing landscape continues to evolve, organizations are faced with a critical decision - which cloud deployment model best suits their unique needs? The choice between public, private, and hybrid cloud can have a significant impact on factors like data security, scalability, cost, and control.
 In this comprehensive guide, we&amp;rsquo;ll dive deep into the pros and cons of each cloud deployment model, empowering you to make an informed decision that aligns with your business objectives.</description>
     </item>
     
     <item>
       <title>Exploring the Benefits and Differences of Cloud Computing Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</link>
+      <link>https://mangoldai.com/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_benefits_and_differences_of_cloud_computing_models/</guid>
       <description>Navigating the Cloud: Unlocking the Power of Public, Private, and Hybrid Models
 In the ever-evolving landscape of technology, cloud computing has emerged as a game-changer, offering organizations a vast array of benefits and deployment options. Whether you&amp;rsquo;re new to the cloud or looking to deepen your understanding, this comprehensive guide will explore the key differences and advantages of public, private, and hybrid cloud models.
 Understanding Cloud Concepts: High Availability, Scalability, and More</description>
@@ -30,50 +30,50 @@ Understanding Cloud Concepts: High Availability, Scalability, and More</descript
     
     <item>
       <title>Exploring the Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>Cloud computing has become an essential part of modern IT infrastructure, offering organizations a range of deployment models to choose from based on their specific needs and requirements. In this comprehensive article, we will delve into the three primary cloud deployment models - public, private, and hybrid - examining their key characteristics, advantages, and disadvantages.
 Public Cloud The public cloud is the most common deployment model, where an organization&amp;rsquo;s data and applications are hosted on the infrastructure of a cloud service provider.</description>
     </item>
     
     <item>
       <title>Navigating the Cloud- Public, Private, and Hybrid Deployment Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_public_private_and_hybrid_deployment_models/</guid>
       <description>In the ever-evolving landscape of cloud computing, understanding the different deployment models is crucial for organizations seeking to leverage the power and flexibility of the cloud. The choice of deployment model can significantly impact factors like security, scalability, and maintenance, making it a critical decision for any business.
 Public Cloud: The Go-To Solution The public cloud is the most common deployment model, offering a compelling value proposition for many organizations. By leveraging the infrastructure and resources of a cloud provider, businesses can avoid the hassle of managing and maintaining their own hardware.</description>
     </item>
     
     <item>
       <title>Exploring Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>The cloud has become an essential part of modern computing, offering businesses and organizations a range of deployment models to choose from. Each model comes with its own set of advantages and disadvantages, and the choice ultimately depends on factors such as budget, security requirements, scalability needs, and maintenance preferences.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure of a cloud service provider.</description>
     </item>
     
     <item>
       <title>Navigating the Cloud Deployment Landscape- Public, Private, and Hybrid Strategies</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_deployment_landscape_public_private_and_hybrid_strategies/</guid>
       <description>In the ever-evolving world of cloud computing, understanding the different deployment models is crucial for organizations seeking to maximize their technology investments and meet their unique business requirements. The choice between public, private, and hybrid cloud models can have a significant impact on factors such as security, scalability, cost, and operational control.
 Public Cloud: The Flexible and Cost-Effective Option The public cloud is the most common deployment model, where organizations leverage the infrastructure and services provided by cloud providers like Microsoft Azure, Amazon Web Services, or Google Cloud Platform.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Journey with the Microsoft Cloud Adoption Framework</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_journey_with_the_microsoft_cloud_adoption_framework/</guid>
       <description>As organizations increasingly embrace cloud computing, their journey towards cloud adoption becomes more complex. The introduction to the hybrid and multicloud scenario outlined in the provided content consolidates various technical and non-technical considerations required to prepare for this journey.
 The key focus of this scenario is to enable two primary outcomes:
  Hybrid and Multicloud Adoption: Building, deploying, and/or migrating solutions that are portable, allowing for ease of movement between cloud platforms with minimum vendor lock-in.</description>
@@ -81,30 +81,30 @@ The key focus of this scenario is to enable two primary outcomes:
     
     <item>
       <title>Preparing Your Environment for a Hybrid and Multicloud Future with Azure Arc</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
+      <link>https://mangoldai.com/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
+      <guid>https://mangoldai.com/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
       <description>The modern business landscape demands flexibility, scalability, and seamless integration across on-premises, edge, and multicloud environments. As organizations navigate this complex landscape, the Cloud Adoption Framework&amp;rsquo;s Ready methodology can be a powerful guide, helping you prepare your environment for a successful hybrid and multicloud strategy.
 At the heart of this approach are Azure landing zones - the building blocks of any Azure cloud adoption environment. These landing zones account for crucial elements like scale, security governance, networking, identity, cost management, and monitoring.</description>
     </item>
     
     <item>
       <title>Cloud Deployment Models- Navigating the Public, Private, and Hybrid Landscape</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</link>
+      <link>https://mangoldai.com/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</guid>
+      <guid>https://mangoldai.com/posts/cloud_deployment_models_navigating_the_public_private_and_hybrid_landscape/</guid>
       <description>When it comes to cloud computing, the choice of deployment model can have a significant impact on your organization&amp;rsquo;s operations, security, and cost considerations. The content provided outlines the three primary cloud deployment models - public, private, and hybrid - and their respective advantages and disadvantages. Let&amp;rsquo;s dive deeper into each model and explore how you can determine the best fit for your needs.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure provided by a cloud service provider, such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP).</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Journey- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_journey_a_comprehensive_guide/</guid>
       <description>As organizations continue to embrace cloud computing, the path to cloud adoption is becoming increasingly complex. The hybrid and multicloud scenario, as outlined in the Cloud Adoption Framework for Azure, presents a strategic approach to navigating this evolving landscape.
 This comprehensive guide aims to provide a deep dive into the key components and considerations required to successfully implement a hybrid and multicloud strategy.
 Understanding the Hybrid and Multicloud Scenario The hybrid and multicloud scenario focuses on two primary objectives:</description>
@@ -112,109 +112,109 @@ Understanding the Hybrid and Multicloud Scenario The hybrid and multicloud scena
     
     <item>
       <title>Understanding Cloud Computing- Exploring the Benefits, Service Models, and Deployment Options</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
+      <link>https://mangoldai.com/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
+      <guid>https://mangoldai.com/posts/understanding_cloud_computing_exploring_the_benefits_service_models_and_deployment_options/</guid>
       <description>Cloud computing has become an integral part of modern technology, transforming the way organizations and individuals approach computing resources. In this comprehensive article, we&amp;rsquo;ll explore the key benefits and considerations of using cloud services, delve into the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS), and compare the public, private, and hybrid cloud deployment models.
 The Benefits and Considerations of Cloud Computing Cloud computing offers a wide range of benefits that can significantly impact an organization&amp;rsquo;s operations and efficiency.</description>
     </item>
     
     <item>
       <title>Choosing the Right Cloud Deployment Model for Your Business</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/choosing_the_right_cloud_deployment_model_for_your_business/</link>
+      <link>https://mangoldai.com/posts/choosing_the_right_cloud_deployment_model_for_your_business/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/choosing_the_right_cloud_deployment_model_for_your_business/</guid>
+      <guid>https://mangoldai.com/posts/choosing_the_right_cloud_deployment_model_for_your_business/</guid>
       <description>When it comes to cloud computing, there are three primary deployment models to consider: public cloud, private cloud, and hybrid cloud. Each model has its own unique advantages and disadvantages, and the right choice will depend on your business&amp;rsquo;s specific needs, budget, and requirements.
 Public Cloud The public cloud is the most common deployment model, where your data and applications are hosted on the infrastructure of a cloud service provider like Microsoft Azure or Amazon Web Services.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- Strategies for Success</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_strategies_for_success/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape: Strategies for Success Microsoft Azure provides a comprehensive set of products and features to help organizations build and operate their technology solutions in the cloud. However, many businesses find themselves needing to leverage multiple private and public clouds to meet their specific business requirements. This article outlines Microsoft&amp;rsquo;s perspective on the important cloud computing concepts of hybrid and multicloud, and provides guidance on navigating the associated challenges and opportunities.</description>
     </item>
     
     <item>
       <title>Maximizing Your SQL Server Investments with Azure Hybrid Benefit</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</link>
+      <link>https://mangoldai.com/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</guid>
+      <guid>https://mangoldai.com/posts/maximizing_your_sql_server_investments_with_azure_hybrid_benefit/</guid>
       <description>Migrating and modernizing your SQL Server deployments can be a complex and costly endeavor, but Microsoft&amp;rsquo;s Azure Hybrid Benefit offers a solution that can help you save significantly on your licensing costs while streamlining your hybrid environment.
 Azure Hybrid Benefit is a cost-saving offering from Microsoft that allows you to apply your existing Windows Server, SQL Server, and Linux subscriptions to your cloud workloads, unlocking substantial savings. By leveraging this benefit, you can save up to 85% over the standard pay-as-you-go rates, making it a highly attractive option for organizations looking to optimize their IT investments.</description>
     </item>
     
     <item>
       <title>Understanding Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/understanding_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>Cloud computing has revolutionized the way we approach IT infrastructure and service delivery. When it comes to cloud deployment, organizations have three primary models to choose from: public cloud, private cloud, and hybrid cloud. Each of these models offers distinct advantages and disadvantages, and the choice ultimately depends on an organization&amp;rsquo;s specific needs, budget, security requirements, and long-term goals.
 Public Cloud The public cloud is the most common deployment model, where organizations leverage the infrastructure and services provided by a cloud vendor, such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP).</description>
     </item>
     
     <item>
       <title>Implementing a Resilient SQL Server Hybrid Cloud Solution</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
+      <link>https://mangoldai.com/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
+      <guid>https://mangoldai.com/posts/implementing_a_resilient_sql_server_hybrid_cloud_solution/</guid>
       <description>Implementing a Resilient SQL Server Hybrid Cloud Solution Overview In this hands-on lab, you will build a disaster recovery site for an on-premises environment. You will enhance the existing database solution to support a hybrid cloud-based disaster recovery solution, implement an archiving strategy and a backup/restore strategy designed to protect data.
 At the end of the lab, you will be better able to design and use availability sets, Managed Disks, SQL Server Always on Availability Groups, Stretch DB and SQL Server Managed Backup.</description>
     </item>
     
     <item>
       <title>Navigating the Cloud- Exploring Public, Private, and Hybrid Cloud Models</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_exploring_public_private_and_hybrid_cloud_models/</guid>
       <description>In the ever-evolving world of cloud computing, organizations face a crucial decision when it comes to their cloud deployment strategy. The choice between public, private, or hybrid cloud models can have a significant impact on factors such as security, scalability, and cost-effectiveness. Understanding the nuances of each deployment model is essential for making an informed decision that aligns with your business needs.
 Public Cloud: The Scalable and Cost-Effective Option The public cloud has emerged as the most common deployment model, offering organizations a highly scalable and cost-effective solution.</description>
     </item>
     
     <item>
       <title>Exploring the Different Cloud Deployment Models- Public, Private, and Hybrid</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
+      <link>https://mangoldai.com/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
+      <guid>https://mangoldai.com/posts/exploring_the_different_cloud_deployment_models_public_private_and_hybrid/</guid>
       <description>In the rapidly evolving world of cloud computing, businesses and organizations face an important decision - which cloud deployment model best fits their needs? The choice can significantly impact the security, scalability, and maintenance of their data and applications. This comprehensive article delves into the three primary cloud deployment models: public, private, and hybrid, providing a detailed overview of their advantages, disadvantages, and real-world use cases.
 Public Cloud: The Most Common Deployment Model The public cloud is the most widely adopted cloud deployment model, offering a highly scalable and cost-effective solution for businesses.</description>
     </item>
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- Maximize the Benefits, Minimize the Concerns</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_maximize_the_benefits_minimize_the_concerns/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape: Maximize the Benefits, Minimize the Concerns As the digital landscape continues to evolve, more and more organizations are embracing the power of hybrid and multicloud environments. Microsoft Azure, as an enterprise-grade cloud provider, offers a comprehensive suite of products and features to help you build and operate your technology solutions across public, hybrid, and multicloud setups.
 Defining Hybrid and Multicloud A hybrid cloud is a type of cloud computing that combines a private cloud (on-premises infrastructure) with a public cloud (computing services offered by third-party providers over the public internet).</description>
     </item>
     
     <item>
       <title>Hybrid and Multicloud- Unlocking the Power of the Cloud</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
+      <link>https://mangoldai.com/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
+      <guid>https://mangoldai.com/posts/hybrid_and_multicloud_unlocking_the_power_of_the_cloud/</guid>
       <description>Hybrid and Multicloud: Unlocking the Power of the Cloud As businesses strive to remain agile, innovative, and competitive in today&amp;rsquo;s fast-paced digital landscape, the need for a flexible and scalable technology infrastructure has become paramount. Enter the world of hybrid and multicloud computing - a transformative approach that empowers organizations to harness the full potential of cloud technology while addressing the unique challenges they face.
 Microsoft Azure, as a leading enterprise-grade cloud provider, understands the intricacies of this evolving landscape.</description>
     </item>
     
     <item>
       <title>Secure Your Azure Containers with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/secure_your_azure_containers_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution designed to enhance the security of your containerized workloads across multicloud and on-premises environments. This comprehensive platform helps you improve, monitor, and maintain the security of your Kubernetes clusters, container registries, container images, and more.
 Gain Visibility and Control Over Your Containers Microsoft Defender for Containers offers a range of powerful features to protect your containerized assets:
   Cloud Security Posture Management (CSPM): Defender for Containers provides both foundational and advanced CSPM capabilities, enabling you to continuously assess your security posture, receive security recommendations, and benchmark your cloud security against industry standards across Azure, AWS, and Google Cloud.</description>
@@ -222,10 +222,10 @@ Gain Visibility and Control Over Your Containers Microsoft Defender for Containe
     
     <item>
       <title>Setting Up a Simulated Hybrid Cloud Environment for Testing</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
+      <link>https://mangoldai.com/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
+      <guid>https://mangoldai.com/posts/setting_up_a_simulated_hybrid_cloud_environment_for_testing/</guid>
       <description>Setting Up a Simulated Hybrid Cloud Environment for Testing Microsoft Azure provides a flexible and scalable platform for creating test environments that simulate a hybrid cloud setup. This article walks you through the process of setting up a simulated hybrid cloud test environment using two separate Azure virtual networks and a VNet-to-VNet connection.
 This setup simulates a hybrid cloud production environment consisting of:
  A simulated and simplified on-premises network hosted in an Azure virtual network (the TestLab virtual network).</description>
@@ -233,10 +233,10 @@ This setup simulates a hybrid cloud production environment consisting of:
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_a_comprehensive_guide/</guid>
       <description>As cloud adoption continues to mature, organizations are finding themselves navigating an increasingly complex journey to the cloud. The hybrid and multicloud scenario presents both challenges and opportunities, requiring a strategic and well-orchestrated approach to succeed.
 This comprehensive guide will walk you through the key considerations and guidance necessary to prepare for and thrive in a hybrid and multicloud environment.
 The Hybrid and Multicloud Scenario The hybrid and multicloud scenario is centered around two primary goals:</description>
@@ -244,39 +244,39 @@ The Hybrid and Multicloud Scenario The hybrid and multicloud scenario is centere
     
     <item>
       <title>Deploying a Hybrid App with On-Premises Data and Cross-Cloud Scaling</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</link>
+      <link>https://mangoldai.com/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</guid>
+      <guid>https://mangoldai.com/posts/deploying_a_hybrid_app_with_on-premises_data_and_cross-cloud_scaling/</guid>
       <description>Deploying a Hybrid App with On-Premises Data and Cross-Cloud Scaling In this comprehensive guide, we&amp;rsquo;ll walk through the process of deploying a hybrid application that leverages both Azure and Azure Stack Hub to create a scalable and resilient solution. By combining the benefits of a private cloud (Azure Stack Hub) with the scalability of the public cloud (Azure), you can build applications that meet your organization&amp;rsquo;s compliance requirements while still taking advantage of the cloud&amp;rsquo;s elasticity.</description>
     </item>
     
     <item>
       <title>Preparing Your Environment for Hybrid and Multicloud Scenarios with Azure Arc</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
+      <link>https://mangoldai.com/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
+      <guid>https://mangoldai.com/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
       <description>In today&amp;rsquo;s ever-evolving technology landscape, organizations are increasingly adopting hybrid and multicloud strategies to meet their diverse business needs. The Cloud Adoption Framework&amp;rsquo;s Ready methodology provides a structured approach to prepare your environment for these complex scenarios, with Azure landing zones serving as the building blocks.
 Understanding Hybrid and Multicloud in Azure Landing Zones Azure landing zones are the result of a multi-subscription Azure environment that accounts for scale, security governance, networking, identity, cost management, and monitoring.</description>
     </item>
     
     <item>
       <title>Mastering NAT Rules for Your Azure Virtual WAN VPN Gateway</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</link>
+      <link>https://mangoldai.com/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</guid>
+      <guid>https://mangoldai.com/posts/mastering_nat_rules_for_your_azure_virtual_wan_vpn_gateway/</guid>
       <description>Mastering NAT Rules for Your Azure Virtual WAN VPN Gateway As organizations increasingly adopt cloud infrastructure, they often encounter the challenge of interconnecting their on-premises networks with Azure virtual networks. One common scenario is when branch offices have overlapping IP address spaces, making it difficult to establish direct connectivity. Fortunately, Azure Virtual WAN&amp;rsquo;s site-to-site VPN gateway offers a powerful solution - NAT (Network Address Translation) rules.
 In this comprehensive guide, we&amp;rsquo;ll explore the ins and outs of configuring NAT rules for your Azure Virtual WAN VPN gateway, empowering you to seamlessly interconnect your on-premises networks with Azure resources.</description>
     </item>
     
     <item>
       <title>Establish a Secure Site-to-Site VPN Connection for Azure VMware Solution</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</link>
+      <link>https://mangoldai.com/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</guid>
+      <guid>https://mangoldai.com/posts/establish_a_secure_site-to-site_vpn_connection_for_azure_vmware_solution/</guid>
       <description>In this comprehensive guide, we&amp;rsquo;ll walk you through the process of setting up a secure site-to-site VPN connection between your on-premises network and Azure VMware Solution. This powerful integration allows you to seamlessly extend your local infrastructure into the Azure cloud, enabling hybrid scenarios and providing a reliable, high-performance connection.
 Prerequisites Before we begin, ensure that you have the following:
  A public-facing IP address for your on-premises VPN device. Familiarity with Azure Virtual WAN and its components, including virtual hubs and VPN gateways.</description>
@@ -284,20 +284,20 @@ Prerequisites Before we begin, ensure that you have the following:
     
     <item>
       <title>Navigating the Hybrid and Multicloud Landscape with Azure</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</link>
+      <link>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_hybrid_and_multicloud_landscape_with_azure/</guid>
       <description>Navigating the Hybrid and Multicloud Landscape with Azure As enterprises increasingly look to leverage the benefits of cloud computing, many are finding that a hybrid or multicloud approach is the best fit for their needs. Microsoft Azure, as a leading enterprise-grade cloud provider, is well-equipped to support businesses across public, hybrid, and multicloud environments.
 Understanding Hybrid and Multicloud A hybrid cloud combines a private cloud (on-premises infrastructure) with a public cloud (third-party cloud services).</description>
     </item>
     
     <item>
       <title>Exploring Cloud Deployment Models- Public, Private, and Hybrid Strategies</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</link>
+      <link>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</guid>
+      <guid>https://mangoldai.com/posts/exploring_cloud_deployment_models_public_private_and_hybrid_strategies/</guid>
       <description>As organizations navigate the digital landscape, the choice of cloud deployment model has become a critical decision. The options span public, private, and hybrid clouds, each offering unique advantages and considerations. In this comprehensive guide, we&amp;rsquo;ll delve into the nuances of these cloud deployment models, equipping you with the knowledge to make an informed decision that aligns with your business needs.
 Public Cloud: Scalability and Convenience The public cloud has emerged as the most prevalent deployment model, providing organizations with a highly scalable and agile infrastructure.</description>
     </item>

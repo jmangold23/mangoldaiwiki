@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centralized Management on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/centralized-management/</link>
+    <link>https://mangoldai.com/tags/centralized-management/</link>
     <description>Recent content in Centralized Management on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/centralized-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/centralized-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamlining Azure Hybrid Benefit Management for Significant Cost Savings</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
+      <link>https://mangoldai.com/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
+      <guid>https://mangoldai.com/posts/streamlining_azure_hybrid_benefit_management_for_significant_cost_savings/</guid>
       <description>Centralizing Azure Hybrid Benefit Management for SQL Server Azure Hybrid Benefit is a powerful licensing program that allows you to significantly reduce the costs of running your workloads in the cloud. By bringing your on-premises Software Assurance or subscription-enabled Windows Server and SQL Server licenses to Azure, you can save substantially on your cloud computing expenses.
 One of the key advancements in Azure Hybrid Benefit is the introduction of centralized management capabilities.</description>
     </item>

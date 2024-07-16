@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alpine on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/alpine/</link>
+    <link>https://mangoldai.com/tags/alpine/</link>
     <description>Recent content in Alpine on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/alpine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/alpine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing PowerShell on Linux- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/installing_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/installing_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>PowerShell is a powerful and versatile tool that can be installed on a variety of Linux distributions, each with its own package manager and installation process. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions and the steps to install PowerShell on each of them.
 Supported Linux Distributions PowerShell can be installed on several different Linux distributions, including:
 Alpine Alpine is a lightweight and secure Linux distribution that uses the APK package manager.</description>

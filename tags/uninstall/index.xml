@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uninstall on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/uninstall/</link>
+    <link>https://mangoldai.com/tags/uninstall/</link>
     <description>Recent content in Uninstall on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/uninstall/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/uninstall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing PowerShell on macOS- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_macos_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/installing_powershell_on_macos_a_comprehensive_guide/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_powershell_on_macos_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/installing_powershell_on_macos_a_comprehensive_guide/</guid>
       <description>Installing PowerShell on macOS: A Comprehensive Guide PowerShell is a powerful cross-platform automation and configuration management tool that has become an essential part of the modern IT landscape. If you&amp;rsquo;re a macOS user, you&amp;rsquo;ll be glad to know that you can easily install and use PowerShell on your system. This comprehensive guide will walk you through the various installation methods available and help you get started with PowerShell on your Mac.</description>
     </item>
     

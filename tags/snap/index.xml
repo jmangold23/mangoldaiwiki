@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snap on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/snap/</link>
+    <link>https://mangoldai.com/tags/snap/</link>
     <description>Recent content in Snap on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/snap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/snap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprehensive Guide to Installing PowerShell on Linux</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_installing_powershell_on_linux/</link>
+      <link>https://mangoldai.com/posts/comprehensive_guide_to_installing_powershell_on_linux/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/comprehensive_guide_to_installing_powershell_on_linux/</guid>
+      <guid>https://mangoldai.com/posts/comprehensive_guide_to_installing_powershell_on_linux/</guid>
       <description>Comprehensive Guide to Installing PowerShell on Linux PowerShell is a powerful and versatile scripting language and automation tool that runs on a variety of platforms, including Linux. In this comprehensive guide, we&amp;rsquo;ll explore the different methods you can use to install PowerShell on your Linux distribution.
 Snap Package One of the easiest ways to install PowerShell on Linux is through the Snap package manager. Snaps are self-contained application packages that are easy to install, secure, and cross-platform.</description>
     </item>
     
     <item>
       <title>Alternate Ways to Install PowerShell on Linux</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/alternate_ways_to_install_powershell_on_linux/</link>
+      <link>https://mangoldai.com/posts/alternate_ways_to_install_powershell_on_linux/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/alternate_ways_to_install_powershell_on_linux/</guid>
+      <guid>https://mangoldai.com/posts/alternate_ways_to_install_powershell_on_linux/</guid>
       <description>Alternate Ways to Install PowerShell on Linux Microsoft&amp;rsquo;s PowerShell is a powerful cross-platform automation tool that can be installed on various Linux distributions. In addition to the standard installation methods, there are several alternate ways to get PowerShell up and running on your Linux system.
 Snap Package One of the easiest ways to install PowerShell on Linux is through the use of Snap packages. Snap is a container-based packaging format that makes it simple to install and maintain applications across a wide range of Linux distributions.</description>
     </item>

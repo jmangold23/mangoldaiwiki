@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scripting on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/scripting/</link>
+    <link>https://mangoldai.com/tags/scripting/</link>
     <description>Recent content in Scripting on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/scripting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/scripting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlock the Power of PowerShell- Essential Scripting Style and Best Practices</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</link>
+      <link>https://mangoldai.com/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</guid>
+      <guid>https://mangoldai.com/posts/unlock_the_power_of_powershell_essential_scripting_style_and_best_practices/</guid>
       <description>In the ever-evolving world of PowerShell, the art of writing efficient, maintainable, and readable code is paramount. This comprehensive guide delves into the essential scripting style and best practices that can elevate your PowerShell prowess to new heights.
 PowerShell, as a powerful scripting language, has become an indispensable tool for system administrators, IT professionals, and automation enthusiasts. However, with great power comes great responsibility. Adopting a set of well-defined best practices can help you navigate the intricacies of PowerShell and ensure your code is not only effective but also easily understandable and reusable.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell- Automating User Management and Service Monitoring</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
+      <link>https://mangoldai.com/posts/mastering_powershell_automating_user_management_and_service_monitoring/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
+      <guid>https://mangoldai.com/posts/mastering_powershell_automating_user_management_and_service_monitoring/</guid>
       <description>Introduction As a PowerShell enthusiast, I&amp;rsquo;m excited to dive into the practical challenges presented in this PowerShell interview scenario. PowerShell is a powerful and versatile tool that can streamline various administrative tasks, and in this post, we&amp;rsquo;ll explore how to tackle the two key scenarios outlined in the provided content.
 Scenario 1: Capitalizing User Names and Assigning Administrator Rights In this scenario, we have a CSV file containing a list of user names that are incorrectly capitalized.</description>
     </item>
     
     <item>
       <title>Getting Started with PowerShell in Visual Studio Code</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_powershell_in_visual_studio_code/</link>
+      <link>https://mangoldai.com/posts/getting_started_with_powershell_in_visual_studio_code/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/getting_started_with_powershell_in_visual_studio_code/</guid>
+      <guid>https://mangoldai.com/posts/getting_started_with_powershell_in_visual_studio_code/</guid>
       <description>Unleashing the Power of PowerShell in Visual Studio Code Visual Studio Code (VS Code) has become a popular code editor for PowerShell developers, offering a comprehensive set of features and tools to streamline your PowerShell workflow. In this comprehensive guide, we&amp;rsquo;ll explore the power of PowerShell within the VS Code environment, covering everything from installation and setup to advanced features and best practices.
 Installing the PowerShell Extension The first step in integrating PowerShell with VS Code is to install the official PowerShell extension.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell Scripts- A Comprehensive Guide to the Windows PowerShell ISE</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</link>
+      <link>https://mangoldai.com/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</guid>
+      <guid>https://mangoldai.com/posts/mastering_powershell_scripts_a_comprehensive_guide_to_the_windows_powershell_ise/</guid>
       <description>Welcome to our comprehensive guide on how to write and run scripts in the Windows PowerShell Integrated Scripting Environment (ISE). Whether you&amp;rsquo;re a seasoned PowerShell user or just starting out, this article will provide you with a deep understanding of the various features and functionalities of the PowerShell ISE.
 Creating and Running Scripts The PowerShell ISE allows you to create, edit, and run Windows PowerShell scripts with ease. You can work with a variety of file types, including script files (.</description>
     </item>
     
     <item>
       <title>Unleashing the Power of PowerShell on Linux- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/unleashing_the_power_of_powershell_on_linux_a_comprehensive_guide/</guid>
       <description>PowerShell, the powerful command-line tool developed by Microsoft, has gained widespread adoption across various operating systems, including Linux. If you&amp;rsquo;re a Linux user looking to harness the capabilities of PowerShell, you&amp;rsquo;ve come to the right place. In this comprehensive guide, we&amp;rsquo;ll explore the supported Linux distributions, installation methods, and community support options to help you seamlessly integrate PowerShell into your Linux workflow.
 Supported Linux Distributions PowerShell can be installed on a variety of Linux distributions, each with its own package manager.</description>
     </item>
     
     <item>
       <title>Mastering PowerShell- Best Practices for Efficient and Maintainable Scripts</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
+      <link>https://mangoldai.com/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
+      <guid>https://mangoldai.com/posts/mastering_powershell_best_practices_for_efficient_and_maintainable_scripts/</guid>
       <description>Mastering PowerShell: Best Practices for Efficient and Maintainable Scripts Navigating the Diverse PowerShell Landscape As you dive into the world of PowerShell scripting, you&amp;rsquo;ll quickly realize that the PowerShell community is a diverse and opinionated one. When scanning through code projects on the PoshCode repository or the Microsoft Learn Code Samples Gallery, you&amp;rsquo;ll encounter a wide range of approaches and perspectives on what constitutes &amp;ldquo;best practices</description>
     </item>
     
     <item>
       <title>Mastering PowerShell Best Practices- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_powershell_best_practices_a_comprehensive_guide/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_powershell_best_practices_a_comprehensive_guide/</guid>
       <description>Mastering PowerShell Best Practices: A Comprehensive Guide Introduction As a seasoned PowerShell practitioner, you&amp;rsquo;ve likely encountered the diverse perspectives and practices within the PowerShell community. From code projects on PoshCode to the Microsoft Learn Code Samples Gallery, it&amp;rsquo;s clear that PowerShell users have a wide range of opinions on what constitutes &amp;ldquo;right and wrong</description>
     </item>
     

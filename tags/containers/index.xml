@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Containers on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/containers/</link>
+    <link>https://mangoldai.com/tags/containers/</link>
     <description>Recent content in Containers on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/containers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure Your Azure Containers with Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/secure_your_azure_containers_with_defender_for_containers/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_azure_containers_with_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/secure_your_azure_containers_with_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is a powerful cloud-native solution that helps organizations improve, monitor, and maintain the security of their containerized assets across multi-cloud and on-premises environments. This comprehensive platform protects Kubernetes clusters, nodes, workloads, container registries, and container images, ensuring the security and resilience of your containerized applications.
 Enabling Defender for Containers To get started with Defender for Containers, you&amp;rsquo;ll need a few prerequisites:
  Azure Subscription: You&amp;rsquo;ll need an active Microsoft Azure subscription.</description>
@@ -20,10 +20,10 @@ Enabling Defender for Containers To get started with Defender for Containers, yo
     
     <item>
       <title>Mastering Azure Security with Microsoft Defender for Cloud- Improve Your Secure Posture</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
+      <link>https://mangoldai.com/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
+      <guid>https://mangoldai.com/posts/mastering_azure_security_with_microsoft_defender_for_cloud_improve_your_secure_posture/</guid>
       <description>Mastering Azure Security with Microsoft Defender for Cloud: Improve Your Secure Posture In this comprehensive article, we&amp;rsquo;ll explore how you can leverage the powerful features of Microsoft Defender for Cloud to enhance the security posture of your Azure environment. By the end of this post, you&amp;rsquo;ll have a deep understanding of how to use vulnerability assessment for virtual machines and containers, automate recommendation workflows, and access your secure score data using Azure Resource Graph (ARG).</description>
     </item>
     

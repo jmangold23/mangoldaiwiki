@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service Tags on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/service-tags/</link>
+    <link>https://mangoldai.com/tags/service-tags/</link>
     <description>Recent content in Service Tags on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/service-tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/service-tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Azure IP Ranges and Service Tags for the Public Cloud</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_azure_ip_ranges_and_service_tags_for_the_public_cloud/</link>
+      <link>https://mangoldai.com/posts/understanding_azure_ip_ranges_and_service_tags_for_the_public_cloud/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/understanding_azure_ip_ranges_and_service_tags_for_the_public_cloud/</guid>
+      <guid>https://mangoldai.com/posts/understanding_azure_ip_ranges_and_service_tags_for_the_public_cloud/</guid>
       <description>The file &amp;lsquo;ServiceTags_Public_20240708.json&amp;rsquo; contains important information about the IP address ranges and service tags for the Microsoft Azure Public Cloud. This comprehensive file is updated weekly and provides the following details:
 IP Address Ranges
  This file includes the IP address ranges for the Azure Public Cloud as a whole, as well as for each individual Azure region within the Public Cloud. The IP address ranges are currently provided only for IPv4, but there are plans to add support for IPv6 in the future.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Module Management on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/module-management/</link>
+    <link>https://mangoldai.com/tags/module-management/</link>
     <description>Recent content in Module Management on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/module-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/module-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering the Microsoft Teams PowerShell Module- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_the_microsoft_teams_powershell_module_a_comprehensive_guide/</guid>
       <description>Mastering the Microsoft Teams PowerShell Module: A Comprehensive Guide Microsoft Teams is a powerful collaboration platform that has become essential for many organizations. To fully harness the capabilities of Teams, administrators and IT professionals can leverage the Microsoft Teams PowerShell module. This comprehensive guide will walk you through the process of installing, configuring, and utilizing the Microsoft Teams PowerShell module to manage your Teams environment effectively.
 Requirements Before getting started, ensure that your system meets the following requirements:</description>
     </item>

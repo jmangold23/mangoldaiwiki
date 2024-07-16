@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Administration on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/administration/</link>
+    <link>https://mangoldai.com/tags/administration/</link>
     <description>Recent content in Administration on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/administration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/administration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Microsoft Teams PowerShell- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/mastering_microsoft_teams_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams has become an essential communication and collaboration platform for organizations of all sizes. To effectively manage and configure Teams at scale, administrators often turn to PowerShell, a powerful scripting language that provides a wide range of tools and cmdlets for automating various tasks. In this comprehensive guide, we&amp;rsquo;ll explore the process of installing and utilizing the Microsoft Teams PowerShell module, equipping you with the knowledge and skills to streamline your Teams management effortlessly.</description>
     </item>
     
     <item>
       <title>Mastering Guest Access in Microsoft 365 Groups</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_guest_access_in_microsoft_365_groups/</link>
+      <link>https://mangoldai.com/posts/mastering_guest_access_in_microsoft_365_groups/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
+      <guid>https://mangoldai.com/posts/mastering_guest_access_in_microsoft_365_groups/</guid>
       <description>Collaboration and information sharing are essential in today&amp;rsquo;s dynamic work environment, and Microsoft 365 groups provide a powerful platform to facilitate these interactions. However, managing guest access to your organization&amp;rsquo;s groups can be a critical consideration, balancing the need for seamless collaboration with the imperative to maintain data security and compliance.
 In this comprehensive guide, we&amp;rsquo;ll explore the best practices for managing guest access in Microsoft 365 groups, empowering you to harness the full potential of this collaborative tool while upholding your organization&amp;rsquo;s security posture.</description>
     </item>
     
     <item>
       <title>Mastering Microsoft Teams with PowerShell</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_with_powershell/</link>
+      <link>https://mangoldai.com/posts/mastering_microsoft_teams_with_powershell/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/mastering_microsoft_teams_with_powershell/</guid>
+      <guid>https://mangoldai.com/posts/mastering_microsoft_teams_with_powershell/</guid>
       <description>Microsoft Teams is a powerful collaboration tool that can greatly enhance productivity and communication within an organization. One of the most effective ways to manage and customize Teams is through the use of PowerShell, a powerful scripting language that allows administrators to automate a wide range of tasks.
 In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can use PowerShell to manage Microsoft Teams, from creating and managing teams and channels to configuring policies and settings.</description>
     </item>
     
     <item>
       <title>Managing Microsoft Teams with PowerShell- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/managing_microsoft_teams_with_powershell_a_comprehensive_guide/</guid>
       <description>Microsoft Teams is a powerful collaboration platform that has become an essential tool for many organizations. As an administrator, managing Teams can be a complex task, but with the help of PowerShell, you can streamline and automate many of the management tasks. In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can use PowerShell to manage your Microsoft Teams environment.
 Creating and Managing Teams with PowerShell The Microsoft Teams PowerShell module provides a set of cmdlets for creating and managing Teams.</description>
     </item>
     
     <item>
       <title>Manage Microsoft Teams with PowerShell</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/manage_microsoft_teams_with_powershell/</link>
+      <link>https://mangoldai.com/posts/manage_microsoft_teams_with_powershell/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/manage_microsoft_teams_with_powershell/</guid>
+      <guid>https://mangoldai.com/posts/manage_microsoft_teams_with_powershell/</guid>
       <description>Manage Microsoft Teams with PowerShell Managing Microsoft Teams can be a complex task, but with the help of PowerShell, you can streamline many of the administrative duties. In this comprehensive guide, we&amp;rsquo;ll explore the various ways you can leverage PowerShell to manage your Microsoft Teams environment effectively.
 Creating and Managing Teams The Microsoft Teams PowerShell module provides a set of cmdlets for creating, managing, and maintaining your Teams. These cmdlets allow you to perform tasks such as:</description>
     </item>
     
     <item>
       <title>Unlocking Collaboration with Microsoft 365 Groups</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_collaboration_with_microsoft_365_groups/</link>
+      <link>https://mangoldai.com/posts/unlocking_collaboration_with_microsoft_365_groups/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_collaboration_with_microsoft_365_groups/</guid>
+      <guid>https://mangoldai.com/posts/unlocking_collaboration_with_microsoft_365_groups/</guid>
       <description>Unlocking Collaboration with Microsoft 365 Groups Microsoft 365 Groups is a powerful collaboration tool that enables teams across your organization to work together more effectively. By creating a Microsoft 365 Group, you can provide a shared set of resources that team members can access and use to drive their projects forward.
 What are Microsoft 365 Groups? Microsoft 365 Groups is the foundational membership service that powers collaboration across the Microsoft 365 suite.</description>
     </item>
     
     <item>
       <title>Installing and Managing the Microsoft Teams PowerShell Module</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/installing_and_managing_the_microsoft_teams_powershell_module/</link>
+      <link>https://mangoldai.com/posts/installing_and_managing_the_microsoft_teams_powershell_module/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/installing_and_managing_the_microsoft_teams_powershell_module/</guid>
+      <guid>https://mangoldai.com/posts/installing_and_managing_the_microsoft_teams_powershell_module/</guid>
       <description>Installing and Managing the Microsoft Teams PowerShell Module Overview The Microsoft Teams PowerShell module provides a powerful set of cmdlets and tools for managing various aspects of Microsoft Teams, including creating and configuring teams, managing users and permissions, and automating Teams-related tasks. In this comprehensive guide, we&amp;rsquo;ll walk through the process of installing the module, signing in, updating, and uninstalling it, as well as explore the next steps for managing Microsoft Teams using PowerShell.</description>
     </item>
     
     <item>
       <title>Managing Microsoft 365 Groups with PowerShell</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</link>
+      <link>https://mangoldai.com/posts/managing_microsoft_365_groups_with_powershell/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/managing_microsoft_365_groups_with_powershell/</guid>
+      <guid>https://mangoldai.com/posts/managing_microsoft_365_groups_with_powershell/</guid>
       <description>As an IT administrator, managing Microsoft 365 Groups can be a crucial task to ensure your organization&amp;rsquo;s collaboration and communication channels are properly set up and secured. This comprehensive guide will walk you through various PowerShell cmdlets and techniques to effectively manage your Microsoft 365 Groups.
 Link to Your Microsoft 365 Groups Usage Guidelines When users create or edit a group in Outlook, you can provide them with a link to your organization&amp;rsquo;s usage guidelines.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>azure arc on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-arc/</link>
+    <link>https://mangoldai.com/tags/azure-arc/</link>
     <description>Recent content in azure arc on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-arc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-arc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maximize Your SQL Server and Windows Server Investments with Azure Hybrid Benefit</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</link>
+      <link>https://mangoldai.com/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</guid>
+      <guid>https://mangoldai.com/posts/maximize_your_sql_server_and_windows_server_investments_with_azure_hybrid_benefit/</guid>
       <description>Azure Hybrid Benefit is a powerful cost-saving program from Microsoft that allows you to get more value from your existing Windows Server, SQL Server, and Linux software investments when migrating to the cloud. By applying your on-premises licenses to Azure, you can save up to 85% over standard pay-as-you-go rates and seamlessly extend your hybrid infrastructure.
 Here&amp;rsquo;s how Azure Hybrid Benefit can benefit your organization:
 1. Save Up to 85% on Azure Costs With Azure Hybrid Benefit, you can use your existing Windows Server and SQL Server licenses to run virtual machines in Azure at a substantially reduced rate.</description>
@@ -20,20 +20,20 @@ Here&amp;rsquo;s how Azure Hybrid Benefit can benefit your organization:
     
     <item>
       <title>Preparing Your Environment for a Hybrid and Multicloud Future with Azure Arc</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
+      <link>https://mangoldai.com/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
+      <guid>https://mangoldai.com/posts/preparing_your_environment_for_a_hybrid_and_multicloud_future_with_azure_arc/</guid>
       <description>The modern business landscape demands flexibility, scalability, and seamless integration across on-premises, edge, and multicloud environments. As organizations navigate this complex landscape, the Cloud Adoption Framework&amp;rsquo;s Ready methodology can be a powerful guide, helping you prepare your environment for a successful hybrid and multicloud strategy.
 At the heart of this approach are Azure landing zones - the building blocks of any Azure cloud adoption environment. These landing zones account for crucial elements like scale, security governance, networking, identity, cost management, and monitoring.</description>
     </item>
     
     <item>
       <title>Secure Your Containers Across Clouds with Microsoft Defender for Containers</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</link>
+      <link>https://mangoldai.com/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</guid>
+      <guid>https://mangoldai.com/posts/secure_your_containers_across_clouds_with_microsoft_defender_for_containers/</guid>
       <description>Microsoft Defender for Containers is the cloud-native solution for securing your containers, whether they&amp;rsquo;re running in Azure Kubernetes Service (AKS), Amazon Elastic Kubernetes Service (EKS), Google Kubernetes Engine (GKE), or on-premises Kubernetes clusters using Azure Arc.
 Defender for Containers provides a comprehensive set of security capabilities to protect your container-based applications, including:
 Cloud Security Posture Management (CSPM):
@@ -42,10 +42,10 @@ Cloud Security Posture Management (CSPM):
     
     <item>
       <title>Preparing Your Environment for Hybrid and Multicloud Scenarios with Azure Arc</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
+      <link>https://mangoldai.com/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
+      <guid>https://mangoldai.com/posts/preparing_your_environment_for_hybrid_and_multicloud_scenarios_with_azure_arc/</guid>
       <description>In today&amp;rsquo;s ever-evolving technology landscape, organizations are increasingly adopting hybrid and multicloud strategies to meet their diverse business needs. The Cloud Adoption Framework&amp;rsquo;s Ready methodology provides a structured approach to prepare your environment for these complex scenarios, with Azure landing zones serving as the building blocks.
 Understanding Hybrid and Multicloud in Azure Landing Zones Azure landing zones are the result of a multi-subscription Azure environment that accounts for scale, security governance, networking, identity, cost management, and monitoring.</description>
     </item>

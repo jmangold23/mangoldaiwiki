@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classic Deployment Model on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/classic-deployment-model/</link>
+    <link>https://mangoldai.com/tags/classic-deployment-model/</link>
     <description>Recent content in Classic Deployment Model on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/classic-deployment-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/classic-deployment-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating IaaS Resources from Classic to Azure Resource Manager- A Technical Deep Dive</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</link>
+      <link>https://mangoldai.com/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</guid>
+      <guid>https://mangoldai.com/posts/migrating_iaas_resources_from_classic_to_azure_resource_manager_a_technical_deep_dive/</guid>
       <description>Migrating IaaS Resources from Classic to Azure Resource Manager: A Technical Deep Dive As the Azure platform continues to evolve, the migration from the classic deployment model to the Azure Resource Manager deployment model has become an important part of managing your cloud infrastructure. This comprehensive guide will take you on a deep dive into the technical aspects of this migration process, helping you understand how the Azure platform translates resources between the two deployment models.</description>
     </item>
     

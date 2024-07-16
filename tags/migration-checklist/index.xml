@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migration Checklist on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/migration-checklist/</link>
+    <link>https://mangoldai.com/tags/migration-checklist/</link>
     <description>Recent content in Migration Checklist on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/migration-checklist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/migration-checklist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlocking the Path to Successful Cloud Migrations with the Migration Execution Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_the_path_to_successful_cloud_migrations_with_the_migration_execution_guide/</link>
+      <link>https://mangoldai.com/posts/unlocking_the_path_to_successful_cloud_migrations_with_the_migration_execution_guide/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/unlocking_the_path_to_successful_cloud_migrations_with_the_migration_execution_guide/</guid>
+      <guid>https://mangoldai.com/posts/unlocking_the_path_to_successful_cloud_migrations_with_the_migration_execution_guide/</guid>
       <description>The migration to the cloud is a critical step in a company&amp;rsquo;s digital transformation journey, but it can also be a complex and daunting process. That&amp;rsquo;s where the Migration Execution Guide (MEG) comes in - a comprehensive resource developed by the FastTrack for Azure team at Microsoft, in collaboration with experts from various engineering and customer success teams.
 The MEG provides prescriptive guidance for structuring and executing a successful migration project.</description>
     </item>

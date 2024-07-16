@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>release on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/release/</link>
+    <link>https://mangoldai.com/tags/release/</link>
     <description>Recent content in release on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/release/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Cloud Adoption Framework- A Comprehensive Guide to Successful Azure Migrations</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</link>
+      <link>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</guid>
+      <guid>https://mangoldai.com/posts/navigating_the_cloud_adoption_framework_a_comprehensive_guide_to_successful_azure_migrations/</guid>
       <description>Migrating workloads to the cloud can be a complex and daunting task, but with the right approach and guidance, it can be a seamless and rewarding experience. The Cloud Adoption Framework for Azure provides a comprehensive methodology to help organizations navigate the migration process and ensure a successful transition to the cloud.
 The framework outlines four key stages in the migration journey: Prepare, Assess, Deploy, and Release. Each stage is designed to address the unique challenges and considerations that arise throughout the migration process.</description>
     </item>

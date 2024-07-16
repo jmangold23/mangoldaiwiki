@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure Monitor on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/azure-monitor/</link>
+    <link>https://mangoldai.com/tags/azure-monitor/</link>
     <description>Recent content in Azure Monitor on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/azure-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/azure-monitor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Azure Monitor Costs- A Comprehensive Guide</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
+      <link>https://mangoldai.com/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
+      <guid>https://mangoldai.com/posts/optimizing_azure_monitor_costs_a_comprehensive_guide/</guid>
       <description>Unlocking Cost-Effective Monitoring with Azure Monitor Azure Monitor is a powerful tool that provides comprehensive observability into your applications, infrastructure, and network. However, with its varied pricing models and features, understanding and optimizing your Azure Monitor costs can be a challenge. In this in-depth guide, we&amp;rsquo;ll explore the different components of Azure Monitor pricing, share strategies to analyze and manage your costs, and provide practical tips to ensure you&amp;rsquo;re getting the most out of your Azure Monitor investment.</description>
     </item>
     

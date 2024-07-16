@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CLI on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/cli/</link>
+    <link>https://mangoldai.com/tags/cli/</link>
     <description>Recent content in CLI on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Set up AutoML for Time-Series Forecasting with SDK and CLI</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/set_up_automl_for_time-series_forecasting_with_sdk_and_cli/</link>
+      <link>https://mangoldai.com/posts/set_up_automl_for_time-series_forecasting_with_sdk_and_cli/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/set_up_automl_for_time-series_forecasting_with_sdk_and_cli/</guid>
+      <guid>https://mangoldai.com/posts/set_up_automl_for_time-series_forecasting_with_sdk_and_cli/</guid>
       <description>In this comprehensive guide, we&amp;rsquo;ll explore how to set up Azure Machine Learning&amp;rsquo;s automated machine learning (AutoML) for time-series forecasting using the Azure Machine Learning Python SDK and CLI. We&amp;rsquo;ll cover everything from preparing your data to orchestrating the entire workflow, including training, inference, and model evaluation.
 Prepare Your Data for Forecasting To start, your input data for AutoML forecasting must contain valid time series in tabular format. Each variable should have its own corresponding column in the data table.</description>
     </item>

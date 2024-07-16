@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>On-Premises on Cloud architect insights :: Joshua Mangold</title>
-    <link>https://jmangold23.github.io/mangoldaiwiki/tags/on-premises/</link>
+    <link>https://mangoldai.com/tags/on-premises/</link>
     <description>Recent content in On-Premises on Cloud architect insights :: Joshua Mangold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jmangold23.github.io/mangoldaiwiki/tags/on-premises/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mangoldai.com/tags/on-premises/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuring a Self-Hosted Integration Runtime for Azure Data Factory and Synapse Analytics</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</link>
+      <link>https://mangoldai.com/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</guid>
+      <guid>https://mangoldai.com/posts/configuring_a_self-hosted_integration_runtime_for_azure_data_factory_and_synapse_analytics/</guid>
       <description>The integration runtime (IR) is the compute infrastructure that Azure Data Factory and Synapse pipelines use to provide data-integration capabilities across different network environments. A self-hosted integration runtime can run copy activities between a cloud data store and a data store in a private network, as well as dispatch transform activities against compute resources in an on-premises network or an Azure virtual network.
 This comprehensive guide covers the key aspects of setting up and managing a self-hosted integration runtime:</description>
     </item>
     
     <item>
       <title>Connecting Your Local Sites to Azure Using Azure Virtual WAN</title>
-      <link>https://jmangold23.github.io/mangoldaiwiki/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</link>
+      <link>https://mangoldai.com/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jmangold23.github.io/mangoldaiwiki/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</guid>
+      <guid>https://mangoldai.com/posts/connecting_your_local_sites_to_azure_using_azure_virtual_wan/</guid>
       <description>Azure Virtual WAN is a networking service that provides a simple, unified, and global connectivity solution for connecting your on-premises sites to Azure. In this comprehensive guide, we&amp;rsquo;ll explore how you can leverage Virtual WAN to establish secure site-to-site VPN connections between your local network and your Azure resources.
 Understanding Azure Virtual WAN Azure Virtual WAN is a fully managed, software-defined wide area network (SD-WAN) service that simplifies the process of connecting your branch offices, retail locations, and other remote sites to the cloud.</description>
     </item>
